@@ -1,0 +1,130 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.0,
+      0.0,
+      1.100000023841858
+    ],
+    "pos": [
+      0.5605989694595337,
+      -4.599999904632568,
+      2.8480000495910645
+    ],
+    "projection": "perspective"
+  },
+  "category": "thermal_conduction",
+  "descriptions": {
+    "counterfactual": "In an accelerated thermal time-lapse, an initially hotter metal block and a colder metal block are brought into face-to-face contact on an insulated table. Identical calibrated probe thermometers are mounted in the blocks: the left needle initially reads hotter than the right.  no heater or external work supplies energy. The hot block gets hotter and the cold block gets colder despite their contact and lack of external energy input. Heat flows from cold to hot while the two-block total thermal energy remains conserved.",
+    "true": "In an accelerated thermal time-lapse, an initially hotter metal block and a colder metal block are brought into face-to-face contact on an insulated table. Identical calibrated probe thermometers are mounted in the blocks: the left needle initially reads hotter than the right.  no heater or external work supplies energy. The hot block cools and the cold block warms as heat flows toward thermal equilibrium, with the two-block total thermal energy conserved."
+  },
+  "evidence_frame": 58,
+  "first_changed_frame": 36,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Workbench analytical replay",
+    "git": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "10140b49ccbdc9ee2fd7aa531c2181566c527e9784c84c4db99a2005cdbea468",
+      "engine/media.py": "46dd6adb824154d94efd1a9d5df6de95e19aab5775450d349ff3598ddbf3da06",
+      "engine/operators.py": "cdbb5fed987c0771c98e4d851de017d4b56e39b0563695740c54eec651bdd02d",
+      "engine/run.py": "aecaba7a220866b8192d0b304d68c274b7490447d8ae2f62493b0c3c6d5a4e51",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "e8b03be42a85fab5822c6521b39d16684b510a5632954691f3e4da2af2ec8261",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/instruments.py": "506904d0b623f32679e81c206ee2a618e3e2fdb873506f1d9edb783535d3813f",
+      "src/phenomenon.py": "2c1520a667bb3ebe0c125ceba40ae5c633fd06be599e0e7189a0fda77c29a815",
+      "src/scaling.py": "c19f5f4c1b28b04e741769ef031207cfe9643f59e2cf7a1e56f6f035adcdb096",
+      "src/violation.py": "26b0be27e04d887ac84ea8eb1cb4dee75f2931b8db1833139730c8a25f4f4467",
+      "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tests/test_physics.py": "5ae0ea34dcf964c49deaed877905c04824cfca722dea01d6c7ff41a428b68ffb",
+      "tests/test_runtime.py": "6d62dd783eb67053472f58284609edda4cbf1ac9d49ba838a209bd2625dfaba6"
+    }
+  },
+  "intervention_frame": 36,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 36,
+  "onset_frame": 36,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_negative_contact_conductance/mask.mp4",
+      "mask_overlay": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+      "prompt": "counterfactual_negative_contact_conductance/prompt.txt",
+      "trajectory": "counterfactual_negative_contact_conductance/trajectory.npz",
+      "video": "counterfactual_negative_contact_conductance/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "thermal_contact_reverse_heat_flow",
+  "phenomenon_data": {
+    "scene_params": {
+      "appearance": 0,
+      "capacity": 946606.5,
+      "cold0": 300.0,
+      "conductance": 139.466691,
+      "gap": 0.3,
+      "gravity": 9.81,
+      "hot0": 390.0,
+      "length": 3.5,
+      "onset": 35,
+      "response": 1.105,
+      "time_scale": 600.0,
+      "view": 8,
+      "width": 0.742
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Does the hot block cool while the cold block warms?",
+        "Does the hot block warm while the cold block cools without external energy?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "The hot block cools and the cold block warms as heat flows toward thermal equilibrium, with the two-block total thermal energy conserved."
+        ],
+        "violation_if_true": [
+          "The hot block gets hotter and the cold block gets colder despite their contact and lack of external energy input. Heat flows from cold to hot while the two-block total thermal energy remains conserved."
+        ]
+      },
+      "violation_types": [
+        "negative_contact_conductance"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Workbench32_RGB_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "thermal_contact_reverse_heat_flow_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "physical_seconds_per_video_second": 600.0,
+    "solver": "analytical",
+    "source_dt": 25.0
+  },
+  "violation_type": "negative_contact_conductance"
+}

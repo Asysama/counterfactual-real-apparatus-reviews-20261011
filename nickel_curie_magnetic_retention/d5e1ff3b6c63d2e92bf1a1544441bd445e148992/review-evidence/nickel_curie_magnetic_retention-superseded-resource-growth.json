@@ -1,0 +1,62 @@
+{
+  "generator_name": "nickel_curie_magnetic_retention",
+  "head_sha": "e96fa0587cef23267b8bf18fea352475cdaf244e",
+  "status": "FAIL",
+  "method": "Independent real-scene construction over three separate cases; no generator patch, no image inference",
+  "measurements": [
+    {
+      "seed": 42,
+      "datablocks": {
+        "meshes": 52,
+        "curves": 0,
+        "materials": 2,
+        "cameras": 2,
+        "lights": 1
+      },
+      "orphans": {
+        "meshes": 1,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 1,
+        "lights": 1
+      },
+      "live_target_count": 43
+    },
+    {
+      "seed": 98,
+      "datablocks": {
+        "meshes": 103,
+        "curves": 0,
+        "materials": 2,
+        "cameras": 3,
+        "lights": 1
+      },
+      "orphans": {
+        "meshes": 52,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 2,
+        "lights": 1
+      },
+      "live_target_count": 43
+    },
+    {
+      "seed": 99999,
+      "datablocks": {
+        "meshes": 154,
+        "curves": 0,
+        "materials": 2,
+        "cameras": 4,
+        "lights": 1
+      },
+      "orphans": {
+        "meshes": 103,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 3,
+        "lights": 1
+      },
+      "live_target_count": 43
+    }
+  ]
+}

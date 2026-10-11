@@ -1,0 +1,58 @@
+[
+  {
+    "generator_name": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031",
+    "frames": [
+      0,
+      33,
+      46,
+      119
+    ]
+  },
+  {
+    "generator_name": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "branch": "counterfactual",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab",
+    "frames": [
+      0,
+      33,
+      46,
+      119
+    ]
+  },
+  {
+    "generator_name": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa",
+    "frames": [
+      0,
+      37,
+      47,
+      119
+    ]
+  },
+  {
+    "generator_name": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "branch": "counterfactual",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c",
+    "frames": [
+      0,
+      37,
+      47,
+      119
+    ]
+  }
+]

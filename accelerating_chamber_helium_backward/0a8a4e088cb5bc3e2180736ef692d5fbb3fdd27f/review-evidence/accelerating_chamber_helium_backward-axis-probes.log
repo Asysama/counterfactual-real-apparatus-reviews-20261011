@@ -1,0 +1,168 @@
+Fra:1 Mem:64.61M (Peak 66.97M) | Time:00:58.16 | Rendering 1 / 32 samples
+Fra:1 Mem:64.61M (Peak 66.97M) | Time:00:58.31 | Rendering 25 / 32 samples
+Fra:1 Mem:64.61M (Peak 66.97M) | Time:00:58.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/baseline-true-35.png'
+Time: 00:58.53 (Saving: 00:00.15)
+
+Fra:1 Mem:65.55M (Peak 66.98M) | Time:00:00.13 | Rendering 1 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.98M) | Time:00:00.32 | Rendering 25 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.98M) | Time:00:00.37 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/baseline-true-90.png'
+Time: 00:00.42 (Saving: 00:00.03)
+
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/baseline-counterfactual-35.png'
+Time: 00:00.39 (Saving: 00:00.03)
+
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.55M (Peak 66.99M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/baseline-counterfactual-90.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.56M (Peak 66.99M) | Time:00:00.11 | Rendering 1 / 32 samples
+Fra:1 Mem:65.56M (Peak 66.99M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.56M (Peak 66.99M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_low-true-35.png'
+Time: 00:00.40 (Saving: 00:00.03)
+
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_low-true-90.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_low-counterfactual-35.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.56M (Peak 67.00M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_low-counterfactual-90.png'
+Time: 00:00.40 (Saving: 00:00.04)
+
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_high-true-35.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_high-true-90.png'
+Time: 00:00.42 (Saving: 00:00.05)
+
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.30 | Rendering 25 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.36 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_high-counterfactual-35.png'
+Time: 00:00.40 (Saving: 00:00.03)
+
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.11 | Rendering 1 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.31 | Rendering 25 / 32 samples
+Fra:1 Mem:65.57M (Peak 67.01M) | Time:00:00.36 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/length_high-counterfactual-90.png'
+Time: 00:00.41 (Saving: 00:00.03)
+
+Fra:1 Mem:65.58M (Peak 67.02M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.58M (Peak 67.02M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.58M (Peak 67.02M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_low-true-35.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.60M (Peak 67.03M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.03M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.03M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_low-true-90.png'
+Time: 00:00.43 (Saving: 00:00.07)
+
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_low-counterfactual-35.png'
+Time: 00:00.40 (Saving: 00:00.04)
+
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.14 | Rendering 1 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.32 | Rendering 25 / 32 samples
+Fra:1 Mem:65.60M (Peak 67.04M) | Time:00:00.39 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_low-counterfactual-90.png'
+Time: 00:00.43 (Saving: 00:00.03)
+
+Fra:1 Mem:65.61M (Peak 67.04M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.04M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.04M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_high-true-35.png'
+Time: 00:00.39 (Saving: 00:00.03)
+
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.29 | Rendering 25 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_high-true-90.png'
+Time: 00:00.39 (Saving: 00:00.03)
+
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.33 | Rendering 25 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.38 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_high-counterfactual-35.png'
+Time: 00:00.45 (Saving: 00:00.05)
+
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.30 | Rendering 25 / 32 samples
+Fra:1 Mem:65.61M (Peak 67.05M) | Time:00:00.35 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/response_high-counterfactual-90.png'
+Time: 00:00.39 (Saving: 00:00.03)
+
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.30 | Rendering 25 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.36 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_low-true-35.png'
+Time: 00:00.40 (Saving: 00:00.03)
+
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.12 | Rendering 1 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.31 | Rendering 25 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.37 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_low-true-90.png'
+Time: 00:00.41 (Saving: 00:00.03)
+
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.33 | Rendering 25 / 32 samples
+Fra:1 Mem:65.62M (Peak 67.06M) | Time:00:00.38 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_low-counterfactual-35.png'
+Time: 00:00.44 (Saving: 00:00.05)
+
+Fra:1 Mem:65.63M (Peak 67.06M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.06M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.06M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_low-counterfactual-90.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.32 | Rendering 25 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.38 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_high-true-35.png'
+Time: 00:00.44 (Saving: 00:00.05)
+
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.63M (Peak 67.07M) | Time:00:00.33 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_high-true-90.png'
+Time: 00:00.37 (Saving: 00:00.03)
+
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.09 | Rendering 1 / 32 samples
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.28 | Rendering 25 / 32 samples
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.34 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_high-counterfactual-35.png'
+Time: 00:00.38 (Saving: 00:00.03)
+
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.10 | Rendering 1 / 32 samples
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.33 | Rendering 25 / 32 samples
+Fra:1 Mem:65.64M (Peak 67.07M) | Time:00:00.38 | Rendering 32 / 32 samples
+Saved: '/opt/siyuan-cf-five/new-20261010/apparatus-20261011-memory/audits-v10/accelerating_chamber_helium_backward-axis-probes/onset_high-counterfactual-90.png'
+Time: 00:00.45 (Saving: 00:00.05)
+

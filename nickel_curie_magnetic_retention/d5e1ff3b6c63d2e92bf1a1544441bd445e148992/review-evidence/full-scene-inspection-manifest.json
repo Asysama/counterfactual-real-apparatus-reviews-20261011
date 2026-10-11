@@ -1,0 +1,58 @@
+[
+  {
+    "generator_name": "nickel_curie_magnetic_retention",
+    "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+    "case_id": "nickel_curie_magnetic_retention_00000042",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "42eded41e9b8e726a415c6455561fc94737e965ffa8a8862f84a9f6953613c62",
+    "frames": [
+      0,
+      33,
+      38,
+      119
+    ]
+  },
+  {
+    "generator_name": "nickel_curie_magnetic_retention",
+    "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+    "case_id": "nickel_curie_magnetic_retention_00000042",
+    "branch": "counterfactual",
+    "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+    "source_sha256": "df4692ce1cd43c66c18a96bfbecd62dc540650913406f071393404e33fd58b73",
+    "frames": [
+      0,
+      33,
+      38,
+      119
+    ]
+  },
+  {
+    "generator_name": "nickel_curie_magnetic_retention",
+    "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+    "case_id": "nickel_curie_magnetic_retention_00000098",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "f4bbe0cb8cc8f875faae08735ba140dd9c7dd64023b8839661548d6ed68a6bb0",
+    "frames": [
+      0,
+      37,
+      42,
+      119
+    ]
+  },
+  {
+    "generator_name": "nickel_curie_magnetic_retention",
+    "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+    "case_id": "nickel_curie_magnetic_retention_00000098",
+    "branch": "counterfactual",
+    "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+    "source_sha256": "5da8c3d9a468ad22b09b1d348e34ce4076fd412e0f86d979bda600e4bb70907c",
+    "frames": [
+      0,
+      37,
+      42,
+      119
+    ]
+  }
+]

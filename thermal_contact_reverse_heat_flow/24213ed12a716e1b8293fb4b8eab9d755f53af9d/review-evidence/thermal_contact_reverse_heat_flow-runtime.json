@@ -1,0 +1,10 @@
+{
+  "schema_version": "counterfactual-runtime-witness-audit-v1",
+  "pass": true,
+  "generator": "thermal_contact_reverse_heat_flow",
+  "case_set": "seeds42,98",
+  "commit": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+  "artifact_count": 79,
+  "accepted_case_count": 2,
+  "failures": []
+}

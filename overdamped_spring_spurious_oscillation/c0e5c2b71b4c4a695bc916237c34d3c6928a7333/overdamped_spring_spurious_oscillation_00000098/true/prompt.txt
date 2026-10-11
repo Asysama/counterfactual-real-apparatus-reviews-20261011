@@ -1,0 +1,1 @@
+A spring-mounted carriage with a calibrated viscous damper rests on horizontal guides, displaced from the marked equilibrium. The apparatus has a fixed calibration with damping greater than critical damping. It is released from rest without any drive. The carriage returns monotonically toward equilibrium without crossing it, as expected for an overdamped system.

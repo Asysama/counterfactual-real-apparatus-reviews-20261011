@@ -1,0 +1,367 @@
+{
+  "status": "PASS",
+  "method": "Independent calibrated-angle projection and red-needle sampling from decoded native video, both branches and temporal landmarks",
+  "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+  "measurements": [
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "nickel",
+      "temperature_K": 598.4283333333333,
+      "expected_angle_deg": 182.35750000000007,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        32,
+        32,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 30,
+      "instrument": "nickel",
+      "temperature_K": 626.0783333333334,
+      "expected_angle_deg": 140.88249999999994,
+      "red_pixels_at_four_expected_needle_locations": [
+        35,
+        35,
+        34,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 32,
+      "instrument": "nickel",
+      "temperature_K": 627.9216666666666,
+      "expected_angle_deg": 138.11750000000006,
+      "red_pixels_at_four_expected_needle_locations": [
+        36,
+        36,
+        35,
+        36
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 38,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        34,
+        33,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        29,
+        29,
+        29,
+        29
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "nickel",
+      "temperature_K": 598.4283333333333,
+      "expected_angle_deg": 182.35750000000007,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        32,
+        32,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 30,
+      "instrument": "nickel",
+      "temperature_K": 626.0783333333334,
+      "expected_angle_deg": 140.88249999999994,
+      "red_pixels_at_four_expected_needle_locations": [
+        35,
+        35,
+        34,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 32,
+      "instrument": "nickel",
+      "temperature_K": 627.9216666666666,
+      "expected_angle_deg": 138.11750000000006,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        33,
+        33,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 38,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        34,
+        33,
+        35
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        35,
+        35,
+        35
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "nickel",
+      "temperature_K": 632.53,
+      "expected_angle_deg": 131.20500000000004,
+      "red_pixels_at_four_expected_needle_locations": [
+        36,
+        35,
+        35,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "nickel",
+      "temperature_K": 581.8791666666667,
+      "expected_angle_deg": 207.18124999999992,
+      "red_pixels_at_four_expected_needle_locations": [
+        32,
+        31,
+        28,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 34,
+      "instrument": "nickel",
+      "temperature_K": 625.7108333333333,
+      "expected_angle_deg": 141.43375000000003,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        34,
+        36,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 36,
+      "instrument": "nickel",
+      "temperature_K": 628.2891666666667,
+      "expected_angle_deg": 137.56624999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        37,
+        33,
+        37,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 42,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        33,
+        34,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        31,
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        31,
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "nickel",
+      "temperature_K": 581.8791666666667,
+      "expected_angle_deg": 207.18124999999992,
+      "red_pixels_at_four_expected_needle_locations": [
+        32,
+        31,
+        28,
+        33
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 34,
+      "instrument": "nickel",
+      "temperature_K": 625.7108333333333,
+      "expected_angle_deg": 141.43375000000003,
+      "red_pixels_at_four_expected_needle_locations": [
+        33,
+        34,
+        36,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 36,
+      "instrument": "nickel",
+      "temperature_K": 628.2891666666667,
+      "expected_angle_deg": 137.56624999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        34,
+        33,
+        35
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 42,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        35,
+        34,
+        35
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    {
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "nickel",
+      "temperature_K": 634.735,
+      "expected_angle_deg": 127.89749999999997,
+      "red_pixels_at_four_expected_needle_locations": [
+        35,
+        34,
+        35,
+        33
+      ]
+    }
+  ]
+}

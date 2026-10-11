@@ -1,0 +1,727 @@
+{
+  "status": "PASS",
+  "method": "Independent calibrated-angle projection and red-needle sampling from decoded native video, both branches and temporal landmarks",
+  "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+  "measurements": [
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        42,
+        41,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        42,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 30,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        42,
+        42,
+        41
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 30,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        44,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 32,
+      "instrument": "hot",
+      "temperature_K": 389.7636230057989,
+      "expected_angle_deg": 28.926462674701384,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        39,
+        37,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 32,
+      "instrument": "cold",
+      "temperature_K": 300.2363769942011,
+      "expected_angle_deg": 138.80081005257136,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 63,
+      "instrument": "hot",
+      "temperature_K": 383.02063947808006,
+      "expected_angle_deg": 37.20194245871994,
+      "red_pixels_at_four_expected_needle_locations": [
+        41,
+        40,
+        42,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 63,
+      "instrument": "cold",
+      "temperature_K": 306.97936052191994,
+      "expected_angle_deg": 130.5253302685528,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        42,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "hot",
+      "temperature_K": 377.9809181530768,
+      "expected_angle_deg": 43.38705499395118,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        39,
+        40,
+        39
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "cold",
+      "temperature_K": 312.0190818469232,
+      "expected_angle_deg": 124.34021773332154,
+      "red_pixels_at_four_expected_needle_locations": [
+        44,
+        43,
+        44,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "hot",
+      "temperature_K": 373.3094543011289,
+      "expected_angle_deg": 49.120215175887274,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        41,
+        39,
+        39
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "cold",
+      "temperature_K": 316.6905456988711,
+      "expected_angle_deg": 118.60705755138545,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        42,
+        41,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        42,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 30,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        42,
+        42,
+        41
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 30,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        44,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 32,
+      "instrument": "hot",
+      "temperature_K": 390.23762519708634,
+      "expected_angle_deg": 28.34473271266674,
+      "red_pixels_at_four_expected_needle_locations": [
+        41,
+        42,
+        42,
+        41
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 32,
+      "instrument": "cold",
+      "temperature_K": 299.76237480291366,
+      "expected_angle_deg": 139.38254001460598,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        42,
+        44,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 63,
+      "instrument": "hot",
+      "temperature_K": 398.2605455299474,
+      "expected_angle_deg": 18.498421395064526,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        39,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 63,
+      "instrument": "cold",
+      "temperature_K": 291.7394544700526,
+      "expected_angle_deg": 149.2288513322082,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "hot",
+      "temperature_K": 406.3991396661917,
+      "expected_angle_deg": 8.510146773310197,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        40,
+        45,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "cold",
+      "temperature_K": 283.6008603338083,
+      "expected_angle_deg": 159.21712595396252,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        43,
+        44,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "hot",
+      "temperature_K": 416.5308736954089,
+      "expected_angle_deg": -3.9242540807290993,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "cold",
+      "temperature_K": 273.4691263045911,
+      "expected_angle_deg": 171.65152680800185,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        41,
+        43,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        42,
+        39,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 0,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        42,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 34,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        39,
+        38,
+        41
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 34,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 36,
+      "instrument": "hot",
+      "temperature_K": 389.669718032219,
+      "expected_angle_deg": 29.041709687731213,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        37,
+        42,
+        37
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 36,
+      "instrument": "cold",
+      "temperature_K": 300.330281967781,
+      "expected_angle_deg": 138.6855630395415,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        45,
+        43,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 58,
+      "instrument": "hot",
+      "temperature_K": 382.9864362962903,
+      "expected_angle_deg": 37.24391909091642,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        40,
+        40,
+        36
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 58,
+      "instrument": "cold",
+      "temperature_K": 307.0135637037097,
+      "expected_angle_deg": 130.4833536363563,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "hot",
+      "temperature_K": 375.00895457938725,
+      "expected_angle_deg": 47.03446483438836,
+      "red_pixels_at_four_expected_needle_locations": [
+        38,
+        38,
+        38,
+        39
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 90,
+      "instrument": "cold",
+      "temperature_K": 314.99104542061275,
+      "expected_angle_deg": 120.69280789288435,
+      "red_pixels_at_four_expected_needle_locations": [
+        44,
+        44,
+        44,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "hot",
+      "temperature_K": 369.2365661277641,
+      "expected_angle_deg": 54.11875975228955,
+      "red_pixels_at_four_expected_needle_locations": [
+        37,
+        41,
+        39,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "true",
+      "frame": 119,
+      "instrument": "cold",
+      "temperature_K": 320.7634338722359,
+      "expected_angle_deg": 113.6085129749832,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        43,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        42,
+        39,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 0,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        42,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 34,
+      "instrument": "hot",
+      "temperature_K": 390.0,
+      "expected_angle_deg": 28.636363636363626,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        39,
+        38,
+        41
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 34,
+      "instrument": "cold",
+      "temperature_K": 300.0,
+      "expected_angle_deg": 139.0909090909091,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 36,
+      "instrument": "hot",
+      "temperature_K": 390.3327240288247,
+      "expected_angle_deg": 28.228020510078778,
+      "red_pixels_at_four_expected_needle_locations": [
+        40,
+        44,
+        42,
+        40
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 36,
+      "instrument": "cold",
+      "temperature_K": 299.6672759711753,
+      "expected_angle_deg": 139.49925221719394,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        43,
+        44
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 58,
+      "instrument": "hot",
+      "temperature_K": 398.30850159791794,
+      "expected_angle_deg": 18.439566220737078,
+      "red_pixels_at_four_expected_needle_locations": [
+        41,
+        41,
+        39,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 58,
+      "instrument": "cold",
+      "temperature_K": 291.69149840208206,
+      "expected_angle_deg": 149.28770650653564,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        43,
+        43
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "hot",
+      "temperature_K": 412.4798582084211,
+      "expected_angle_deg": 1.0474467442104753,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 90,
+      "instrument": "cold",
+      "temperature_K": 277.5201417915789,
+      "expected_angle_deg": 166.67982598306224,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        45,
+        43,
+        45
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "hot",
+      "temperature_K": 428.5514399740098,
+      "expected_angle_deg": -18.676767240830173,
+      "red_pixels_at_four_expected_needle_locations": [
+        43,
+        44,
+        41,
+        42
+      ]
+    },
+    {
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+      "branch": "counterfactual",
+      "frame": 119,
+      "instrument": "cold",
+      "temperature_K": 261.4485600259902,
+      "expected_angle_deg": 186.40403996810292,
+      "red_pixels_at_four_expected_needle_locations": [
+        42,
+        38,
+        42,
+        42
+      ]
+    }
+  ]
+}

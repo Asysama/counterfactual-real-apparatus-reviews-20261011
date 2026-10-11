@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+      "case_id": "accelerating_chamber_helium_backward_00000042",
+      "first_changed_frame": 32,
+      "minimum_target_border_px": 480,
+      "minimum_mask_pixels": 43103,
+      "physical_witnesses": {
+        "correct_equilibrium_angle": 0.32614774115329104,
+        "true_final_angle": 0.3256993543219209,
+        "cf_final_angle": -0.3256993543219209,
+        "tether_length": 1.525,
+        "evidence_frame": 46
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+      "case_id": "accelerating_chamber_helium_backward_00000098",
+      "first_changed_frame": 36,
+      "minimum_target_border_px": 553,
+      "minimum_mask_pixels": 39860,
+      "physical_witnesses": {
+        "correct_equilibrium_angle": 0.44188772018157724,
+        "true_final_angle": 0.44132484733810495,
+        "cf_final_angle": -0.44132484733810495,
+        "tether_length": 1.375,
+        "evidence_frame": 47
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "formal_streams": 8,
+  "visual_and_browser_pending": true
+}

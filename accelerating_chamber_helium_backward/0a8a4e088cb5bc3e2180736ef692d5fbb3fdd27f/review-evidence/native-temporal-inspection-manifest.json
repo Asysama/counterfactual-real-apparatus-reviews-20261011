@@ -1,0 +1,362 @@
+[
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031",
+    "frame": 45,
+    "crop": [
+      1040,
+      486,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/true-45-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031",
+    "frame": 46,
+    "crop": [
+      1052,
+      488,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/true-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031",
+    "frame": 47,
+    "crop": [
+      1064,
+      490,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/true-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab",
+    "frame": 45,
+    "crop": [
+      749,
+      492,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/counterfactual-45-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab",
+    "frame": 46,
+    "crop": [
+      737,
+      494,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/counterfactual-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab",
+    "frame": 47,
+    "crop": [
+      725,
+      497,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/counterfactual-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2",
+    "frame": 45,
+    "crop": [
+      749,
+      492,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/mask-45-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2",
+    "frame": 46,
+    "crop": [
+      737,
+      494,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/mask-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2",
+    "frame": 47,
+    "crop": [
+      725,
+      497,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/mask-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1",
+    "frame": 45,
+    "crop": [
+      749,
+      492,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/overlay-45-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1",
+    "frame": 46,
+    "crop": [
+      737,
+      494,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/overlay-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000042",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1",
+    "frame": 47,
+    "crop": [
+      725,
+      497,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/overlay-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa",
+    "frame": 46,
+    "crop": [
+      1039,
+      565,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/true-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa",
+    "frame": 47,
+    "crop": [
+      1056,
+      569,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/true-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa",
+    "frame": 48,
+    "crop": [
+      1072,
+      573,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/true-48-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c",
+    "frame": 46,
+    "crop": [
+      754,
+      557,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/counterfactual-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c",
+    "frame": 47,
+    "crop": [
+      737,
+      560,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/counterfactual-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4",
+    "source_sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c",
+    "frame": 48,
+    "crop": [
+      721,
+      563,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/counterfactual-48-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1",
+    "frame": 46,
+    "crop": [
+      754,
+      557,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/mask-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1",
+    "frame": 47,
+    "crop": [
+      737,
+      560,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/mask-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+    "source_sha256": "0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1",
+    "frame": 48,
+    "crop": [
+      721,
+      563,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/mask-48-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea",
+    "frame": 46,
+    "crop": [
+      754,
+      557,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/overlay-46-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea",
+    "frame": 47,
+    "crop": [
+      737,
+      560,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/overlay-47-native-crop.png"
+  },
+  {
+    "generator": "accelerating_chamber_helium_backward",
+    "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "case_id": "accelerating_chamber_helium_backward_00000098",
+    "source": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+    "source_sha256": "17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea",
+    "frame": 48,
+    "crop": [
+      721,
+      563,
+      256,
+      256
+    ],
+    "inspection_png": "accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/overlay-48-native-crop.png"
+  }
+]

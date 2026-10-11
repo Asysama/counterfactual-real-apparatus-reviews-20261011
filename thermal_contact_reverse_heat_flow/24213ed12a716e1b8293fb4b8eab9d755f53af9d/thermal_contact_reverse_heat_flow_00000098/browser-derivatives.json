@@ -1,0 +1,15 @@
+{
+  "codec": "H264/yuv420p",
+  "files": {
+    "counterfactual_negative_contact_conductance/mask_browser.mp4": "e32044e45b5e8087bd4e1b27267247bdf149af71891c734891edf0ad4e3cbe16",
+    "counterfactual_negative_contact_conductance/mask_overlay_browser.mp4": "e3a51c385ca950d5a336784b564062b310e88bc78deb05583815a2429680cf97",
+    "counterfactual_negative_contact_conductance/video_browser.mp4": "ef0aadb518eb6f1557a2901bd7110893644ac34b2e005c8cd0fb29a6fe73adba",
+    "true/video_browser.mp4": "ceb46d6e4fe6bb25756beaeee7fbbe07b2668d6439d6cc696c34583812af86bc"
+  },
+  "formal_pixel_audit": false,
+  "lossy": true,
+  "resolution": [
+    1024,
+    1024
+  ]
+}

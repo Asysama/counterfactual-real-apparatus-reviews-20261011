@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "c0e5c2b71b4c4a695bc916237c34d3c6928a7333",
+      "case_id": "overdamped_spring_spurious_oscillation_00000042",
+      "first_changed_frame": 32,
+      "minimum_target_border_px": 703,
+      "minimum_mask_pixels": 30617,
+      "physical_witnesses": {
+        "critical_ratio": 1.3277777777777777,
+        "cf_zero_crossing_frames": [
+          38,
+          52,
+          65,
+          79,
+          93,
+          107
+        ],
+        "true_final_displacement": 8.310218497188277e-05,
+        "energy_never_grows": true,
+        "release_pin_clearance_m": 0.01749999999999996,
+        "evidence_frame": 39
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "c0e5c2b71b4c4a695bc916237c34d3c6928a7333",
+      "case_id": "overdamped_spring_spurious_oscillation_00000098",
+      "first_changed_frame": 36,
+      "minimum_target_border_px": 708,
+      "minimum_mask_pixels": 31077,
+      "physical_witnesses": {
+        "critical_ratio": 1.5999999999999999,
+        "cf_zero_crossing_frames": [
+          42,
+          56,
+          69,
+          83,
+          97,
+          111
+        ],
+        "true_final_displacement": 0.0006419820240302801,
+        "energy_never_grows": true,
+        "release_pin_clearance_m": 0.01749999999999996,
+        "evidence_frame": 43
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "formal_streams": 8,
+  "visual_and_browser_pending": true
+}

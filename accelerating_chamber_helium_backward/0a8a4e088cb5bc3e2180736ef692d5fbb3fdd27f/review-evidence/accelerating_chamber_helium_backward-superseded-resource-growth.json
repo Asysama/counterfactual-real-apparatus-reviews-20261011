@@ -1,0 +1,62 @@
+{
+  "generator_name": "accelerating_chamber_helium_backward",
+  "head_sha": "69ef357e72b7684a94bfea16a3a482fb071f5301",
+  "status": "FAIL",
+  "method": "Independent real-scene construction over three separate cases; no generator patch, no image inference",
+  "measurements": [
+    {
+      "seed": 42,
+      "datablocks": {
+        "meshes": 85,
+        "curves": 0,
+        "materials": 86,
+        "cameras": 2,
+        "lights": 4
+      },
+      "orphans": {
+        "meshes": 1,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 1,
+        "lights": 1
+      },
+      "live_target_count": 3
+    },
+    {
+      "seed": 98,
+      "datablocks": {
+        "meshes": 169,
+        "curves": 0,
+        "materials": 170,
+        "cameras": 3,
+        "lights": 7
+      },
+      "orphans": {
+        "meshes": 85,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 2,
+        "lights": 4
+      },
+      "live_target_count": 3
+    },
+    {
+      "seed": 99999,
+      "datablocks": {
+        "meshes": 253,
+        "curves": 0,
+        "materials": 254,
+        "cameras": 4,
+        "lights": 10
+      },
+      "orphans": {
+        "meshes": 169,
+        "curves": 0,
+        "materials": 1,
+        "cameras": 3,
+        "lights": 7
+      },
+      "live_target_count": 3
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.0,
+      0.0,
+      1.350000023841858
+    ],
+    "pos": [
+      0.6824682950973511,
+      -5.599999904632568,
+      3.4780001640319824
+    ],
+    "projection": "perspective"
+  },
+  "category": "gas_inertial_buoyancy",
+  "descriptions": {
+    "counterfactual": "A helium balloon is tied to the floor of a sealed, air-filled transparent chamber on a wheeled cart. The cart begins accelerating to the right along the marked ground; the view follows it. The helium balloon tilts backward to the left under the rightward cart acceleration, reversing the horizontal buoyancy response, then settles while remaining tethered.",
+    "true": "A helium balloon is tied to the floor of a sealed, air-filled transparent chamber on a wheeled cart. The cart begins accelerating to the right along the marked ground; the view follows it. The lighter helium balloon tilts forward to the right as the surrounding air establishes the accelerating-frame pressure gradient, then settles while remaining tethered."
+  },
+  "evidence_frame": 47,
+  "first_changed_frame": 36,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Eevee analytical replay; Workbench mask",
+    "git": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "880a72338aaad686fd8d2c58a88c7d94f8959d041f04d190b8873fbdba54dd51",
+      "engine/media.py": "46dd6adb824154d94efd1a9d5df6de95e19aab5775450d349ff3598ddbf3da06",
+      "engine/operators.py": "cdbb5fed987c0771c98e4d851de017d4b56e39b0563695740c54eec651bdd02d",
+      "engine/run.py": "3a2032a8692c1f8dc4d7acead034503604354640d65b91af089b8e5c425b39a0",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "e8b03be42a85fab5822c6521b39d16684b510a5632954691f3e4da2af2ec8261",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/phenomenon.py": "52336bd7844d7bace64a02cc489f98dc238f0ed60d4fdc2e8c4c5d05f2f5922f",
+      "src/scaling.py": "c19f5f4c1b28b04e741769ef031207cfe9643f59e2cf7a1e56f6f035adcdb096",
+      "src/violation.py": "d0dc32af930b0f17a25cf71989fef35eaea12b6c7f4af22e105cc088404db20c",
+      "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tests/test_physics.py": "ae473c6bd31c8f3a5aedcb07b6ac3193160a44c30b8dd13ab4bc503093c79bea",
+      "tests/test_runtime.py": "6d62dd783eb67053472f58284609edda4cbf1ac9d49ba838a209bd2625dfaba6"
+    }
+  },
+  "intervention_frame": 36,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 36,
+  "onset_frame": 36,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4",
+      "mask_overlay": "counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4",
+      "prompt": "counterfactual_horizontal_buoyancy_gradient_sign_flip/prompt.txt",
+      "trajectory": "counterfactual_horizontal_buoyancy_gradient_sign_flip/trajectory.npz",
+      "video": "counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "accelerating_chamber_helium_backward",
+  "phenomenon_data": {
+    "scene_params": {
+      "acceleration": 4.641,
+      "added_mass": 0.030766557491333238,
+      "air_density": 1.225,
+      "appearance": 0,
+      "buoyant_mass": 0.049295212242129904,
+      "center_length": 1.6326,
+      "damping": 0.72,
+      "gravity": 9.81,
+      "helium_density": 0.164,
+      "length": 3.5,
+      "mass": 0.012237902740536573,
+      "omega": 2.760380714530997,
+      "onset": 35,
+      "radius": 0.23,
+      "response": 1.105,
+      "tether_length": 1.375,
+      "view": 8,
+      "volume": 0.050231114271564466
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Does the helium balloon lean in the direction of cart acceleration?",
+        "Does the helium balloon lean opposite the cart acceleration?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "The lighter helium balloon tilts forward to the right as the surrounding air establishes the accelerating-frame pressure gradient, then settles while remaining tethered."
+        ],
+        "violation_if_true": [
+          "The helium balloon tilts backward to the left under the rightward cart acceleration, reversing the horizontal buoyancy response, then settles while remaining tethered."
+        ]
+      },
+      "violation_types": [
+        "horizontal_buoyancy_gradient_sign_flip"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Eevee32_RGB_Workbench_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "accelerating_chamber_helium_backward_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "physical_seconds_per_video_second": 1.0,
+    "solver": "analytical",
+    "source_dt": 0.041666666666666664
+  },
+  "violation_type": "horizontal_buoyancy_gradient_sign_flip"
+}

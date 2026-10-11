@@ -1,0 +1,285 @@
+{
+  "generator": "accelerating_chamber_helium_backward",
+  "commit": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  3 2026, 01:05:36) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    512,
+    512
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.525,
+        "radius": 0.23,
+        "acceleration": 3.3179999999999996,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.5805552331975594,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.7826
+      },
+      "images": {
+        "baseline-true-35.png": "d71e13cb1e4f101fa663a742b781f6e4ffba6fb22e274af3c2347b154787976b",
+        "baseline-true-90.png": "92b99b16bd6e3a7dea4b5a72219c03df2cf61a782c3fae0bdc4408495b1397eb",
+        "baseline-counterfactual-35.png": "232a3b2d7e5bb294c5d8e9cfe77a33766604366f0bd63759e1f6052f1e64ab4c",
+        "baseline-counterfactual-90.png": "6c69396b56251a79ad7c38312a39a0d782373ac0483be73252977dea14313a2d"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 3.4,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.35,
+        "radius": 0.23,
+        "acceleration": 3.3179999999999996,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.7173846092288816,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.6076000000000001
+      },
+      "images": {
+        "length_low-true-35.png": "b22018659f0addda097919248f008dca5a9e86e3cf65116bc008e6e85f713d46",
+        "length_low-true-90.png": "ffe9841537558af82bb75d1a00ea4c7be5f1215af5b75760664086257c8a8342",
+        "length_low-counterfactual-35.png": "d622d16cb128d2ef475ba744dc00dfb3c8647db705588a5957bb2b3ee0faf4bd",
+        "length_low-counterfactual-90.png": "de22765b14481bec4d6c2699bf4894594875712bb31debe74ced5dd51b7d9e4f"
+      },
+      "metrics": {
+        "true-35": 0.5971145629882812,
+        "true-90": 0.5876604715983073,
+        "counterfactual-35": 0.6004905700683594,
+        "counterfactual-90": 0.5601348876953125
+      },
+      "changed_pixels": {
+        "true-35": 32775,
+        "true-90": 36429,
+        "counterfactual-35": 32441,
+        "counterfactual-90": 25722
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 4.3,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.5750000000000002,
+        "radius": 0.23,
+        "acceleration": 3.3179999999999996,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.5451083099355225,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.8326000000000002
+      },
+      "images": {
+        "length_high-true-35.png": "8a553e2ba7d40d99a23cb29c1d7eafee5d044099f5cfddf5e0d334dc02d10b8d",
+        "length_high-true-90.png": "8aa856584861f584f4ee9f2ca2e944adef4bb059446085e633cafcb7c29d63da",
+        "length_high-counterfactual-35.png": "4378f30230bbf72d18eb9f6228a6980ac86c512b896a796107a3b8c8dcaa1bab",
+        "length_high-counterfactual-90.png": "acbced983bed8faab3c19ff9abe3674daff7d4c65344638e02578e349b69f829"
+      },
+      "metrics": {
+        "true-35": 0.230987548828125,
+        "true-90": 0.2254155476888021,
+        "counterfactual-35": 0.23128128051757812,
+        "counterfactual-90": 0.21771367390950522
+      },
+      "changed_pixels": {
+        "true-35": 18261,
+        "true-90": 18407,
+        "counterfactual-35": 17701,
+        "counterfactual-90": 13282
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.525,
+        "radius": 0.23,
+        "acceleration": 2.94,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.5662060700701934,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.7826
+      },
+      "images": {
+        "response_low-true-35.png": "9f2745977ab4187a63cb1f66c8fa215ada641ce822f73ca62b5f8aa32a44077e",
+        "response_low-true-90.png": "3e576aebafd60e736419b25c5743e755360fdf3f210b96e2d65ec525599aed73",
+        "response_low-counterfactual-35.png": "a112c62857df3e498d54582bfab66752feab16d7d8ba365f5a0476c0f1989dce",
+        "response_low-counterfactual-90.png": "75fc051fd6ef0b151af60bffc585908684f8e6e667895c6168d3352f8b800aad"
+      },
+      "metrics": {
+        "true-35": 0.10686238606770833,
+        "true-90": 1.3964474995930989,
+        "counterfactual-35": 0.10802205403645833,
+        "counterfactual-90": 1.4361724853515625
+      },
+      "changed_pixels": {
+        "true-35": 10577,
+        "true-90": 42433,
+        "counterfactual-35": 10700,
+        "counterfactual-90": 38095
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 1.105,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.525,
+        "radius": 0.23,
+        "acceleration": 4.641,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.6416904703798667,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.7826
+      },
+      "images": {
+        "response_high-true-35.png": "3436cee9deecc8038d55ff0dd38514139fe7186e8f30dd5af03e866c2941b4b4",
+        "response_high-true-90.png": "fd812a8fbff552cfbb4560dab8643f2d9911d70b24ff4a56891ca38de05914fe",
+        "response_high-counterfactual-35.png": "8c16a6268a9a0d2775f95c5d05405a925b72071db91706c4f0b799db7889f1c6",
+        "response_high-counterfactual-90.png": "095b1da5b111a8ad0c3a7e2af5fb23201bdaeabfb5d5c35d2029198da85055c4"
+      },
+      "metrics": {
+        "true-35": 0.36626942952473956,
+        "true-90": 1.7339197794596355,
+        "counterfactual-35": 0.36819712320963544,
+        "counterfactual-90": 1.8305740356445312
+      },
+      "changed_pixels": {
+        "true-35": 20228,
+        "true-90": 59426,
+        "counterfactual-35": 20103,
+        "counterfactual-90": 48152
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 28,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.525,
+        "radius": 0.23,
+        "acceleration": 3.3179999999999996,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.5805552331975594,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.7826
+      },
+      "images": {
+        "onset_low-true-35.png": "0d4a37233e367a413be65e06619ffa37dc613313d3ed3e4cffc3461d7e832175",
+        "onset_low-true-90.png": "487e21d22a3ef663d9b251fbc1b21f19bff17dabd9404cdf21502aa7f4bc8c00",
+        "onset_low-counterfactual-35.png": "b6aa0ab3438c55655d9d684637481785696e645358152e9e91f54727a253a46c",
+        "onset_low-counterfactual-90.png": "40b4029c987f62fd574dd9e4d31960b955250fcd3fdfa2374cb6fb3a5582f105"
+      },
+      "metrics": {
+        "true-35": 1.4793752034505208,
+        "true-90": 1.0696055094401042,
+        "counterfactual-35": 1.4875475565592449,
+        "counterfactual-90": 1.0708669026692708
+      },
+      "changed_pixels": {
+        "true-35": 41934,
+        "true-90": 19224,
+        "counterfactual-35": 40969,
+        "counterfactual-90": 19288
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 37,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "tether_length": 1.525,
+        "radius": 0.23,
+        "acceleration": 3.3179999999999996,
+        "damping": 0.72,
+        "buoyant_mass": 0.049295212242129904,
+        "omega": 2.5805552331975594,
+        "air_density": 1.225,
+        "helium_density": 0.164,
+        "volume": 0.050231114271564466,
+        "mass": 0.012237902740536573,
+        "added_mass": 0.030766557491333238,
+        "center_length": 1.7826
+      },
+      "images": {
+        "onset_high-true-35.png": "a01ec4c63a37a7a3af4aa461ad37b3edde45b4edb1c1705d8ae499a2d0b6a6f0",
+        "onset_high-true-90.png": "c5a136de97abe04b184053e9faa24c242510a2dfa0d934f46b320e7d02eb7ad9",
+        "onset_high-counterfactual-35.png": "865a4e3b6f8d193fe567a63c236009063996791ea4d5c49e9dcaf525e42551a1",
+        "onset_high-counterfactual-90.png": "c1123c638d81d3f94fa9815ebbb7f89a92b2d007946ab1c45f3c7735c14a7541"
+      },
+      "metrics": {
+        "true-35": 0.8694572448730469,
+        "true-90": 0.23191070556640625,
+        "counterfactual-35": 0.8706703186035156,
+        "counterfactual-90": 0.23731231689453125
+      },
+      "changed_pixels": {
+        "true-35": 32231,
+        "true-90": 12897,
+        "counterfactual-35": 31981,
+        "counterfactual-90": 12638
+      }
+    }
+  }
+}
