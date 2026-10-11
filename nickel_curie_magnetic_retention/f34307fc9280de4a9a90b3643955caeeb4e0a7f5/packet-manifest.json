@@ -6,6 +6,10 @@
       "bytes": 310,
       "sha256": "5d348f0a61ae9e2ed6964b159a86bd1611be4567c0a6297b54a6ef4dc037cc84"
     },
+    "application.json": {
+      "bytes": 693,
+      "sha256": "bbd2a1c1166f9555e4ddf159a947b4b3f5aca8840d364171b1da9839c49e8ed1"
+    },
     "expected-case-ids.json": {
       "bytes": 95,
       "sha256": "4610d710325697e75f9a5324b02cfa7b672318780e88c46eec0df1b023c890cc"
@@ -15,8 +19,8 @@
       "sha256": "5e5b4272aa82eca374073d8c7b2cf2af76129a82ed4486707ca750ef2a2cf1fd"
     },
     "index.html": {
-      "bytes": 15970,
-      "sha256": "b642075cb480eecbbd506c239bbd54deeb64a13c4166189723b11151c863e243"
+      "bytes": 17145,
+      "sha256": "1d5c26c1127d08ecc48e375a0f47a28877324ffc660aaef888079a8dfe4b711c"
     },
     "nickel_curie_magnetic_retention_00000042/browser-derivatives.json": {
       "bytes": 688,
@@ -293,6 +297,10 @@
     "production-header.json": {
       "bytes": 2414,
       "sha256": "c5fc802b2f88aa8df6efea22dd917bb8c38b9d52ad2d8495a96dad3c33cee4d1"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3075,
+      "sha256": "06aa628cc2d2d7503f88a8e4705204a8274a3f71191d3a289f148a7954c5337d"
     },
     "review-evidence/both-seeds-full-scene-inspection.jpg": {
       "bytes": 296636,
@@ -826,9 +834,17 @@
       "bytes": 98,
       "sha256": "cbae53039f30a697d3468a60102bfc33a096fbf8110b4c79dcbbf53e5e7e8806"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 1855,
+      "sha256": "f1c1f8d2e00870a4d2c52ab56cd312285361bd38c1f716575b1d3f67be30b6b0"
+    },
     "review.json": {
-      "bytes": 636,
-      "sha256": "866d774dcf642a5d6a53c2557c76cecdc6caf0cfa03e9ebc0165086811d016c1"
+      "bytes": 610,
+      "sha256": "3a687bdc2e6bd957e97dbf2e7d4553a81775b2f5b930c2fcbd4fda77eedba422"
+    },
+    "review.md": {
+      "bytes": 14971,
+      "sha256": "f797f8c911f6e4c59316edde72dff144d6020bf63713653e5e5fe2d65220b059"
     },
     "runtime-witness-index.json": {
       "bytes": 1170,

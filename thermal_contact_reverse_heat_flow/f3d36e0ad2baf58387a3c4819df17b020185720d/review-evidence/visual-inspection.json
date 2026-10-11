@@ -1,0 +1,32 @@
+{
+  "head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d",
+  "pass": true,
+  "method": "Manual inspection of current-head native decoded both-seed True/CF contact sheets, three rendered physical/event axes, all digital readout montages and evidence +/-1 native mask/red-overlay crops; actual browser inspection recorded separately.",
+  "observations": "Two integral physical digital screens readable, including blank leading positions and negative temperatures. True temperatures converge, CF separate; blocks remain in contact, constant appearance; mask covers blocks and integral probes, excludes table/background.",
+  "files": [
+    {
+      "path": "digital-inspection-final/thermal_contact_reverse_heat_flow-both-seeds.jpg",
+      "sha256": "2c57536de65ea22a9e05e8ad448f42b86a77f77bb5b150639b55bb1196e8649a"
+    },
+    {
+      "path": "backups/digital-scale-inspection/thermal_contact_reverse_heat_flow.jpg",
+      "sha256": "149d75070905413042647fe7ecac5c1632417c43cea9d63db440e2186dbf6945"
+    },
+    {
+      "path": "backups/digital-readout-inspection/thermal_contact_reverse_heat_flow/42-native-readouts.jpg",
+      "sha256": "4169f8b9e3114eb9ea24e665814dbaee0b35783a5d18e03d95001392ecdc86e7"
+    },
+    {
+      "path": "backups/digital-readout-inspection/thermal_contact_reverse_heat_flow/98-native-readouts.jpg",
+      "sha256": "6543b82b4766f58839aef983f5740d1b976bc1123ff9d48de10792c7ff860311"
+    },
+    {
+      "path": "backups/digital-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/native-temporal-crops.png",
+      "sha256": "26963c89c6c17c15e8c18ed7dbb986cd5d7fe352d915637e198ca9101843ba71"
+    },
+    {
+      "path": "backups/digital-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/native-temporal-crops.png",
+      "sha256": "f7d74d8a71a3a785b0f464b263a6d8db923b9ffe143d0e11ce2c8682d3572c0d"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d",
+  "pass": true,
+  "browser": "User Chrome, selected browser 1",
+  "method": "Actual UI play-all to end, evidence/last/start buttons; all four visible rows inspected for both seeds, True/CF, white-on-black masks and red overlays. Recorded from read-only DOM receipts returned by CUA.",
+  "visual_inspection": "All eight streams display coherent colors, large integer Celsius screens, white-on-black masks and red-only target overlays; no blank/green/magenta frames or decode errors.",
+  "streams": [
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000042-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000042-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000042-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000042-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000098-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.416666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000098-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.416666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000098-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.416666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "thermal_contact_reverse_heat_flow_00000098-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 2.416666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    }
+  ]
+}

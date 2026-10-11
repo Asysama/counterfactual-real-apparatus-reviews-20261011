@@ -6,6 +6,10 @@
       "bytes": 314,
       "sha256": "bf8f06ed4986553b2c981f9c07c5d4db7002032da6d751ee23b5be8e8499b00e"
     },
+    "application.json": {
+      "bytes": 697,
+      "sha256": "0a8fc6876a67b61f951df425c5b4ba2c366776274da7b43b9d694f039cafc6f0"
+    },
     "expected-case-ids.json": {
       "bytes": 99,
       "sha256": "9621cc51e7f4d047cdd1401a5ceb1aa0c1ada5d5fafee71551980e19941be366"
@@ -15,12 +19,16 @@
       "sha256": "1e2578f886ea9eecdb6b66749bdcd1857eb57a68c212c819c22f2264847c0e11"
     },
     "index.html": {
-      "bytes": 16062,
-      "sha256": "fca4999048559a49ad99b5908842b67cd8731d7087ecef842f411863afa307a5"
+      "bytes": 17241,
+      "sha256": "99eaa4d5d624fc7897e2a4d69158d63ebb87f093eb9bef7ea0e8b0f7ff36ac8c"
     },
     "production-header.json": {
       "bytes": 2416,
       "sha256": "54154270a2beac6526389b50c83376bb6e3dd3f43f02b9a5c912362a58d66db3"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3095,
+      "sha256": "7da50d672db5643a4fd6aa472e8bad02bae9527c906be753bcdfc207b38023bc"
     },
     "review-evidence/both-seeds-full-scene-inspection.jpg": {
       "bytes": 296744,
@@ -578,9 +586,17 @@
       "bytes": 98,
       "sha256": "c67f4e892321bb271ca423d4530650440daca1dd24cd00bcc44e4ea673656782"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 1914,
+      "sha256": "63d5113bdb3d9d624412719e734b08c004685366d921794d6441f6783a2da53c"
+    },
     "review.json": {
-      "bytes": 638,
-      "sha256": "a6b44a45ec128354d17612897b1337805519a764966b4246f37ee2c643f58a2f"
+      "bytes": 612,
+      "sha256": "ed942811eb01dc07ad17878b893ca64f32a3ba7413c110fa2cb19a6ebbd2200c"
+    },
+    "review.md": {
+      "bytes": 15335,
+      "sha256": "963cd6fa41edd9b9f92d470ddead59773d96f7952d9476fe503942ac164bbfc5"
     },
     "runtime-witness-index.json": {
       "bytes": 1180,

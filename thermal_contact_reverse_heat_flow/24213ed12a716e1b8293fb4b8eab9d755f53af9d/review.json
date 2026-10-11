@@ -17,5 +17,7 @@
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/24213ed12a716e1b8293fb4b8eab9d755f53af9d/index.html",
   "self_check_complete": false,
   "historical_decision": "PASS",
-  "candidate_status": "DIGITAL_REVISION_REQUESTED"
+  "candidate_status": "SUPERSEDED",
+  "current_review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/f3d36e0ad2baf58387a3c4819df17b020185720d/index.html",
+  "superseded_by_head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d"
 }

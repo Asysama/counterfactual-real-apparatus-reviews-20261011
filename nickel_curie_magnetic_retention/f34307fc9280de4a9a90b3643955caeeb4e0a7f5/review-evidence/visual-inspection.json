@@ -1,0 +1,32 @@
+{
+  "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+  "pass": true,
+  "method": "Manual inspection of current-head native decoded both-seed True/CF contact sheets, three rendered physical/event axes, all digital readout montages and evidence +/-1 native mask/red-overlay crops; actual browser inspection recorded separately.",
+  "observations": "Fixed stand-mounted instrument remains in place; only nickel falls onto plate in True; CF remains magnetically held. Large Celsius readings match native digit audit; no floating labels; mask excludes instrument/supports.",
+  "files": [
+    {
+      "path": "digital-inspection-final/nickel_curie_magnetic_retention-both-seeds.jpg",
+      "sha256": "6c0fc0f5414cd9415872682544e5c8da3e9622e1bb43d884ca403ca9c0182054"
+    },
+    {
+      "path": "backups/digital-scale-inspection/nickel_curie_magnetic_retention.jpg",
+      "sha256": "cd8ff3260197235a82026ff5a2f1c99c3f23b3fd732f2357f4ba34f3be306644"
+    },
+    {
+      "path": "backups/digital-readout-inspection/nickel_curie_magnetic_retention/42-native-readouts.jpg",
+      "sha256": "6f09ff5c5417f1795baa7788e7ff454a1d9be60c85fa701560e0fd731e053ee1"
+    },
+    {
+      "path": "backups/digital-readout-inspection/nickel_curie_magnetic_retention/98-native-readouts.jpg",
+      "sha256": "725066f97faefb7b78e998e50434092617709f88cce2abf1eefc2a435a8140a6"
+    },
+    {
+      "path": "backups/digital-edge-inspection/nickel_curie_magnetic_retention/nickel_curie_magnetic_retention_00000042/native-temporal-crops.png",
+      "sha256": "d00dcd652c809e62f8e1ae23d04bd60439c5241eeac3dbd993ada6106930b36a"
+    },
+    {
+      "path": "backups/digital-edge-inspection/nickel_curie_magnetic_retention/nickel_curie_magnetic_retention_00000098/native-temporal-crops.png",
+      "sha256": "282f0edcbf2c2e787158bb1441f78d42414c52c0f998a4df8ba9ef2a0a99aa55"
+    }
+  ]
+}
