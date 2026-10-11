@@ -1,0 +1,15 @@
+{
+  "codec": "H264/yuv420p",
+  "files": {
+    "counterfactual_retained_ferromagnetic_force_above_curie/mask_browser.mp4": "138880dd7a2a2299620674f3549993b9198cfd4989942a79ec63d67b067bf412",
+    "counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay_browser.mp4": "5c1d32af17418817351a9e65b9a07933fca1bc7e455fb7dda24d8a5826008b04",
+    "counterfactual_retained_ferromagnetic_force_above_curie/video_browser.mp4": "7c4ba7647385c7f8e10b8e1e21a86da249ee0a3d4682505c794c2ac42610bdf3",
+    "true/video_browser.mp4": "aeb9754a85f7d69b4accc50e8d82ec7e14b6e66dd40a427e5b297a9791f51e48"
+  },
+  "formal_pixel_audit": false,
+  "lossy": true,
+  "resolution": [
+    1024,
+    1024
+  ]
+}

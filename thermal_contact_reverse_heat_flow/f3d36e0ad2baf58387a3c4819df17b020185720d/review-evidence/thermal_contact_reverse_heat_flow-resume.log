@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-five/new-20261010/digital-20261011-v3/verified-digital-current/thermal_contact_reverse_heat_flow/generators/thermal_contact_reverse_heat_flow/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-five/new-20261010/digital-20261011-v3/verified-digital-current/thermal_contact_reverse_heat_flow/generators/thermal_contact_reverse_heat_flow/engine/run.py", line 93, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

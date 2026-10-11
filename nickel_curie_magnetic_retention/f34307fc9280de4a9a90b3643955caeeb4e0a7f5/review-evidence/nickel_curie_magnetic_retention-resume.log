@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-five/new-20261010/digital-20261011-v3/verified-digital-current/nickel_curie_magnetic_retention/generators/nickel_curie_magnetic_retention/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-five/new-20261010/digital-20261011-v3/verified-digital-current/nickel_curie_magnetic_retention/generators/nickel_curie_magnetic_retention/engine/run.py", line 93, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

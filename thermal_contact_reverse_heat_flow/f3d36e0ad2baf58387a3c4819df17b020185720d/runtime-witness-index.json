@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "84c6cb531951884c9f22494347036d2b3e8a4a959f0939c4e5ac4567d216109b": {
+      "path": "runtime-witness.json",
+      "sha256": "84c6cb531951884c9f22494347036d2b3e8a4a959f0939c4e5ac4567d216109b",
+      "generator": "thermal_contact_reverse_heat_flow",
+      "case_set": "seeds42,98",
+      "source_commit": "f3d36e0ad2baf58387a3c4819df17b020185720d"
+    }
+  },
+  "cases": {
+    "thermal_contact_reverse_heat_flow_00000042": {
+      "witness_id": "84c6cb531951884c9f22494347036d2b3e8a4a959f0939c4e5ac4567d216109b",
+      "metadata_path": "thermal_contact_reverse_heat_flow_00000042/metadata.json",
+      "metadata_sha256": "886b32b35eb321117f6534fa0c4950a83a41aa321af4b6741f8344c7ebc9ce2f"
+    },
+    "thermal_contact_reverse_heat_flow_00000098": {
+      "witness_id": "84c6cb531951884c9f22494347036d2b3e8a4a959f0939c4e5ac4567d216109b",
+      "metadata_path": "thermal_contact_reverse_heat_flow_00000098/metadata.json",
+      "metadata_sha256": "7838130ea7acada506db0faf57dc3a76c1befb0dda3ec13d47315cbab83121ae"
+    }
+  },
+  "failures": []
+}

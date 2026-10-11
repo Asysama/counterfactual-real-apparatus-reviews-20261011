@@ -1,0 +1,61 @@
+{
+  "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+  "files": {
+    "nickel_curie_magnetic_retention_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-42-true.mp4",
+      "bytes": 20274977,
+      "sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "github_asset_id": 631577989,
+      "server_digest": "sha256:8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-42-counterfactual.mp4",
+      "bytes": 19183266,
+      "sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "github_asset_id": 631577990,
+      "server_digest": "sha256:703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-42-mask.mp4",
+      "bytes": 2003238,
+      "sha256": "6af0b95a51a0c222ccea07ad5f01fd4e056cd446dca1df963e48abd326c9c388",
+      "github_asset_id": 631493664,
+      "server_digest": "sha256:6af0b95a51a0c222ccea07ad5f01fd4e056cd446dca1df963e48abd326c9c388"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-42-overlay.mp4",
+      "bytes": 18169838,
+      "sha256": "fe71030838ccf4186b019363b6d378abf2af0e4ec3146ea0ccd401a6dbbf99c6",
+      "github_asset_id": 631577995,
+      "server_digest": "sha256:fe71030838ccf4186b019363b6d378abf2af0e4ec3146ea0ccd401a6dbbf99c6"
+    },
+    "nickel_curie_magnetic_retention_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-98-true.mp4",
+      "bytes": 22133246,
+      "sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "github_asset_id": 631577998,
+      "server_digest": "sha256:5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-98-counterfactual.mp4",
+      "bytes": 21224171,
+      "sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "github_asset_id": 631577996,
+      "server_digest": "sha256:1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-98-mask.mp4",
+      "bytes": 1993075,
+      "sha256": "ed67be975fb4043d63193915def4ff0b6d444952df9502ab1c8cec3aaee8d7b3",
+      "github_asset_id": 631578971,
+      "server_digest": "sha256:ed67be975fb4043d63193915def4ff0b6d444952df9502ab1c8cec3aaee8d7b3"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/nickel_curie_magnetic_retention-f34307fc9280de4a9a90b3643955caeeb4e0a7f5-98-overlay.mp4",
+      "bytes": 20406204,
+      "sha256": "cb018cbd7511d4a0678194ea6785203bd67e45a66db5ce552c2ca15b9f7f07d0",
+      "github_asset_id": 631578988,
+      "server_digest": "sha256:cb018cbd7511d4a0678194ea6785203bd67e45a66db5ce552c2ca15b9f7f07d0"
+    }
+  }
+}

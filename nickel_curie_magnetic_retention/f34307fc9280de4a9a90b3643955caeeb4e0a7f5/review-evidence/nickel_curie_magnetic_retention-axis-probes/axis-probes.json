@@ -1,0 +1,307 @@
+{
+  "generator": "nickel_curie_magnetic_retention",
+  "commit": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  3 2026, 01:05:36) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "probe_resolution": [
+    2048,
+    2048
+  ],
+  "selected_frames": [
+    0,
+    35,
+    90
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.2955,
+        "disk_thickness": 0.12,
+        "mass": 292.97873251147854,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 22.119999999999997
+      },
+      "images": {
+        "baseline-true-0.png": "d7fb18993a5d8acc9a6a362bbd744ec769fcb021d0e90ba374dcb695fcca99f9",
+        "baseline-true-35.png": "22cad5aee51f53e43e5923b8fe4c465c4db7ee9d6b31e2f130cb5e1e73b832a9",
+        "baseline-true-90.png": "ab66b2fcb39f6796cce1a4dd665cdf9cd3e5310899ae2cf53069914932a6f9df",
+        "baseline-counterfactual-0.png": "81d37f9ff26fd48fdba47054736c708351089d490b875fc90447deeacc8574d6",
+        "baseline-counterfactual-35.png": "63097e00f0dd3ef59859f7791188d86b02d5545e9a001fca0bba139e6d04c4aa",
+        "baseline-counterfactual-90.png": "a6349b660dbb3d982b5abeb1072b09701c6c7095fe7441ecd2a501d59c14b69d"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 3.4,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.25,
+        "disk_thickness": 0.12,
+        "mass": 209.7013096271187,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 22.119999999999997
+      },
+      "images": {
+        "length_low-true-0.png": "5ebe8fba151ec1c04413fd430bff604923559ca20ac47384a62184428a98ca2e",
+        "length_low-true-35.png": "32840cd4012c0346c321ea4f0cc486673b3276c08f3b3ac5d38f905d0bc0a20d",
+        "length_low-true-90.png": "7b1685a747b91145c736d86be959e7ded1db52a157e7027a2f1c06268fe8b79b",
+        "length_low-counterfactual-0.png": "a7d6b4c6514eb265e3d287c5485bc31fba10d07eded1e5e8fbbc546efa3fbbce",
+        "length_low-counterfactual-35.png": "b6c3bdb2c93ac1a1a55d3bd93776d096ba290463a11b1625eeecc6cdcc97b2a3",
+        "length_low-counterfactual-90.png": "c476e58188f7c336dd20a6fc18137649413c883c039fe66ee0dcb7c503ceb004"
+      },
+      "metrics": {
+        "true-0": 0.06525890032450359,
+        "true-35": 0.10476215680440266,
+        "true-90": 0.14899110794067383,
+        "counterfactual-0": 0.06525890032450359,
+        "counterfactual-35": 0.06525890032450359,
+        "counterfactual-90": 0.06525890032450359
+      },
+      "changed_pixels": {
+        "true-0": 16498,
+        "true-35": 31713,
+        "true-90": 37568,
+        "counterfactual-0": 16498,
+        "counterfactual-35": 16498,
+        "counterfactual-90": 16498
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 4.3,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.3085,
+        "disk_thickness": 0.12,
+        "mass": 319.32392744255276,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 22.119999999999997
+      },
+      "images": {
+        "length_high-true-0.png": "c663957435aa6f399f508e74f0d5cf5bf7477b48c46b488c034722d851126313",
+        "length_high-true-35.png": "0030acb85395f0c0c7009f166397a5680507e8d13d69063f5462a81a56e17b19",
+        "length_high-true-90.png": "fe04b2f127f11741b39787e6f3e95f7d3419f650663e6a83967487428c690cb0",
+        "length_high-counterfactual-0.png": "3f038558c69fc6766a485cf614ad2c2182a34b12431473a88944e9877606b925",
+        "length_high-counterfactual-35.png": "eb101727862bdb8698cf335426c8572d28b98a48273088ff88dfe6be3a84605c",
+        "length_high-counterfactual-90.png": "5fa2c4c28fe9dab6c0e1d60cf96e6b0326532ff9fd024df8a4dc6d4c1f032990"
+      },
+      "metrics": {
+        "true-0": 0.023833036422729492,
+        "true-35": 0.03665304183959961,
+        "true-90": 0.04920331637064616,
+        "counterfactual-0": 0.023833036422729492,
+        "counterfactual-35": 0.023833036422729492,
+        "counterfactual-90": 0.023833036422729492
+      },
+      "changed_pixels": {
+        "true-0": 17295,
+        "true-35": 30945,
+        "true-90": 36012,
+        "counterfactual-0": 17295,
+        "counterfactual-35": 17295,
+        "counterfactual-90": 17295
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.2955,
+        "disk_thickness": 0.12,
+        "mass": 292.97873251147854,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 19.599999999999998
+      },
+      "images": {
+        "response_low-true-0.png": "e63ce35b87da54a1936401c97d4a1e8fe38da15339e7e541a90a0c8c3889542f",
+        "response_low-true-35.png": "1785fbc290be689c2923a87d710ff15bac5f97a727ce50ae0dc8b9bd2d7bb759",
+        "response_low-true-90.png": "645a35707c957631ccba4e1174c78fed5989fe8708c1f7b628d9b4515aacc589",
+        "response_low-counterfactual-0.png": "bdc25e54edf437ed4d72d16e0c9d77821de454a73054dd08fd4cf061acc1a900",
+        "response_low-counterfactual-35.png": "11b88b860f6326d9ebfc8a2ba242d56ae0e55cc0e068dafe4336004ee1f30d92",
+        "response_low-counterfactual-90.png": "6b153a8cac911ec79508480ff78dd260183e773a890fda0ec4a8dc6b29bdd020"
+      },
+      "metrics": {
+        "true-0": 0.04742924372355143,
+        "true-35": 0.18152173360188803,
+        "true-90": 0.0,
+        "counterfactual-0": 0.04742924372355143,
+        "counterfactual-35": 0.18152173360188803,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-0": 1830,
+        "true-35": 6891,
+        "true-90": 0,
+        "counterfactual-0": 1830,
+        "counterfactual-35": 6891,
+        "counterfactual-90": 0
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 1.105,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.2955,
+        "disk_thickness": 0.12,
+        "mass": 292.97873251147854,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 30.939999999999998
+      },
+      "images": {
+        "response_high-true-0.png": "ed8a94f3f839d79ff4b694d8bca25513db78fc957f5fef0ed7d44a458bb4e610",
+        "response_high-true-35.png": "339c2026ae2db66689e2aff1d7c60774dc078eef6698661317b382a4c1c13487",
+        "response_high-true-90.png": "8ef44d3127342c995e153cb04fc52008ce528da86a4bea36bbb33df0a0f15045",
+        "response_high-counterfactual-0.png": "0c1840585c1fe4c4d7578a18ce0ba42d1b0dfe7ee716a0c288c4d5f5c9245eed",
+        "response_high-counterfactual-35.png": "20113445dd9848f492beeb0a311762b6336f5036554bb5270128fcc6a3d3514e",
+        "response_high-counterfactual-90.png": "882797b5833a42c5a4189b5899f5b515857e52d45334d96a9cf5bfaee93f7d1b"
+      },
+      "metrics": {
+        "true-0": 0.364038626352946,
+        "true-35": 0.04432098070780436,
+        "true-90": 0.1775639851888021,
+        "counterfactual-0": 0.364038626352946,
+        "counterfactual-35": 0.04432098070780436,
+        "counterfactual-90": 0.1775639851888021
+      },
+      "changed_pixels": {
+        "true-0": 13875,
+        "true-35": 1831,
+        "true-90": 7052,
+        "counterfactual-0": 13875,
+        "counterfactual-35": 1831,
+        "counterfactual-90": 7052
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 28,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.2955,
+        "disk_thickness": 0.12,
+        "mass": 292.97873251147854,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 22.119999999999997
+      },
+      "images": {
+        "onset_low-true-0.png": "7d99d5f20d37bfd552c44707cef5a7c04940f4ccee8020ec50627ec9dd2dbeaf",
+        "onset_low-true-35.png": "22dd3e11fb236021b3bbcf9d31049ac07f390029fdfdd32b4a4a52cd96dd5e76",
+        "onset_low-true-90.png": "0cd9da5d4ae3cedd7abf92dbb6f58dfe678ced6da57e2672010009ed288e0573",
+        "onset_low-counterfactual-0.png": "b7126ffca8ceee60fc3f37dfda5605fbdb8ae97eee1b7c6dc9938e05ccc44fea",
+        "onset_low-counterfactual-35.png": "26d34c9e6a57bca27a406a92ca6b949711b00927647da93401a81fa5c766bf21",
+        "onset_low-counterfactual-90.png": "cdb0f35da17038cec9efb8cdce2701e069b98adc3c63296c11bfe19fe7c6b335"
+      },
+      "metrics": {
+        "true-0": 0.09175022443135579,
+        "true-35": 0.6628057956695557,
+        "true-90": 0.0,
+        "counterfactual-0": 0.09175022443135579,
+        "counterfactual-35": 0.04432098070780436,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-0": 3661,
+        "true-35": 67781,
+        "true-90": 0,
+        "counterfactual-0": 3661,
+        "counterfactual-35": 1831,
+        "counterfactual-90": 0
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 37,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "radius": 0.2955,
+        "disk_thickness": 0.12,
+        "mass": 292.97873251147854,
+        "thermometer_mass": 0.0,
+        "thermometer_material": "fixed_noncontact_infrared_instrument",
+        "curie": 627.0,
+        "z0": 2.24,
+        "zfloor": 0.21,
+        "heat_rate": 22.119999999999997
+      },
+      "images": {
+        "onset_high-true-0.png": "6e006a7819d92df9cba3599c2695250490cd06ed379a5d4a58e041b45d21ee38",
+        "onset_high-true-35.png": "0fb159050e9c8df35a188240fc6844c4677f59daec630a88c480e68cfbbd9270",
+        "onset_high-true-90.png": "7cd045ca6256b47c6fb4598856d6bc5638437b8268298889c8fe92e503471ab5",
+        "onset_high-counterfactual-0.png": "41cc1e45b2cf5fdbfe2d02f7db75ec6ab60b2f18312a3ad02b337d34440ffbd3",
+        "onset_high-counterfactual-35.png": "0a8f5eeef5c5916a9cefc35483e8259f991af5dec19462c789cbeb056e76c85a",
+        "onset_high-counterfactual-90.png": "4c52b3156ce2ff7ebcccf9ba0dc2bd24d206b9e555f3bc57da4a080ff3980131"
+      },
+      "metrics": {
+        "true-0": 0.13675196965535483,
+        "true-35": 0.4881041844685872,
+        "true-90": 0.0,
+        "counterfactual-0": 0.13675196965535483,
+        "counterfactual-35": 0.08928155899047852,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-0": 5312,
+        "true-35": 39322,
+        "true-90": 0,
+        "counterfactual-0": 5312,
+        "counterfactual-35": 3495,
+        "counterfactual-90": 0
+      }
+    }
+  }
+}

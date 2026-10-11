@@ -1,0 +1,62 @@
+{
+  "generator_name": "thermal_contact_reverse_heat_flow",
+  "head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d",
+  "status": "PASS",
+  "method": "Independent real-scene construction over three separate cases; no generator patch, no image inference",
+  "measurements": [
+    {
+      "seed": 42,
+      "datablocks": {
+        "meshes": 86,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 1,
+        "lights": 0
+      },
+      "orphans": {
+        "meshes": 0,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 0,
+        "lights": 0
+      },
+      "live_target_count": 80
+    },
+    {
+      "seed": 98,
+      "datablocks": {
+        "meshes": 86,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 1,
+        "lights": 0
+      },
+      "orphans": {
+        "meshes": 0,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 0,
+        "lights": 0
+      },
+      "live_target_count": 80
+    },
+    {
+      "seed": 99999,
+      "datablocks": {
+        "meshes": 86,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 1,
+        "lights": 0
+      },
+      "orphans": {
+        "meshes": 0,
+        "curves": 0,
+        "materials": 0,
+        "cameras": 0,
+        "lights": 0
+      },
+      "live_target_count": 80
+    }
+  ]
+}

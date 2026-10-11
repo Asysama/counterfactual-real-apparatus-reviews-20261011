@@ -1,0 +1,1327 @@
+{
+  "status": "PASS",
+  "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+  "method": "Independent seven-segment recognition from final decoded native RGB at projected physical segment centers; Celsius converted from independently audited trajectory temperatures. No generator imports.",
+  "observations": [
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "true",
+      "frame": 0,
+      "device": "nickel",
+      "temperature_kelvin": 598.4283333333333,
+      "display_celsius": 325,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.333333333333332,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 26.0,
+            "b": 147.0,
+            "e": 147.0,
+            "c": 25.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 146.66666666666666,
+            "f": 147.0,
+            "b": 25.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "native_crop": "nickel_curie_magnetic_retention/42-true-0-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "true",
+      "frame": 32,
+      "device": "nickel",
+      "temperature_kelvin": 627.9216666666666,
+      "display_celsius": 355,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.333333333333332,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 25.666666666666668,
+            "e": 25.333333333333332,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 146.66666666666666,
+            "f": 147.0,
+            "b": 25.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "native_crop": "nickel_curie_magnetic_retention/42-true-32-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "true",
+      "frame": 38,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.666666666666668,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 25.666666666666668,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "native_crop": "nickel_curie_magnetic_retention/42-true-38-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "true",
+      "frame": 90,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 28.0,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 26.0,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "native_crop": "nickel_curie_magnetic_retention/42-true-90-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "true",
+      "frame": 119,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 28.0,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 26.0,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "8c73785c0967cf61aae0082c0344cc8addb11f1d498f71164125edadafc32e48",
+      "native_crop": "nickel_curie_magnetic_retention/42-true-119-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "nickel",
+      "temperature_kelvin": 598.4283333333333,
+      "display_celsius": 325,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.333333333333332,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 26.0,
+            "b": 147.0,
+            "e": 147.0,
+            "c": 25.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 146.66666666666666,
+            "f": 147.0,
+            "b": 25.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "native_crop": "nickel_curie_magnetic_retention/42-counterfactual-0-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "counterfactual",
+      "frame": 32,
+      "device": "nickel",
+      "temperature_kelvin": 627.9216666666666,
+      "display_celsius": 355,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.333333333333332,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 25.666666666666668,
+            "e": 25.333333333333332,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 146.66666666666666,
+            "f": 147.0,
+            "b": 25.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "native_crop": "nickel_curie_magnetic_retention/42-counterfactual-32-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "counterfactual",
+      "frame": 38,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 27.666666666666668,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 25.666666666666668,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "native_crop": "nickel_curie_magnetic_retention/42-counterfactual-38-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 28.0,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 26.0,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "native_crop": "nickel_curie_magnetic_retention/42-counterfactual-90-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "nickel",
+      "temperature_kelvin": 632.53,
+      "display_celsius": 359,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 28.0,
+            "g": 27.0,
+            "d": 26.0,
+            "f": 28.0,
+            "b": 27.0,
+            "e": 27.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 27.0,
+            "b": 147.0,
+            "e": 26.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 26.0,
+            "e": 25.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 25.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "703013f4137e3d9e06c0b200c632e5134cc849250017ee21e7055aff5aac9718",
+      "native_crop": "nickel_curie_magnetic_retention/42-counterfactual-119-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "true",
+      "frame": 0,
+      "device": "nickel",
+      "temperature_kelvin": 581.8791666666667,
+      "display_celsius": 309,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.333333333333336
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.11111111111111,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 35.666666666666664,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.33333333333334,
+            "b": 156.33333333333334,
+            "e": 34.148148148148145,
+            "c": 156.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "native_crop": "nickel_curie_magnetic_retention/98-true-0-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "true",
+      "frame": 36,
+      "device": "nickel",
+      "temperature_kelvin": 628.2891666666667,
+      "display_celsius": 355,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.44444444444444
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 36.333333333333336,
+            "e": 34.77777777777778,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.33333333333334,
+            "b": 35.666666666666664,
+            "e": 34.333333333333336,
+            "c": 156.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "native_crop": "nickel_curie_magnetic_retention/98-true-36-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "true",
+      "frame": 42,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.44444444444444
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 36.333333333333336,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 33.666666666666664
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "native_crop": "nickel_curie_magnetic_retention/98-true-42-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "true",
+      "frame": 90,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.666666666666664
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.55555555555556,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 156.66666666666666,
+            "b": 36.51851851851852,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 34.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "native_crop": "nickel_curie_magnetic_retention/98-true-90-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "true",
+      "frame": 119,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 39.111111111111114,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 38.0,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.666666666666664
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.66666666666666,
+            "d": 156.33333333333334,
+            "f": 37.666666666666664,
+            "b": 156.66666666666666,
+            "e": 35.666666666666664,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 156.66666666666666,
+            "b": 36.666666666666664,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 34.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "5b68e505c257156ebc0f9d0f6ba0993993de52e5db8983d7dd02ebd930cd8f71",
+      "native_crop": "nickel_curie_magnetic_retention/98-true-119-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "nickel",
+      "temperature_kelvin": 581.8791666666667,
+      "display_celsius": 309,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.333333333333336
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.11111111111111,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 35.666666666666664,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.33333333333334,
+            "b": 156.33333333333334,
+            "e": 34.148148148148145,
+            "c": 156.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "native_crop": "nickel_curie_magnetic_retention/98-counterfactual-0-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "counterfactual",
+      "frame": 36,
+      "device": "nickel",
+      "temperature_kelvin": 628.2891666666667,
+      "display_celsius": 355,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.44444444444444
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 36.333333333333336,
+            "e": 34.77777777777778,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.33333333333334,
+            "b": 35.666666666666664,
+            "e": 34.333333333333336,
+            "c": 156.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "native_crop": "nickel_curie_magnetic_retention/98-counterfactual-36-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "counterfactual",
+      "frame": 42,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.44444444444444
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.333333333333336,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 156.66666666666666,
+            "b": 36.333333333333336,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 33.666666666666664
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "native_crop": "nickel_curie_magnetic_retention/98-counterfactual-42-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 38.666666666666664,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 37.666666666666664,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.666666666666664
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 37.55555555555556,
+            "b": 156.66666666666666,
+            "e": 35.333333333333336,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 156.66666666666666,
+            "b": 36.51851851851852,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.0,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 34.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "native_crop": "nickel_curie_magnetic_retention/98-counterfactual-90-nickel-native.png"
+    },
+    {
+      "head_sha": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "nickel",
+      "temperature_kelvin": 634.735,
+      "display_celsius": 362,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 39.111111111111114,
+            "g": 36.666666666666664,
+            "d": 34.666666666666664,
+            "f": 38.0,
+            "b": 37.666666666666664,
+            "e": 35.666666666666664,
+            "c": 35.666666666666664
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.66666666666666,
+            "d": 156.33333333333334,
+            "f": 37.666666666666664,
+            "b": 156.66666666666666,
+            "e": 35.666666666666664,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 157.0,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 156.66666666666666,
+            "b": 36.666666666666664,
+            "e": 156.33333333333334,
+            "c": 156.33333333333334
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 156.66666666666666,
+            "g": 156.33333333333334,
+            "d": 156.33333333333334,
+            "f": 36.333333333333336,
+            "b": 156.33333333333334,
+            "e": 156.33333333333334,
+            "c": 34.0
+          }
+        }
+      ],
+      "source": "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4",
+      "source_sha256": "1b6687c00f639caaf9bb1c581b5680003bda537bdb01f1bd494d9925e4faeba5",
+      "native_crop": "nickel_curie_magnetic_retention/98-counterfactual-119-nickel-native.png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d",
+  "files": {
+    "thermal_contact_reverse_heat_flow_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-42-true.mp4",
+      "bytes": 19441327,
+      "sha256": "c8fc65d421f2ac455517ef8098a88fa7f1d3af050da72387441dfc665f7bf19f",
+      "github_asset_id": 631579036,
+      "server_digest": "sha256:c8fc65d421f2ac455517ef8098a88fa7f1d3af050da72387441dfc665f7bf19f"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-42-counterfactual.mp4",
+      "bytes": 19352954,
+      "sha256": "2204b5aa5e91bb9308eac905e5890f647db1c68f145617142639afa5a41ccb5c",
+      "github_asset_id": 631579056,
+      "server_digest": "sha256:2204b5aa5e91bb9308eac905e5890f647db1c68f145617142639afa5a41ccb5c"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-42-mask.mp4",
+      "bytes": 2345701,
+      "sha256": "ab687faf15f12a42c4fa37373e7be4c03178ebebd167deff5f6201655c8d9553",
+      "github_asset_id": 631579057,
+      "server_digest": "sha256:ab687faf15f12a42c4fa37373e7be4c03178ebebd167deff5f6201655c8d9553"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-42-overlay.mp4",
+      "bytes": 12153484,
+      "sha256": "e4bb8525b04757f7a3fc990129770bd6f9c7c1ed018f5d6885362f78b0c5b5b0",
+      "github_asset_id": 631579083,
+      "server_digest": "sha256:e4bb8525b04757f7a3fc990129770bd6f9c7c1ed018f5d6885362f78b0c5b5b0"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-98-true.mp4",
+      "bytes": 20661022,
+      "sha256": "342c4337626311a054170444879121b0ed170e62273a4368ec779b391ef75653",
+      "github_asset_id": 631579308,
+      "server_digest": "sha256:342c4337626311a054170444879121b0ed170e62273a4368ec779b391ef75653"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-98-counterfactual.mp4",
+      "bytes": 20584121,
+      "sha256": "0dbc29bec3e1d6dbf8e15d8361599a7898b8265b08dd0662175457008a0b081d",
+      "github_asset_id": 631579791,
+      "server_digest": "sha256:0dbc29bec3e1d6dbf8e15d8361599a7898b8265b08dd0662175457008a0b081d"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-98-mask.mp4",
+      "bytes": 2284833,
+      "sha256": "2e43b22eaa60be6ff595a7532c21b8716a2bac3bcb8347addb04abe8201f6382",
+      "github_asset_id": 631579849,
+      "server_digest": "sha256:2e43b22eaa60be6ff595a7532c21b8716a2bac3bcb8347addb04abe8201f6382"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-digital-v3/thermal_contact_reverse_heat_flow-f3d36e0ad2baf58387a3c4819df17b020185720d-98-overlay.mp4",
+      "bytes": 13698693,
+      "sha256": "5134262b0532fd2f9a66be289f785a32c8c668fb16f61ade6689e19f3746999f",
+      "github_asset_id": 631580019,
+      "server_digest": "sha256:5134262b0532fd2f9a66be289f785a32c8c668fb16f61ade6689e19f3746999f"
+    }
+  }
+}

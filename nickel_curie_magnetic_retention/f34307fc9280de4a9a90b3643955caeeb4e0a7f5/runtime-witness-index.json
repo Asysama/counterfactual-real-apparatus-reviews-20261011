@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "1ca6fd64c2e67019a999444111196dcaba9ab573b798ca28dd5a35b011cb841f": {
+      "path": "runtime-witness.json",
+      "sha256": "1ca6fd64c2e67019a999444111196dcaba9ab573b798ca28dd5a35b011cb841f",
+      "generator": "nickel_curie_magnetic_retention",
+      "case_set": "seeds42,98",
+      "source_commit": "f34307fc9280de4a9a90b3643955caeeb4e0a7f5"
+    }
+  },
+  "cases": {
+    "nickel_curie_magnetic_retention_00000042": {
+      "witness_id": "1ca6fd64c2e67019a999444111196dcaba9ab573b798ca28dd5a35b011cb841f",
+      "metadata_path": "nickel_curie_magnetic_retention_00000042/metadata.json",
+      "metadata_sha256": "646d4bc840b1f548176a334ba92c25eb83f97b132a5b5e438e3a911f5ce012d7"
+    },
+    "nickel_curie_magnetic_retention_00000098": {
+      "witness_id": "1ca6fd64c2e67019a999444111196dcaba9ab573b798ca28dd5a35b011cb841f",
+      "metadata_path": "nickel_curie_magnetic_retention_00000098/metadata.json",
+      "metadata_sha256": "15ba10219deef5d93de62d22535ece1cadf6505333b8132c943d7fd29e23270c"
+    }
+  },
+  "failures": []
+}

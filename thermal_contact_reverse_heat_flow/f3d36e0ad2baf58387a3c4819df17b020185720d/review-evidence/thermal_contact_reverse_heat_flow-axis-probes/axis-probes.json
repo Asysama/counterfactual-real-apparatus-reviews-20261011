@@ -1,0 +1,250 @@
+{
+  "generator": "thermal_contact_reverse_heat_flow",
+  "commit": "f3d36e0ad2baf58387a3c4819df17b020185720d",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  3 2026, 01:05:36) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    512,
+    512
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.8739999999999999,
+        "capacity": 1207509.6599999995,
+        "conductance": 127.19101751999993,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "baseline-true-35.png": "10b5b01fc839681b0ea3a36488a783b44436942cf8bbac65d495bd61bcdf23e3",
+        "baseline-true-90.png": "02dedbeca968dfa452af33ab0bce95aae19eadd55de0dee80ff2c8200456633b",
+        "baseline-counterfactual-35.png": "c50f113dedd387d50f73dc48108f0423556d9d5dcdad1e7fec155f6bb7afa422",
+        "baseline-counterfactual-90.png": "84a8937303e331daa2c25e317a5ab7a8235a7a0a0edb89ea592795ba3fd41181"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 3.4,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.72,
+        "capacity": 994744.7999999999,
+        "conductance": 104.77978559999998,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "length_low-true-35.png": "7064a9c07c6952ee7a82c7ffa12ad9a7ceb133d244ea3d29bc0399058195c583",
+        "length_low-true-90.png": "315d384e2b006beb1468020b0f37fbb17c2f35c0cf9827f6bd9cfb45afa91f74",
+        "length_low-counterfactual-35.png": "6fc3171f21c50489757758be55390805b9c4305c95118245134401d0957cce5c",
+        "length_low-counterfactual-90.png": "cd98dad4802b88a1b4a1b28e575c98c4cbb08b2e704448685b206f1b23ad3c20"
+      },
+      "metrics": {
+        "true-35": 2.4240620930989585,
+        "true-90": 2.4917004903157554,
+        "counterfactual-35": 2.450511932373047,
+        "counterfactual-90": 2.3761685689290366
+      },
+      "changed_pixels": {
+        "true-35": 19274,
+        "true-90": 19300,
+        "counterfactual-35": 19272,
+        "counterfactual-90": 19255
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 4.3,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.9179999999999999,
+        "capacity": 1268299.6199999999,
+        "conductance": 133.59422664,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "length_high-true-35.png": "00ceb1ca0dc6e528eb006926551063ee07d2d432d001541006c01c7e512e8e2a",
+        "length_high-true-90.png": "737c2236b9ffe8437e0fe12f20c0463d581843587a723872a093c5d94a4eabc1",
+        "length_high-counterfactual-35.png": "55dd03b5d4e48d7a6e67bef777f051fbf59e1880116593ed05385733f860a1ed",
+        "length_high-counterfactual-90.png": "4aeb2a0b0ef18b860ce910ec1701ec209aba428dd500d9d734e18c0e17d4ba74"
+      },
+      "metrics": {
+        "true-35": 1.4129053751627605,
+        "true-90": 1.4636116027832031,
+        "counterfactual-35": 1.3950004577636719,
+        "counterfactual-90": 1.3660049438476562
+      },
+      "changed_pixels": {
+        "true-35": 14370,
+        "true-90": 14382,
+        "counterfactual-35": 14366,
+        "counterfactual-90": 14351
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.8739999999999999,
+        "capacity": 1207509.6599999995,
+        "conductance": 112.70090159999994,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "response_low-true-35.png": "deed12d0494d49090089f5e0daa6f924598723cb6253712018d14a53e8c7c9f6",
+        "response_low-true-90.png": "8286074378c03cbbf072e327921e8b95b834b2dcd93d605a4f4a33dc28fcd3ab",
+        "response_low-counterfactual-35.png": "a984e68a01c48d1cdf1339ed96968497e76108f243789650ab4235581c3c6d1b",
+        "response_low-counterfactual-90.png": "265b935fc8328264eada3ed7b6efae9c0251ece3039260435be8d17788198cad"
+      },
+      "metrics": {
+        "true-35": 0.0,
+        "true-90": 0.04740269978841146,
+        "counterfactual-35": 0.0,
+        "counterfactual-90": 0.14884185791015625
+      },
+      "changed_pixels": {
+        "true-35": 0,
+        "true-90": 169,
+        "counterfactual-35": 0,
+        "counterfactual-90": 491
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 1.105,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.8739999999999999,
+        "capacity": 1207509.6599999995,
+        "conductance": 177.90642323999992,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "response_high-true-35.png": "c40e8a698a85b87df0faa1436d8d4f7bd22412c04fe85a9b27798ca4d16adef2",
+        "response_high-true-90.png": "c8fe4a3aaeb8299b9d003497de1e9a62c60c5389d8642cc771d40ef9151568bf",
+        "response_high-counterfactual-35.png": "a984e68a01c48d1cdf1339ed96968497e76108f243789650ab4235581c3c6d1b",
+        "response_high-counterfactual-90.png": "f6e077e42fba3bd43a6b3e14d2ec7778010f6b659a06577b682298bdc511498b"
+      },
+      "metrics": {
+        "true-35": 0.0,
+        "true-90": 0.22579193115234375,
+        "counterfactual-35": 0.0,
+        "counterfactual-90": 0.2764396667480469
+      },
+      "changed_pixels": {
+        "true-35": 0,
+        "true-90": 735,
+        "counterfactual-35": 0,
+        "counterfactual-90": 908
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 28,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.8739999999999999,
+        "capacity": 1207509.6599999995,
+        "conductance": 127.19101751999993,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "onset_low-true-35.png": "056e1835350112efc0d1445426c2ef38660f12ab9139633a97c1a47756246140",
+        "onset_low-true-90.png": "dde67c9978f704dc82d81c52cf675d83badb7ef48f3b723d9054623bb2e17cf3",
+        "onset_low-counterfactual-35.png": "f845a0bdaf7b3adbdf65c907f26715e4b63a500b26eda3d6d2db33c03915b0f9",
+        "onset_low-counterfactual-90.png": "82616211b3ab24bb483102809eea1f208c75503820a8afd7aca109b7f8d9ad5b"
+      },
+      "metrics": {
+        "true-35": 0.0240631103515625,
+        "true-90": 0.07671356201171875,
+        "counterfactual-35": 0.04740269978841146,
+        "counterfactual-90": 0.17235438028971353
+      },
+      "changed_pixels": {
+        "true-35": 87,
+        "true-90": 257,
+        "counterfactual-35": 169,
+        "counterfactual-90": 571
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 37,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "width": 0.8739999999999999,
+        "capacity": 1207509.6599999995,
+        "conductance": 127.19101751999993,
+        "hot0": 390.0,
+        "cold0": 300.0,
+        "gap": 0.3,
+        "time_scale": 600.0
+      },
+      "images": {
+        "onset_high-true-35.png": "15d5ccde66bab736d679b7fa91591101ae1f3e2af9a8a294d0f80a90c5350c77",
+        "onset_high-true-90.png": "a38472b4ce91e936b15b17b40e2b2e1ee6abd44d6a1dc607a75f9e34f149e0a7",
+        "onset_high-counterfactual-35.png": "15d5ccde66bab736d679b7fa91591101ae1f3e2af9a8a294d0f80a90c5350c77",
+        "onset_high-counterfactual-90.png": "9c5d5dae87106741dda0ff799810e4ae5c95691f01e02799362decbd1d36fb35"
+      },
+      "metrics": {
+        "true-35": 1.0454305013020833,
+        "true-90": 0.04740269978841146,
+        "counterfactual-35": 1.0477561950683594,
+        "counterfactual-90": 0.1486663818359375
+      },
+      "changed_pixels": {
+        "true-35": 10385,
+        "true-90": 169,
+        "counterfactual-35": 10386,
+        "counterfactual-90": 492
+      }
+    }
+  }
+}
