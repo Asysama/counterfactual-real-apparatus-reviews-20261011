@@ -6,17 +6,21 @@
       "bytes": 324,
       "sha256": "2a81bd3533370ff7e8f2a1bebeccb672278eddc8164ed091946da2a4065300df"
     },
+    "application.json": {
+      "bytes": 707,
+      "sha256": "de96133318d6635a6c039fea2dd22e303816152455c0c81f7549186dd8408afd"
+    },
     "expected-case-ids.json": {
       "bytes": 109,
       "sha256": "82da6cd81c889a3cef9090dcfbb0659997e3f8c235b8d1bc96b80191a3b50063"
     },
     "external-native-media.json": {
-      "bytes": 3819,
-      "sha256": "255197e06c8d8614e728591451158e40df434fb39fb2494fd225262fa8448467"
+      "bytes": 4829,
+      "sha256": "8769237cc3c8a0fd2a4598802d3fe8eaf8ed5dd5d1e355f4aad99d6a86be68db"
     },
     "index.html": {
-      "bytes": 15277,
-      "sha256": "af4baaa794345957e5f8d1b4491103f8961db6c2adad67c1af93b9e1879abff3"
+      "bytes": 16466,
+      "sha256": "6c5d2b50f5bb2e63b12981b2abfd4c7aea888a243055c25044d43e7660d6a38e"
     },
     "overdamped_spring_spurious_oscillation_00000042/browser-derivatives.json": {
       "bytes": 685,
@@ -293,6 +297,10 @@
     "production-header.json": {
       "bytes": 2327,
       "sha256": "245a70d172ad034706e86e26ba3191e989bc4f8586a167ca9a3692175504be77"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3057,
+      "sha256": "9b01c608a0d91bccf536ac7f7c8f3131f6d65c51e2227890050535cae51aec74"
     },
     "review-evidence/both-seeds-full-scene-inspection.jpg": {
       "bytes": 228093,
@@ -678,9 +686,17 @@
       "bytes": 98,
       "sha256": "48d7720e36fa73d4466ba56d46a9bf3512f01f395e9e35759d2821e14d0b4299"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 1211,
+      "sha256": "1adfd9274749f43047c8564d7a809360897fcba70a0a424cfbc8bdf577fac41c"
+    },
     "review.json": {
-      "bytes": 643,
-      "sha256": "cef03b8e10571f59712eb29577f451691ad5249a3f0e900dbf720b7afb7eaf9f"
+      "bytes": 617,
+      "sha256": "7ff10ab2b8ac39d241a18a4da033ebd11fc82c7df20a67ef4a459a564f1eefad"
+    },
+    "review.md": {
+      "bytes": 15466,
+      "sha256": "ae2f095016f2eac5abbb12a52ea9fa12424f3eb1990f89522d96a935f815fe14"
     },
     "runtime-witness-index.json": {
       "bytes": 1205,
@@ -692,45 +708,61 @@
     }
   },
   "external_files": {
-    "overdamped_spring_spurious_oscillation_00000098/true/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-true.mp4",
-      "bytes": 18564341,
-      "sha256": "63e0a731ff111331432aa0615dc10ca2cc9ea8ed5a3be0f6002921554ec5502d"
-    },
-    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-counterfactual.mp4",
-      "bytes": 18469810,
-      "sha256": "cb1329e3b1448f5036d667cad65241d74bccae84239ffcf84c56d78932861cd5"
-    },
-    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-mask.mp4",
-      "bytes": 2051978,
-      "sha256": "86362271f355dfbca084079caf623b919d303bdb8a601ad9b8a6cfb0727db0ed"
-    },
-    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-overlay.mp4",
-      "bytes": 18155172,
-      "sha256": "bddf5331a2badbc4e72733522ca1014d91f441677fe29af780973638b042f639"
-    },
     "overdamped_spring_spurious_oscillation_00000042/true/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-42-true.mp4",
       "bytes": 18275806,
-      "sha256": "291b975a1aed23197a13ef9708f1e3a9a5e097f5e476e35c03f50a3ee6ea1211"
+      "sha256": "291b975a1aed23197a13ef9708f1e3a9a5e097f5e476e35c03f50a3ee6ea1211",
+      "github_asset_id": 630879773,
+      "server_digest": "sha256:291b975a1aed23197a13ef9708f1e3a9a5e097f5e476e35c03f50a3ee6ea1211"
     },
     "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-42-counterfactual.mp4",
       "bytes": 18160862,
-      "sha256": "21a7ab6a85e2290b266af6ad3c5489daff010bf7aaae552a57c3c72b67a378e4"
+      "sha256": "21a7ab6a85e2290b266af6ad3c5489daff010bf7aaae552a57c3c72b67a378e4",
+      "github_asset_id": 630881059,
+      "server_digest": "sha256:21a7ab6a85e2290b266af6ad3c5489daff010bf7aaae552a57c3c72b67a378e4"
     },
     "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-42-mask.mp4",
       "bytes": 2057027,
-      "sha256": "09b28c4906cc43589bc9bf5d859051c761adfb13ec50cf348929a4646511dbb4"
+      "sha256": "09b28c4906cc43589bc9bf5d859051c761adfb13ec50cf348929a4646511dbb4",
+      "github_asset_id": 630881259,
+      "server_digest": "sha256:09b28c4906cc43589bc9bf5d859051c761adfb13ec50cf348929a4646511dbb4"
     },
     "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-42-overlay.mp4",
       "bytes": 17856608,
-      "sha256": "3540be5130d8127e6fc2b2e9e94341393f83819e49904308fe5a15180a6497a5"
+      "sha256": "3540be5130d8127e6fc2b2e9e94341393f83819e49904308fe5a15180a6497a5",
+      "github_asset_id": 630881473,
+      "server_digest": "sha256:3540be5130d8127e6fc2b2e9e94341393f83819e49904308fe5a15180a6497a5"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-true.mp4",
+      "bytes": 18564341,
+      "sha256": "63e0a731ff111331432aa0615dc10ca2cc9ea8ed5a3be0f6002921554ec5502d",
+      "github_asset_id": 630881541,
+      "server_digest": "sha256:63e0a731ff111331432aa0615dc10ca2cc9ea8ed5a3be0f6002921554ec5502d"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-counterfactual.mp4",
+      "bytes": 18469810,
+      "sha256": "cb1329e3b1448f5036d667cad65241d74bccae84239ffcf84c56d78932861cd5",
+      "github_asset_id": 630882522,
+      "server_digest": "sha256:cb1329e3b1448f5036d667cad65241d74bccae84239ffcf84c56d78932861cd5"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-mask.mp4",
+      "bytes": 2051978,
+      "sha256": "86362271f355dfbca084079caf623b919d303bdb8a601ad9b8a6cfb0727db0ed",
+      "github_asset_id": 630883468,
+      "server_digest": "sha256:86362271f355dfbca084079caf623b919d303bdb8a601ad9b8a6cfb0727db0ed"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/overdamped_spring_spurious_oscillation-c0e5c2b71b4c4a695bc916237c34d3c6928a7333-98-overlay.mp4",
+      "bytes": 18155172,
+      "sha256": "bddf5331a2badbc4e72733522ca1014d91f441677fe29af780973638b042f639",
+      "github_asset_id": 630883665,
+      "server_digest": "sha256:bddf5331a2badbc4e72733522ca1014d91f441677fe29af780973638b042f639"
     }
   }
 }

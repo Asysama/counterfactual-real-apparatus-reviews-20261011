@@ -1,0 +1,28 @@
+{
+  "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+  "pass": true,
+  "method": "Manual inspection of decoded native contact sheets, both seeds, True/CF start/intervention/evidence/end, evidence +/-1 native crops and physical thermometer pointers when applicable. Actual browser inspection recorded separately.",
+  "observations": "Pointer crosses physical red threshold; True assembly falls onto plate, CF stays attached; no floating text.",
+  "files": [
+    {
+      "path": "apparatus-inspection-final/nickel_curie_magnetic_retention-both-seeds.jpg",
+      "sha256": "570e51d370f68b8c9ef566bf5a04d8ba3d4d95a7d440acb540123a6e818e159b"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/nickel_curie_magnetic_retention/nickel_curie_magnetic_retention_00000098/native-temporal-crops.png",
+      "sha256": "db0c966306b8bb4073e9cba47ea06d98a252c9bb689992f012209759214f7fa5"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/nickel_curie_magnetic_retention/nickel_curie_magnetic_retention_00000042/native-temporal-crops.png",
+      "sha256": "5884ee1dc86612efb1f12a350a5cb24b01bbf4b89cc3685c8122f841ed4dde13"
+    },
+    {
+      "path": "backups/apparatus-thermometer-inspection/nickel_curie_magnetic_retention/98-native-pointers.jpg",
+      "sha256": "e3db74fa05b23e26a7d2b6ace39a6828838c71e3437f0549bd1f2b944130fc07"
+    },
+    {
+      "path": "backups/apparatus-thermometer-inspection/nickel_curie_magnetic_retention/42-native-pointers.jpg",
+      "sha256": "1c5e2bf6200a75ed4376d6f6ff1d9d37df06f840f4a2dc6a3580938029ec8310"
+    }
+  ]
+}

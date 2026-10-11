@@ -1,0 +1,28 @@
+{
+  "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
+  "pass": true,
+  "method": "Manual inspection of decoded native contact sheets, both seeds, True/CF start/intervention/evidence/end, evidence +/-1 native crops and physical thermometer pointers when applicable. Actual browser inspection recorded separately.",
+  "observations": "Two integral pointer thermometers; constant block appearance; True temperatures converge, CF diverge; physical contact continuous.",
+  "files": [
+    {
+      "path": "apparatus-inspection-final/thermal_contact_reverse_heat_flow-both-seeds.jpg",
+      "sha256": "bf89d487c1db6bf31d9fb1d74008ab4b6564d66e86418fb8f8c240dd3b79b8f0"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/native-temporal-crops.png",
+      "sha256": "c73362fe05bde5f95fc224567645391c27ead8f8fa3ca2dfb22ab4c89f5b9d9f"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/native-temporal-crops.png",
+      "sha256": "b568cde6528691ca5ddea73a91f29f7a59ab78a377e5a2df575a34418c500bfc"
+    },
+    {
+      "path": "backups/apparatus-thermometer-inspection/thermal_contact_reverse_heat_flow/98-native-pointers.jpg",
+      "sha256": "e240d8bb565aeeb0e873bed007e74df4c8acc6f6de50cea31c17907893766ddb"
+    },
+    {
+      "path": "backups/apparatus-thermometer-inspection/thermal_contact_reverse_heat_flow/42-native-pointers.jpg",
+      "sha256": "a5ce26d5a5b12b2e21cf843929afc19cd9d485e178bbe24e63ea0d78542b015d"
+    }
+  ]
+}

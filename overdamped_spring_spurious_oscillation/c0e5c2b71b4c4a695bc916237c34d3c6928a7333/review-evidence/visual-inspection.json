@@ -1,0 +1,20 @@
+{
+  "head_sha": "c0e5c2b71b4c4a695bc916237c34d3c6928a7333",
+  "pass": true,
+  "method": "Manual inspection of decoded native contact sheets, both seeds, True/CF start/intervention/evidence/end, evidence +/-1 native crops and physical thermometer pointers when applicable. Actual browser inspection recorded separately.",
+  "observations": "Connected spring and damper, carriage remains on rails, painted bed marker; no floating text; native masks white and overlays target red.",
+  "files": [
+    {
+      "path": "apparatus-inspection-final/overdamped_spring_spurious_oscillation-both-seeds.jpg",
+      "sha256": "2da854f096d2d345d55bb56b60eef6eb6f6d58be7a7f2d41cb3675cc5247fd73"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/overdamped_spring_spurious_oscillation/overdamped_spring_spurious_oscillation_00000098/native-temporal-crops.png",
+      "sha256": "4d578274fb5ff8aa91861ccbd3dc88043e6b539018a49b088756b714702e8547"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/overdamped_spring_spurious_oscillation/overdamped_spring_spurious_oscillation_00000042/native-temporal-crops.png",
+      "sha256": "d1f5fa9e4242703299f2cb4b2131fc48c0dfde699db590e583047942df78abe2"
+    }
+  ]
+}

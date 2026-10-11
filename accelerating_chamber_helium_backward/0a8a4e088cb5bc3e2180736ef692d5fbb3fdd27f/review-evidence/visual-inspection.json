@@ -1,0 +1,20 @@
+{
+  "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+  "pass": true,
+  "method": "Manual inspection of decoded native contact sheets, both seeds, True/CF start/intervention/evidence/end, evidence +/-1 native crops and physical thermometer pointers when applicable. Actual browser inspection recorded separately.",
+  "observations": "Continuous tether and latex neck; sealed transparent frame and detailed wheels; True forward and CF backward deflection visible.",
+  "files": [
+    {
+      "path": "apparatus-inspection-final/accelerating_chamber_helium_backward-both-seeds.jpg",
+      "sha256": "ec697cac2f3cbbdbbdea82a150a48bd8d89c73f572d7c79aa61e30ca0afc2626"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000098/native-temporal-crops.png",
+      "sha256": "935d1f5d3020c13d00b32020b590cae911537c0f2f82e523b7f7e4189b2d8c31"
+    },
+    {
+      "path": "backups/apparatus-edge-inspection/accelerating_chamber_helium_backward/accelerating_chamber_helium_backward_00000042/native-temporal-crops.png",
+      "sha256": "9f35ad66fd7ae8d32a0a2d04cb5707bef46a1bb8c4791cd1a6e3e9d63ec5d31e"
+    }
+  ]
+}

@@ -278,17 +278,21 @@
       "bytes": 320,
       "sha256": "fe6da4e4c5ca1d5772258461a6671682031989f262c18ddf284a073bde80fed3"
     },
+    "application.json": {
+      "bytes": 703,
+      "sha256": "8ef1a320b8f2073b29a9d009297211d8f4412105df04921bacbb37d21994a038"
+    },
     "expected-case-ids.json": {
       "bytes": 105,
       "sha256": "a110a025022571b74c4ee02771bd7309f32011a5fddc62c0d25de451b0c295ef"
     },
     "external-native-media.json": {
-      "bytes": 3787,
-      "sha256": "541186be4cea3116779c722d408aedde78129192c1ffbc715f662af67901be10"
+      "bytes": 4797,
+      "sha256": "186cf1723d9045c88f497ccb80317dce998f345e3e7636b2042e4d4c7107b13c"
     },
     "index.html": {
-      "bytes": 14799,
-      "sha256": "e52093d5a1382306d56c8b92b0344ba37cc6548080a70c54d2c8848437b849ef"
+      "bytes": 15984,
+      "sha256": "335d8e0d84193db051920765dff203e57c14275e6cf405fbe41a48461589da3b"
     },
     "production-header.json": {
       "bytes": 2325,
@@ -461,6 +465,10 @@
     "review-evidence/accelerating_chamber_helium_backward-tests.log": {
       "bytes": 99,
       "sha256": "1c11158046b628e7fe35868418e55a2572a8473b03baf35270906cccaa7bceb9"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3053,
+      "sha256": "23f3cd3f00ad7c2203e68e9a729efe4198d1ac9856551ff5e5cd1d87c6f6259f"
     },
     "review-evidence/both-seeds-full-scene-inspection.jpg": {
       "bytes": 565100,
@@ -678,9 +686,17 @@
       "bytes": 13556,
       "sha256": "5576960c6770237abdb78c42a0633d94dc81516a8f8cc6b069f2219299806a82"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 1192,
+      "sha256": "1f79a095b126b0b30fa3525d62c85bc73dbb1cbc12a4c6803aab6cd3811a5acd"
+    },
     "review.json": {
-      "bytes": 641,
-      "sha256": "14f8efcb11cb173e1200fb04c9378edcd3c1cc9cf38c7f871817e909dd8eaf31"
+      "bytes": 615,
+      "sha256": "81bf48b346ad03d7adacf31f02a2492a7a098d4481111845c09aab4335677067"
+    },
+    "review.md": {
+      "bytes": 15194,
+      "sha256": "d42e3633cae40ea6e390c7654f289136b9a510024fa39cceee277d4b6e32d396"
     },
     "runtime-witness-index.json": {
       "bytes": 1195,
@@ -692,45 +708,61 @@
     }
   },
   "external_files": {
-    "accelerating_chamber_helium_backward_00000098/true/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-true.mp4",
-      "bytes": 224806004,
-      "sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa"
-    },
-    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-counterfactual.mp4",
-      "bytes": 223251250,
-      "sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c"
-    },
-    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-mask.mp4",
-      "bytes": 2242471,
-      "sha256": "0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1"
-    },
-    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-overlay.mp4",
-      "bytes": 220604460,
-      "sha256": "17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea"
-    },
     "accelerating_chamber_helium_backward_00000042/true/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-42-true.mp4",
       "bytes": 222210853,
-      "sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031"
+      "sha256": "a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031",
+      "github_asset_id": 630852864,
+      "server_digest": "sha256:a21be026915ac23181be97124c06dc39333e019eee4253783e79108471cfe031"
     },
     "accelerating_chamber_helium_backward_00000042/counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-42-counterfactual.mp4",
       "bytes": 219034841,
-      "sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab"
+      "sha256": "6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab",
+      "github_asset_id": 630852889,
+      "server_digest": "sha256:6f8611f9f21beaeff042d1fdf4d82faba39e79882eddf60e040123b914909bab"
     },
     "accelerating_chamber_helium_backward_00000042/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-42-mask.mp4",
       "bytes": 2273351,
-      "sha256": "20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2"
+      "sha256": "20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2",
+      "github_asset_id": 630854250,
+      "server_digest": "sha256:20107a149b7682ac7f187f1971caf12a58aa2144134cfbaece46870745f39cc2"
     },
     "accelerating_chamber_helium_backward_00000042/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4": {
       "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-42-overlay.mp4",
       "bytes": 215969176,
-      "sha256": "b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1"
+      "sha256": "b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1",
+      "github_asset_id": 630854315,
+      "server_digest": "sha256:b0957eb0cb594feefdc0a2d3430547993272dc194c72a686599b17656c2a5ee1"
+    },
+    "accelerating_chamber_helium_backward_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-true.mp4",
+      "bytes": 224806004,
+      "sha256": "e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa",
+      "github_asset_id": 630854570,
+      "server_digest": "sha256:e9bc2c908d1956bbfa22b36e5a2aed125f6cb8afa8eff44b8049cf7b3b4564fa"
+    },
+    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-counterfactual.mp4",
+      "bytes": 223251250,
+      "sha256": "df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c",
+      "github_asset_id": 630854752,
+      "server_digest": "sha256:df27b9a25052905462dbb866c374a8bfe938506c57f83812753f262d29dd3f8c"
+    },
+    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-mask.mp4",
+      "bytes": 2242471,
+      "sha256": "0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1",
+      "github_asset_id": 630876848,
+      "server_digest": "sha256:0cbcf504cf5e780968552d0236e304e0b9ad40d58befcee7829c7be3fbb4bbb1"
+    },
+    "accelerating_chamber_helium_backward_00000098/counterfactual_horizontal_buoyancy_gradient_sign_flip/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261011-real-apparatus/accelerating_chamber_helium_backward-0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f-98-overlay.mp4",
+      "bytes": 220604460,
+      "sha256": "17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea",
+      "github_asset_id": 630877111,
+      "server_digest": "sha256:17b400f668862701e84bad45c57dd46db3c638219f22673abf166bf68f58f4ea"
     }
   }
 }

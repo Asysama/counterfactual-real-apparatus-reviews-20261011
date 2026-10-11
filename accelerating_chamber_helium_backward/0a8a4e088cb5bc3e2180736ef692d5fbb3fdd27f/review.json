@@ -1,8 +1,8 @@
 {
-  "scale_readiness": "NOT VERIFIED",
+  "scale_readiness": "PASS",
   "formal_rendered_count": 2,
-  "decision": "NOT VERIFIED",
-  "generator_correctness": "NOT VERIFIED",
+  "decision": "PASS",
+  "generator_correctness": "PASS",
   "scale_target": 100000,
   "scale_static_accepted": 100000,
   "rendered_primary_axes": [
@@ -11,9 +11,9 @@
     "onset"
   ],
   "runtime_provenance": "PASS",
-  "browser_visual_verified": false,
+  "browser_visual_verified": true,
   "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
   "accepted_cases": 2,
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/accelerating_chamber_helium_backward/0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f/index.html",
-  "self_check_complete": false
+  "self_check_complete": true
 }

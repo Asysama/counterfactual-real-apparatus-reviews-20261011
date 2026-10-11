@@ -1,0 +1,8 @@
+{
+  "generator_name": "nickel_curie_magnetic_retention",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/649",
+  "head_sha": "d5e1ff3b6c63d2e92bf1a1544441bd445e148992",
+  "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/nickel_curie_magnetic_retention/d5e1ff3b6c63d2e92bf1a1544441bd445e148992/index.html",
+  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
+  "self_check_complete": true
+}

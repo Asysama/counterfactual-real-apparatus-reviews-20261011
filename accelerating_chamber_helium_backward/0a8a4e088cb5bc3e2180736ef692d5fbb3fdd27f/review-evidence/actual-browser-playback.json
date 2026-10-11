@@ -1,0 +1,113 @@
+{
+  "head_sha": "0a8a4e088cb5bc3e2180736ef692d5fbb3fdd27f",
+  "pass": true,
+  "browser": "User Chrome, selected browser 1",
+  "method": "Actual UI play-all to end, visible evidence/last/start buttons; read-only DOM video state and screenshots of all four rows (both seeds True/CF, mask/overlay).",
+  "visual_inspection": "All eight streams display coherent colors; masks white on black, overlays red only on target; no blank/green/magenta frames or decode errors.",
+  "streams": [
+    {
+      "id": "accelerating_chamber_helium_backward_00000042-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.916666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000042-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.916666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000042-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.916666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000042-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.916666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000098-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.958333,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000098-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.958333,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000098-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.958333,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "accelerating_chamber_helium_backward_00000098-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.958333,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    }
+  ]
+}
