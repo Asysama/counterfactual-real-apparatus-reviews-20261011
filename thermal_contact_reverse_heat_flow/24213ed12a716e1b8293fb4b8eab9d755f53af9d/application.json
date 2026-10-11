@@ -3,6 +3,6 @@
   "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/651",
   "head_sha": "24213ed12a716e1b8293fb4b8eab9d755f53af9d",
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/24213ed12a716e1b8293fb4b8eab9d755f53af9d/index.html",
-  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
-  "self_check_complete": true
+  "note": "Analog apparatus superseded by requested digital thermometer revision. Not for submission; no Sara application.",
+  "self_check_complete": false
 }
