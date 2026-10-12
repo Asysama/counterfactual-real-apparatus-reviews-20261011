@@ -7,8 +7,8 @@
       "sha256": "bf8f06ed4986553b2c981f9c07c5d4db7002032da6d751ee23b5be8e8499b00e"
     },
     "application.json": {
-      "bytes": 697,
-      "sha256": "0a8fc6876a67b61f951df425c5b4ba2c366776274da7b43b9d694f039cafc6f0"
+      "bytes": 595,
+      "sha256": "0644985068a70c75352ede2711061df8dddfbeeaecb425ca3fa0172fe0ae6c80"
     },
     "expected-case-ids.json": {
       "bytes": 99,
@@ -18,9 +18,13 @@
       "bytes": 4651,
       "sha256": "1e2578f886ea9eecdb6b66749bdcd1857eb57a68c212c819c22f2264847c0e11"
     },
+    "historical-application-before-contact-fix.json": {
+      "bytes": 697,
+      "sha256": "0a8fc6876a67b61f951df425c5b4ba2c366776274da7b43b9d694f039cafc6f0"
+    },
     "index.html": {
-      "bytes": 17241,
-      "sha256": "99eaa4d5d624fc7897e2a4d69158d63ebb87f093eb9bef7ea0e8b0f7ff36ac8c"
+      "bytes": 17530,
+      "sha256": "a1a5f917cd2fa8c88aaa97d8d73ccc745187916176695b0c0f50fb811e1bab70"
     },
     "production-header.json": {
       "bytes": 2416,
@@ -591,12 +595,12 @@
       "sha256": "63d5113bdb3d9d624412719e734b08c004685366d921794d6441f6783a2da53c"
     },
     "review.json": {
-      "bytes": 612,
-      "sha256": "ed942811eb01dc07ad17878b893ca64f32a3ba7413c110fa2cb19a6ebbd2200c"
+      "bytes": 876,
+      "sha256": "c1bcc310cbfa0bc0aba7b1112faaf92dde36cd01381a5090942dc9f1865b8dff"
     },
     "review.md": {
-      "bytes": 15335,
-      "sha256": "963cd6fa41edd9b9f92d470ddead59773d96f7952d9476fe503942ac164bbfc5"
+      "bytes": 15604,
+      "sha256": "0864fad258c45a54eee8f70c6bdc135172cb24b89c96348b3a685e40d94703ec"
     },
     "runtime-witness-index.json": {
       "bytes": 1180,
@@ -936,5 +940,7 @@
       "github_asset_id": 631580019,
       "server_digest": "sha256:5134262b0532fd2f9a66be289f785a32c8c668fb16f61ade6689e19f3746999f"
     }
-  }
+  },
+  "status": "SUPERSEDED",
+  "current_review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/4567e5c82e8e52aa4a5377aca69434f9d000a3e8/index.html"
 }

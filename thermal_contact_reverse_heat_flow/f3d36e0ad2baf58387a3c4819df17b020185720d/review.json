@@ -1,7 +1,7 @@
 {
   "scale_readiness": "PASS",
   "formal_rendered_count": 2,
-  "decision": "PASS",
+  "decision": "SUPERSEDED",
   "generator_correctness": "PASS",
   "scale_target": 100000,
   "scale_static_accepted": 100000,
@@ -15,5 +15,7 @@
   "head_sha": "f3d36e0ad2baf58387a3c4819df17b020185720d",
   "accepted_cases": 2,
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/f3d36e0ad2baf58387a3c4819df17b020185720d/index.html",
-  "self_check_complete": true
+  "self_check_complete": false,
+  "current_review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/4567e5c82e8e52aa4a5377aca69434f9d000a3e8/index.html",
+  "superseded_reason": "Bottom contact flicker fixed in current head"
 }

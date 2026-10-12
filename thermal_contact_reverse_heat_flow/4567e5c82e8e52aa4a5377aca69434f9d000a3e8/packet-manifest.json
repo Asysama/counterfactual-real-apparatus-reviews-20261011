@@ -6,6 +6,10 @@
       "bytes": 314,
       "sha256": "544913ceef28b142727ccf8925df63793d4af3ddc8ceb5c01b1b56a3f74aea9e"
     },
+    "application.json": {
+      "bytes": 697,
+      "sha256": "7366600ed0be23be16855eace4d0301a9091457fd83fd8e64e80f1cb14a91029"
+    },
     "expected-case-ids.json": {
       "bytes": 99,
       "sha256": "9621cc51e7f4d047cdd1401a5ceb1aa0c1ada5d5fafee71551980e19941be366"
@@ -15,12 +19,24 @@
       "sha256": "b638505910aaa69b045417aa0ccfd0593b4729ed39b528cf372c0bd444635693"
     },
     "index.html": {
-      "bytes": 16977,
-      "sha256": "0e989ef3fb02dbde3af0502bcd15838ec689f7af21db5e1cd9e366eb550399e2"
+      "bytes": 18353,
+      "sha256": "a66f3a4c4d83f30edf555e9b92fc65c9d017c81d72fc86b5fc4c560d029dcf70"
     },
     "production-header.json": {
       "bytes": 2416,
       "sha256": "4d0d9e5523b6fb45534516a9f7a05a1137abe8b05060fde35da11693649334ea"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 3166,
+      "sha256": "8b232b1cb306ecf8d2d03a108da92a1f346826cd13d29069ea84e80249bba706"
+    },
+    "review-evidence/all-frame-pad-visibility-auditor.py": {
+      "bytes": 3048,
+      "sha256": "911040603bb934fb615fefffc4dcaf1529b888b013dc5fceda59e525bf51fe58"
+    },
+    "review-evidence/all-frame-pad-visibility.json": {
+      "bytes": 167094,
+      "sha256": "415ef00b6ec0fbb953656e47a95d35ddc69bc60921976c508a2d38cc19281cd3"
     },
     "review-evidence/both-seeds-full-scene-inspection.jpg": {
       "bytes": 304395,
@@ -221,6 +237,14 @@
     "review-evidence/full-scene-inspection-manifest.json": {
       "bytes": 1672,
       "sha256": "00a8426b73febb430738d17accc1686118e1007de72a87bd7ebe84d2ead8e07e"
+    },
+    "review-evidence/historical-uncalibrated-pad-checker.json": {
+      "bytes": 646851,
+      "sha256": "09409513f28ddebefdf4e0f5e0004824e3dd5e3283e1ca4c0b3e420cf50f6678"
+    },
+    "review-evidence/historical-uncalibrated-pad-checker.py": {
+      "bytes": 2478,
+      "sha256": "3e98d1841f238a76ea5635fea9030aa7d91daa57cd502cb9be990c6494599592"
     },
     "review-evidence/native-temporal-inspection/thermal_contact_reverse_heat_flow_00000042/counterfactual-62-native-crop.png": {
       "bytes": 9484,
@@ -598,9 +622,17 @@
       "bytes": 98,
       "sha256": "0a313e30fcd4cd89c80f0e418ea52889f4691e572f686de6c2cb27f5510ebb2c"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 2849,
+      "sha256": "528af68d5f244c83ef983b94e9b0fd5040456f8bc89b749e270a00b64898e469"
+    },
     "review.json": {
-      "bytes": 638,
-      "sha256": "794cd14f7d373df52ba6e152dc88f2dd3a8c2a2a42af34c620a68850802fa7c0"
+      "bytes": 612,
+      "sha256": "7c8d11dd4680c77375bec7e7440250760fba6316bdaaf0756e8d4a155b9dd106"
+    },
+    "review.md": {
+      "bytes": 16455,
+      "sha256": "29f79fbb5ee2681f4b8478355ad665e917ce6ecd6b6959f1cce958a055603ef6"
     },
     "runtime-witness-index.json": {
       "bytes": 1180,

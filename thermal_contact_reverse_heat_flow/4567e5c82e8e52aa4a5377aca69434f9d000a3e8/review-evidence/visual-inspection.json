@@ -1,0 +1,48 @@
+{
+  "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+  "pass": true,
+  "method": "Manual native inspection: both seeds and branches at start/contact/evidence/end; three rendered physical/event axes; digital-readout montages; evidence-neighbor RGB/mask/overlay crops; consecutive pad-contact frames48\u201363 for both seeds/branches. Actual browser inspection is separate.",
+  "observations": "Continuous insulating pads sit above the tabletop and below both metal blocks; no intermittent tabletop replacement in inspected consecutive contact frames. Instruments remain attached; integer Celsius values match independent readout audit. True temperature difference decreases, CF increases; solid face contact and completion remain visible. Masks cover blocks and instruments, exclude pads/table.",
+  "files": [
+    {
+      "path": "thermal-pad-inspection-final/thermal_contact_reverse_heat_flow-both-seeds.jpg",
+      "sha256": "1cd152de97abdf08161b6d5b905df0c819f07ec1d52218b5babef46ad19da198"
+    },
+    {
+      "path": "backups/thermal-pad-scale-inspection/thermal_contact_reverse_heat_flow.jpg",
+      "sha256": "d1760a5e9a9fb0911752ad0cad98029e8abf17191429aa6270b20b5ef723f6d1"
+    },
+    {
+      "path": "backups/thermal-pad-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/native-temporal-crops.png",
+      "sha256": "2bd6578c4e40b2b042510296183dd3d5bed0987793a49300d5d0243662f0ad9f"
+    },
+    {
+      "path": "backups/thermal-pad-edge-inspection/thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/native-temporal-crops.png",
+      "sha256": "3656a3e77651163b0ca93d7acd5659e1686c6c5a33ae443bf44ff80ffe58683c"
+    },
+    {
+      "path": "backups/thermal-pad-digital-readout-inspection/thermal_contact_reverse_heat_flow/42-native-readouts.jpg",
+      "sha256": "8a9a5f755c5accd989b9cb1d2e79d90fe5fb673f7d2013a65a4fde846fc7bb60"
+    },
+    {
+      "path": "backups/thermal-pad-digital-readout-inspection/thermal_contact_reverse_heat_flow/98-native-readouts.jpg",
+      "sha256": "d43991f41607ae337f6ccdf7e4bb4173f56fdf339a4232cb9d14dd6910ae9f33"
+    },
+    {
+      "path": "thermal-pad-inspection-final/42-counterfactual-continuous-contact.jpg",
+      "sha256": "c58970d9632104ade12e0ee47230834ea5be8f253c1ad90aa28982441e3df879"
+    },
+    {
+      "path": "thermal-pad-inspection-final/42-true-continuous-contact.jpg",
+      "sha256": "54ee4ea2789d2f9233760430a0ebaf8398eedf37c594d67c539627f626cd596f"
+    },
+    {
+      "path": "thermal-pad-inspection-final/98-counterfactual-continuous-contact.jpg",
+      "sha256": "d413c693340f07a7c29d15b19e1c3569e997ba8e0b524b54fb9d344c2a9e4be3"
+    },
+    {
+      "path": "thermal-pad-inspection-final/98-true-continuous-contact.jpg",
+      "sha256": "f4f2e8902eb26c7fd66373c08a651847a6007ecc2d928711c67a517c36608730"
+    }
+  ]
+}

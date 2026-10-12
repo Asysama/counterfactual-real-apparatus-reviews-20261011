@@ -1,3 +1,5 @@
+> SUPERSEDED: bottom contact flicker. [Current fixed review](https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/4567e5c82e8e52aa4a5377aca69434f9d000a3e8/index.html). Historical evidence only; no Sara submission.
+
 # PR 651 generator review
 
 **Decision:** PASS
