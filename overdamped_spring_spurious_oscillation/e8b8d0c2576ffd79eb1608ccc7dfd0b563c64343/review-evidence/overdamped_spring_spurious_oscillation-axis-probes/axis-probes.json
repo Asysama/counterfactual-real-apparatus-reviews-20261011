@@ -1,0 +1,250 @@
+{
+  "generator": "overdamped_spring_spurious_oscillation",
+  "commit": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  3 2026, 01:05:36) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    512,
+    512
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6279999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.3277777777777777,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 14.605555555555554
+      },
+      "images": {
+        "baseline-true-35.png": "b6f0ed0ad91fed74c66cb67390d67b98a946ce3c0bf1cb2c7c7208505d437684",
+        "baseline-true-90.png": "3f08504f65dcc037a3618e906640e29fa6061ad72f582b1c411566dd0aaadce8",
+        "baseline-counterfactual-35.png": "c77e626e577af2a8ca14d7a4f48fc1d9e15fd1ae2ed4197a9848aec3833b22fb",
+        "baseline-counterfactual-90.png": "dfd8803c626f2381d277135677c21df272118af51d586ca3516cb3a810a47b93"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 3.4,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.46,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.3277777777777777,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 14.605555555555554
+      },
+      "images": {
+        "length_low-true-35.png": "fc9a4c2eade4c8e81252e1c4f442420688b9dcbacb688883d2cb22ce094eccd6",
+        "length_low-true-90.png": "55091df38afe7166801dcbc60503e3be7474515271c02de4835bde163f49796d",
+        "length_low-counterfactual-35.png": "e9b1f519c9ff0243843f9c55d73f6badb251e1f76a5f8e1f4d2056f18874edb3",
+        "length_low-counterfactual-90.png": "6177a0c2f8f0f0e8edaa81997a231adea20671208e8d3198468504eefd19a8f9"
+      },
+      "metrics": {
+        "true-35": 0.5414250691731771,
+        "true-90": 0.23579025268554688,
+        "counterfactual-35": 0.5058797200520834,
+        "counterfactual-90": 0.3698234558105469
+      },
+      "changed_pixels": {
+        "true-35": 6338,
+        "true-90": 2916,
+        "counterfactual-35": 5892,
+        "counterfactual-90": 4355
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 4.3,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6759999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.3277777777777777,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 14.605555555555554
+      },
+      "images": {
+        "length_high-true-35.png": "085f825c2e8d310ea0fb723aad9677538008f7b21608a0ffacadd658dcce6efe",
+        "length_high-true-90.png": "eba207650b36082f76d3af96551ffa3fcec84408e61465313015be41455a137c",
+        "length_high-counterfactual-35.png": "f0dcc96177ed0a1b6311c12a08e2aa2fef3a8576ba1eb004f20ad5c3860e5a8d",
+        "length_high-counterfactual-90.png": "a956f6b309645ad1892e01c7222e65c6ee3dd91e51b2d34b6d4e6f2a3f2beb5a"
+      },
+      "metrics": {
+        "true-35": 0.3012339274088542,
+        "true-90": 0.13754399617513022,
+        "counterfactual-35": 0.2742869059244792,
+        "counterfactual-90": 0.18239466349283853
+      },
+      "changed_pixels": {
+        "true-35": 4202,
+        "true-90": 1778,
+        "counterfactual-35": 3939,
+        "counterfactual-90": 3149
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6279999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.25,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 13.75
+      },
+      "images": {
+        "response_low-true-35.png": "f367448fb2be8f536b0fdc8801a5bab17b79ef40de63392060eadc02410b8d89",
+        "response_low-true-90.png": "34ae176d6fc4a1891a61d5ca95024fae70c27f6d68fe2c471799efee92885f1d",
+        "response_low-counterfactual-35.png": "2e94e54532e004b598fab4982a0509cea88d5ba33d178a4c0b7bf2c9f81cc9a4",
+        "response_low-counterfactual-90.png": "3310702d72a2f42d75321aaa1af44ad5a9e948b243cecfc72d1d2e5ecb05399b"
+      },
+      "metrics": {
+        "true-35": 0.021575927734375,
+        "true-90": 0.004154205322265625,
+        "counterfactual-35": 0.0,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-35": 1760,
+        "true-90": 1058,
+        "counterfactual-35": 0,
+        "counterfactual-90": 0
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 1.105,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6279999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.5999999999999999,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 17.599999999999998
+      },
+      "images": {
+        "response_high-true-35.png": "b9c5eb3e144d5817e59d389b6429d0757a858f819516e2e4f5d82548c3e0e7a8",
+        "response_high-true-90.png": "414fad8e8eb72584e023ac2291de8398f7038faad456d58c514cf70769326d8b",
+        "response_high-counterfactual-35.png": "de83fd7a4eba67fd2071ef83b36f039d66a0d02fe4057dc0bfdafff0c7a50f4c",
+        "response_high-counterfactual-90.png": "90691887df2645feaacd890ff3e685cbdf10da1df1cb4b164d1924237083bdc7"
+      },
+      "metrics": {
+        "true-35": 0.06381988525390625,
+        "true-90": 0.024346669514973957,
+        "counterfactual-35": 0.0,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-35": 2178,
+        "true-90": 1605,
+        "counterfactual-35": 0,
+        "counterfactual-90": 0
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 28,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6279999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.3277777777777777,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 14.605555555555554
+      },
+      "images": {
+        "onset_low-true-35.png": "9580c5953badbbf3cb2a2718c923e424ae4f3b1c5233eb5338a34ae57576993b",
+        "onset_low-true-90.png": "fbbf5073f38ef3bb6319b4153b2d1442fd403328d4a1c3f997eaca2b84cfeb2e",
+        "onset_low-counterfactual-35.png": "4a645d0fb67da73a80b4258d257301f40fefabbd299acc62cf9bab21f230d2b3",
+        "onset_low-counterfactual-90.png": "957182ecdab89026cbf48a8d9ab2bf999839a8d550f8d512d1f864093c7ef6f6"
+      },
+      "metrics": {
+        "true-35": 0.29735056559244794,
+        "true-90": 0.00273895263671875,
+        "counterfactual-35": 0.5054397583007812,
+        "counterfactual-90": 0.24828084309895834
+      },
+      "changed_pixels": {
+        "true-35": 4222,
+        "true-90": 919,
+        "counterfactual-35": 5639,
+        "counterfactual-90": 3439
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 37,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "amplitude": 0.6279999999999999,
+        "mass": 1.0,
+        "omega": 5.5,
+        "damping_ratio": 1.3277777777777777,
+        "cf_ratio": 0.1,
+        "k": 30.25,
+        "c": 14.605555555555554
+      },
+      "images": {
+        "onset_high-true-35.png": "b4aa9cf39877c9fe18dd9f6f41b74f63544a2d5cecd9e12a94e9b9ba3d543e1f",
+        "onset_high-true-90.png": "2bb7dc92394dd74ff3d09c562179d47f924e0b3244fd14a59bc39f1f4a484aa9",
+        "onset_high-counterfactual-35.png": "736ac3a85e8c3aec86ace3e98e591e9d302d6680bf401e956ab9fbb3fcb0a40b",
+        "onset_high-counterfactual-90.png": "cc8674a06f1a993c66f7ae5923f80118ff00215623b89926a7ea7802715f2b8e"
+      },
+      "metrics": {
+        "true-35": 0.38247934977213544,
+        "true-90": 0.008144378662109375,
+        "counterfactual-35": 0.48056666056315106,
+        "counterfactual-90": 0.16727701822916666
+      },
+      "changed_pixels": {
+        "true-35": 4887,
+        "true-90": 1294,
+        "counterfactual-35": 5783,
+        "counterfactual-90": 2584
+      }
+    }
+  }
+}

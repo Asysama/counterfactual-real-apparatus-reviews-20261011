@@ -1,0 +1,129 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.0,
+      0.0,
+      1.2999999523162842
+    ],
+    "pos": [
+      0.8287115097045898,
+      -6.800000190734863,
+      3.884000062942505
+    ],
+    "projection": "perspective"
+  },
+  "category": "overdamped_oscillator",
+  "descriptions": {
+    "counterfactual": "A spring-mounted carriage with a calibrated viscous damper rests on horizontal guides, displaced from the marked equilibrium. The apparatus has a fixed calibration with damping greater than critical damping. It is released from rest without any drive. The carriage repeatedly crosses equilibrium with a decaying oscillation despite the unchanged calibrated overdamped spring and damper, violating their stated viscous response.",
+    "true": "A spring-mounted carriage with a calibrated viscous damper rests on horizontal guides, displaced from the marked equilibrium. The apparatus has a fixed calibration with damping greater than critical damping. It is released from rest without any drive. The carriage returns monotonically toward equilibrium without crossing it, as expected for an overdamped system."
+  },
+  "evidence_frame": 43,
+  "first_changed_frame": 36,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Workbench analytical replay",
+    "git": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "10140b49ccbdc9ee2fd7aa531c2181566c527e9784c84c4db99a2005cdbea468",
+      "engine/media.py": "46dd6adb824154d94efd1a9d5df6de95e19aab5775450d349ff3598ddbf3da06",
+      "engine/operators.py": "cdbb5fed987c0771c98e4d851de017d4b56e39b0563695740c54eec651bdd02d",
+      "engine/run.py": "aecaba7a220866b8192d0b304d68c274b7490447d8ae2f62493b0c3c6d5a4e51",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "e8b03be42a85fab5822c6521b39d16684b510a5632954691f3e4da2af2ec8261",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/phenomenon.py": "9a4c099d89cf6fa705a2a39bcdae2c4c3fb846ad550355814488f187321193a5",
+      "src/scaling.py": "c19f5f4c1b28b04e741769ef031207cfe9643f59e2cf7a1e56f6f035adcdb096",
+      "src/violation.py": "6a12c69c7b22c0c0d88feb2bfc3fda10f2dda715d53ae2ee1c19ba2652d2b117",
+      "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tests/test_physics.py": "d2dd16372608dfa08f947c592028745b1762ab9212a8d8168aa88ea23484eb07",
+      "tests/test_runtime.py": "38d322882bf7b5a339e50a0a6da47e210021fa22440ffc466ae05ffff084f2a1"
+    }
+  },
+  "intervention_frame": 36,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 36,
+  "onset_frame": 36,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_undocumented_viscous_response_reduction/mask.mp4",
+      "mask_overlay": "counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4",
+      "prompt": "counterfactual_undocumented_viscous_response_reduction/prompt.txt",
+      "trajectory": "counterfactual_undocumented_viscous_response_reduction/trajectory.npz",
+      "video": "counterfactual_undocumented_viscous_response_reduction/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "overdamped_spring_spurious_oscillation",
+  "phenomenon_data": {
+    "scene_params": {
+      "amplitude": 0.48400000000000004,
+      "appearance": 0,
+      "c": 17.599999999999998,
+      "cf_ratio": 0.1,
+      "damping_ratio": 1.5999999999999999,
+      "gravity": 9.81,
+      "k": 30.25,
+      "length": 3.5,
+      "mass": 1.0,
+      "omega": 5.5,
+      "onset": 35,
+      "response": 1.105,
+      "view": 8
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Does the overdamped carriage return without crossing equilibrium?",
+        "Does the overdamped carriage repeatedly cross equilibrium?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "The carriage returns monotonically toward equilibrium without crossing it, as expected for an overdamped system."
+        ],
+        "violation_if_true": [
+          "The carriage repeatedly crosses equilibrium with a decaying oscillation despite the unchanged calibrated overdamped spring and damper, violating their stated viscous response."
+        ]
+      },
+      "violation_types": [
+        "undocumented_viscous_response_reduction"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Workbench32_RGB_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "overdamped_spring_spurious_oscillation_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "physical_seconds_per_video_second": 1.0,
+    "solver": "analytical",
+    "source_dt": 0.041666666666666664
+  },
+  "violation_type": "undocumented_viscous_response_reduction"
+}

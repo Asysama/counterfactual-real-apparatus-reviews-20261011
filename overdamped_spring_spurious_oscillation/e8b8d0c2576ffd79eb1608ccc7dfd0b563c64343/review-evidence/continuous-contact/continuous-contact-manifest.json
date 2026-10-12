@@ -1,0 +1,130 @@
+[
+  {
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000042",
+    "branch": "true",
+    "source_sha256": "11520ca713ef360823acaa27efcc7b7f9e46e6df603b949dc28209c10b7f946e",
+    "crop_xywh": [
+      620,
+      1100,
+      1000,
+      410
+    ],
+    "frames": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "image": "42-true-continuous-contact.jpg",
+    "image_sha256": "6b9d368a1074c0b2174c543033aa1bb8dda6961b69d670211ee6444b68de086d"
+  },
+  {
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000042",
+    "branch": "counterfactual",
+    "source_sha256": "160c9fbdff2dee158dc90e09716dda5824667b8480ef6435e70e7d3933c0cf00",
+    "crop_xywh": [
+      620,
+      1100,
+      1000,
+      410
+    ],
+    "frames": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "image": "42-counterfactual-continuous-contact.jpg",
+    "image_sha256": "9eb48c5bbdab2528dc41820f791c14e622f9e465bbf72ff6a03332b1a66def95"
+  },
+  {
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000098",
+    "branch": "true",
+    "source_sha256": "aee31941e20cb264532e41fd6a74a3eefcc0f033f41336952e39f8a5a6b5cd1c",
+    "crop_xywh": [
+      620,
+      1100,
+      1000,
+      410
+    ],
+    "frames": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "image": "98-true-continuous-contact.jpg",
+    "image_sha256": "ba5ba6cc8cec5509f4f694997c9410e1ece6f73ce0e39618c5b4c1c3d9c4e067"
+  },
+  {
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000098",
+    "branch": "counterfactual",
+    "source_sha256": "3cfea2b34bae407c8894ca312e9767f5de0854d5e53e5c6c88415c206a158a33",
+    "crop_xywh": [
+      620,
+      1100,
+      1000,
+      410
+    ],
+    "frames": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "image": "98-counterfactual-continuous-contact.jpg",
+    "image_sha256": "9a25c89fedbd4481fa15f88f9b17a82b3ffae899501d47f28abe9779831dafb3"
+  }
+]

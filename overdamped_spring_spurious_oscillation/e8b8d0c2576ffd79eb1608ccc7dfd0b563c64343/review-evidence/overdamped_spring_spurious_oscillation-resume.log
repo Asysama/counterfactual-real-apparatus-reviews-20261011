@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-five/new-20261010/spring-contact-20261012/verified-digital-current/overdamped_spring_spurious_oscillation/generators/overdamped_spring_spurious_oscillation/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-five/new-20261010/spring-contact-20261012/verified-digital-current/overdamped_spring_spurious_oscillation/generators/overdamped_spring_spurious_oscillation/engine/run.py", line 93, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

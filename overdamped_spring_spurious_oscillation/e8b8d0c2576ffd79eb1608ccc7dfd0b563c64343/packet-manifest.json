@@ -1,0 +1,772 @@
+{
+  "generator_name": "overdamped_spring_spurious_oscillation",
+  "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+  "files": {
+    "accepted.jsonl": {
+      "bytes": 324,
+      "sha256": "23e6635793efa9207d80e32fb6591635273bd60d5a5293d9965357a1e94dbbec"
+    },
+    "expected-case-ids.json": {
+      "bytes": 109,
+      "sha256": "82da6cd81c889a3cef9090dcfbb0659997e3f8c235b8d1bc96b80191a3b50063"
+    },
+    "external-native-media.json": {
+      "bytes": 4829,
+      "sha256": "147dd0c14a3260d305124fed902bdfd53d9328ef5e24aefe9c28adc8efa04afe"
+    },
+    "index.html": {
+      "bytes": 16183,
+      "sha256": "55eb3d52823e96c53f718635133b92624ffa2d27c865d08484132459a9e9cf06"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/browser-derivatives.json": {
+      "bytes": 685,
+      "sha256": "419e02bd8b5da19495ebe6fde485f2dee1b2be5d7a11674865880485d596f005"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual-000.png": {
+      "bytes": 138407,
+      "sha256": "765f1db5b45375622f51bb6b3a5babc8e8f1143b847c164537c499086adab051"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual-032.png": {
+      "bytes": 136862,
+      "sha256": "f8fe72e2c7be8c4fcbd7314346fbd652b4b1274eb0f7e8e38b1f2704a648f15f"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual-039.png": {
+      "bytes": 130313,
+      "sha256": "5d606ba650cf6a063e9839eedf397dfccddf2b411d3eef82e23ba06069c83291"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual-090.png": {
+      "bytes": 132406,
+      "sha256": "a559d1bfe566c26a09d5f436c40f84e897c17c747b11822055f37b72ca8a419d"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual-119.png": {
+      "bytes": 132129,
+      "sha256": "c6fb544a87a1ce87b3510c7818d631ad858757505c8baf99b4795792ad0d922e"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask_browser.mp4": {
+      "bytes": 99888,
+      "sha256": "84c6b9691812e0e2728429c2baeaf7947d58fd24bf773ba0f50488d840f46a4b"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask_overlay_browser.mp4": {
+      "bytes": 1455706,
+      "sha256": "de76a55d42a058d45149c1609c2a89fe84b97b50195f92885c082a0975d6f380"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/prompt.txt": {
+      "bytes": 427,
+      "sha256": "2ac8ad0240685d8ee85f3cf35a9d4850847d5027e892b00c3876400adacc26ff"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/trajectory.npz": {
+      "bytes": 3259,
+      "sha256": "583251c2c8f2656d7fbb3ce090b43f1c3fb98a5d6067e163d6db4124d9e58f59"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/video_browser.mp4": {
+      "bytes": 1438650,
+      "sha256": "a18397d24f2b7c2094949bc5aedc9c8e3b17fce4e27040200943fa95a9074c2f"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/decoded-audit.json": {
+      "bytes": 991,
+      "sha256": "a6c37ab829da8adee3ddda7d4d4d1d173da9aa358667144792af7b933a08ddf3"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "a0edb26d9f9ac05d0b07a5172a0749647842b0a437eac0b928ddfac1ef4773b8"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/manifest.json": {
+      "bytes": 5262,
+      "sha256": "b0bbaaf5b15474292f7cba874a89fbdc5d68367854393094c8836b7dc2b902cc"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/mask-032.png": {
+      "bytes": 13345,
+      "sha256": "5e6228df0f55e9845693710044488351c610c8544d026ea9ec6a4be745e1c285"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/mask-039.png": {
+      "bytes": 13151,
+      "sha256": "fde684065c85834e72beb8712572c248842865a33f48372a4c090216ee51d1aa"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/mask-090.png": {
+      "bytes": 13176,
+      "sha256": "dbefac20e28845a532c7c3dfbaed09696431ea2b0a64e7991fa99ba36c364742"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/mask-119.png": {
+      "bytes": 13167,
+      "sha256": "d6534d6a3f964b6f3fb1d6e1d44965791e78ebfde5c06e87330b5a8d0503f9fb"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/metadata.json": {
+      "bytes": 5913,
+      "sha256": "8eff4e46f7ca3eca0269938170bd334b3152f1334399d11f4bafeed2bbef6ce5"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/overlay-000.png": {
+      "bytes": 138407,
+      "sha256": "765f1db5b45375622f51bb6b3a5babc8e8f1143b847c164537c499086adab051"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/overlay-032.png": {
+      "bytes": 132343,
+      "sha256": "7c1461f42032da5eda4ccffa98a8c3dad7c6b02ec774fb7ceffa7466303c8ca8"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/overlay-039.png": {
+      "bytes": 126427,
+      "sha256": "83366829ae3a84a9640f40ea5bb887898e1fc0a298e50c7233c74dbabc7fed05"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/overlay-090.png": {
+      "bytes": 128187,
+      "sha256": "e83ebe140490e006f7cc3427a5fd60f4f1df8c0c5f847a6a4b7d8e2326673d95"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/overlay-119.png": {
+      "bytes": 127880,
+      "sha256": "7473515f16e83fd903cce869f00c267419b658799f55fcf0abfc2753627242e7"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true/prompt.txt": {
+      "bytes": 364,
+      "sha256": "b5ab34e6fd50c1d293d368b44c0b4fabdc62850c6cb4450df7a297aa17ed7262"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true/trajectory.npz": {
+      "bytes": 3215,
+      "sha256": "d84b94673501570992e18a674d5b7cacaed7c7952db79517c81f01f57ca7bfa0"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true/video_browser.mp4": {
+      "bytes": 1442500,
+      "sha256": "48667fcd5fe77d4329350c5ce263553cb76da0dca158f4901bb2a604f6a3da6a"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true-000.png": {
+      "bytes": 138407,
+      "sha256": "765f1db5b45375622f51bb6b3a5babc8e8f1143b847c164537c499086adab051"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true-032.png": {
+      "bytes": 136672,
+      "sha256": "1f5c8678be1e1b99e3eaeae74f1c4f66866e6afe38dc3aa8b9ca7235890e0c32"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true-039.png": {
+      "bytes": 135923,
+      "sha256": "33fa2d8ac042bea84524965353a8bfbd5c93552c3635067965e932c54a399e4d"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true-090.png": {
+      "bytes": 131523,
+      "sha256": "5eaa3eecd406cce5cef4accc02239f6d1291b6f6a44fb52033174c8ec6b27962"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/true-119.png": {
+      "bytes": 131717,
+      "sha256": "0d599c3c9d79ce1f5f1eb36bde9843aef9168790091f5e6b16582dc2d0dcc29d"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/browser-derivatives.json": {
+      "bytes": 685,
+      "sha256": "93d6e60e8b5cbfe8909e58d9ec1e55bcb561c19929b101f44fca10f5900377d8"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual-000.png": {
+      "bytes": 139359,
+      "sha256": "4aeefd635e27326edf6cb3313e38ab2a11bc56e764acbe2c2d15007201fb866b"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual-036.png": {
+      "bytes": 141351,
+      "sha256": "4374883a47f36d8ed1b2f510027efd9f45ef3ef6751e7e6bf414217a45919a8a"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual-043.png": {
+      "bytes": 135856,
+      "sha256": "01ba3e7cc786773b54b329f3664a9612f28c07f680e06c19f35a36d0200dac1b"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual-090.png": {
+      "bytes": 136526,
+      "sha256": "f8f2e49b6c52931673baaceaef5e0a4b950bfea883465d8b0d15e0816e89fa08"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual-119.png": {
+      "bytes": 137859,
+      "sha256": "e56992b928553136e8ef53f1f9fd0fe452b141f877bbe41cd5a09d76d08544c4"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask_browser.mp4": {
+      "bytes": 98669,
+      "sha256": "ec3213215c5cb747e451b1c8c5f391a48b768a1820df64311be1ab704e7476c6"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask_overlay_browser.mp4": {
+      "bytes": 1499579,
+      "sha256": "8b5e92355a9a5bdd6e666cd3e88b0a7b6d76b7d19e547e6842a9b1e1c1588c1b"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/prompt.txt": {
+      "bytes": 427,
+      "sha256": "2ac8ad0240685d8ee85f3cf35a9d4850847d5027e892b00c3876400adacc26ff"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/trajectory.npz": {
+      "bytes": 3139,
+      "sha256": "3b455ee9e65ecbce7cd364b3b099594f0b01e94ed5c8f2ee70afec59ca875b31"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/video_browser.mp4": {
+      "bytes": 1488164,
+      "sha256": "a7d43c518c3e012b598ddfaa33bf2f14e0e94803f1085d043554c9608dcfe40c"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/decoded-audit.json": {
+      "bytes": 991,
+      "sha256": "d4df0ba828e677f99db6368c431da838b72c02f24bbcf8349ed0d715c1138a15"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "52c370d20a3b3c1b0b2e96f03c40f511609b6638e00c02f2d880586d1a943515"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/manifest.json": {
+      "bytes": 5262,
+      "sha256": "8948bc570fd8942f4e41c65705369b179850dc0cafb84434167a8f665992441a"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/mask-036.png": {
+      "bytes": 13106,
+      "sha256": "4479d05e4396f48716e9ad83d0b37ddca9d74f9c0baaa75a3376443cef73c692"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/mask-043.png": {
+      "bytes": 13185,
+      "sha256": "8f0ad5243209aa264f86c51c99470fc065799d0fe3af963baa6f513455d8afab"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/mask-090.png": {
+      "bytes": 13173,
+      "sha256": "502219cef6b134f45e21f51a316dd0a2dc4babad9cae943d076c7b84d3828d37"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/mask-119.png": {
+      "bytes": 13173,
+      "sha256": "280eda322652e7c8a88b70124af80dd05f2a392d98f6b25dd708d6d86d0dd578"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/metadata.json": {
+      "bytes": 5900,
+      "sha256": "fed8edb5447b3454f5a49ccf136abb5ffbf5b059eabef12394b8182be792da2d"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/overlay-000.png": {
+      "bytes": 139359,
+      "sha256": "4aeefd635e27326edf6cb3313e38ab2a11bc56e764acbe2c2d15007201fb866b"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/overlay-036.png": {
+      "bytes": 137752,
+      "sha256": "bba04b7cce46cf3b574b102ceb0ecc21ecc1598aac46b9ce3bd8c003dcd8b162"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/overlay-043.png": {
+      "bytes": 131612,
+      "sha256": "ee011fa5d40f3b622d943147f7432d5f1d7c3edc17239fd583124b5e82ee4845"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/overlay-090.png": {
+      "bytes": 132142,
+      "sha256": "adb0a5764bc81bc51ab3dffe27ebfbc79b045fdcf0bf625d899d36edb0e5d0ce"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/overlay-119.png": {
+      "bytes": 133567,
+      "sha256": "36e34dc80fe1885db739a823c5beaf8a2b35a0600a19236b6335b895b5df0a16"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true/prompt.txt": {
+      "bytes": 364,
+      "sha256": "b5ab34e6fd50c1d293d368b44c0b4fabdc62850c6cb4450df7a297aa17ed7262"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true/trajectory.npz": {
+      "bytes": 3125,
+      "sha256": "f0724cf237a157c5a07326ac8c3e18c51777d8a21433de0637246f53a5402234"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true/video_browser.mp4": {
+      "bytes": 1492613,
+      "sha256": "6ff6655b814c7ea232a70f42d9f54dfe1dd4b1373125d62c2fa1088bc04a4c67"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true-000.png": {
+      "bytes": 139359,
+      "sha256": "4aeefd635e27326edf6cb3313e38ab2a11bc56e764acbe2c2d15007201fb866b"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true-036.png": {
+      "bytes": 141426,
+      "sha256": "50da187e00d2da2841a547e79b17466178acb4467e49fdebdbbb7f56e107711c"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true-043.png": {
+      "bytes": 140325,
+      "sha256": "d8d46bdef976c6525eebb8802fd71d8a82b35b7c9a0e485675c8fa428103d1d2"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true-090.png": {
+      "bytes": 134773,
+      "sha256": "a30f8f6bac3dec69babe1f5c12cfee29bd9b4fee4aa59e0f56be2345db101013"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true-119.png": {
+      "bytes": 136824,
+      "sha256": "53bea4b9b6449356901e797aa3a640a136b8c86dbda16b369a291c5c5d4917db"
+    },
+    "production-header.json": {
+      "bytes": 2327,
+      "sha256": "10a375aa443c2dbba4b9ac90ceecf1110d6264a5bad61a46fc4ca95545ba23aa"
+    },
+    "review-evidence/both-seeds-full-scene-inspection.jpg": {
+      "bytes": 233820,
+      "sha256": "57e66c23395a7117b73fc9486edcab403685307d54a1d921c6b33301a972311f"
+    },
+    "review-evidence/continuous-contact/42-counterfactual-continuous-contact.jpg": {
+      "bytes": 327394,
+      "sha256": "9eb48c5bbdab2528dc41820f791c14e622f9e465bbf72ff6a03332b1a66def95"
+    },
+    "review-evidence/continuous-contact/42-true-continuous-contact.jpg": {
+      "bytes": 313807,
+      "sha256": "6b9d368a1074c0b2174c543033aa1bb8dda6961b69d670211ee6444b68de086d"
+    },
+    "review-evidence/continuous-contact/98-counterfactual-continuous-contact.jpg": {
+      "bytes": 336186,
+      "sha256": "9a25c89fedbd4481fa15f88f9b17a82b3ffae899501d47f28abe9779831dafb3"
+    },
+    "review-evidence/continuous-contact/98-true-continuous-contact.jpg": {
+      "bytes": 328788,
+      "sha256": "ba5ba6cc8cec5509f4f694997c9410e1ece6f73ce0e39618c5b4c1c3d9c4e067"
+    },
+    "review-evidence/continuous-contact/continuous-contact-manifest.json": {
+      "bytes": 2574,
+      "sha256": "6a830db136f3e7dc986bd292fd614b6c90e783d6ae1d1cdfc15d7df56b045836"
+    },
+    "review-evidence/controlled-primary-axis-montage.jpg": {
+      "bytes": 77724,
+      "sha256": "3ac1486e7e598c2cf4198bef83bc2bdc0906afe7c5bce05152d6c5dbe2130dc8"
+    },
+    "review-evidence/full-scene-inspection-manifest.json": {
+      "bytes": 1734,
+      "sha256": "8a1af55d0f178351c647b810b98a0a23840aa41113a20a7606469b110053a653"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-38-native-crop.png": {
+      "bytes": 12125,
+      "sha256": "876a8fd8aae700bd36a20a6e402d0c885ccc395a17ba8aee9c77af834087b416"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-38-overview.jpg": {
+      "bytes": 7876,
+      "sha256": "1dd0e9d9e67297cb90aca99093dab99bb71e4a8e5cef567acfa3e152f1f7cfa3"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-39-native-crop.png": {
+      "bytes": 12018,
+      "sha256": "1afc6fb5ab075ba4ad2521f3fd38676955ac4744f6157f5e6f5b99d4185ae807"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-39-overview.jpg": {
+      "bytes": 7864,
+      "sha256": "04f48b3c0ddde28ffbd7cc34e33aad901973cdf5f4fa6b7c2d1b61332ea7b063"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-40-native-crop.png": {
+      "bytes": 12252,
+      "sha256": "1d057895caa16f45c7119e10497be5d0bbc214a82b72e6d62fb3bf53886352bd"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/counterfactual-40-overview.jpg": {
+      "bytes": 7842,
+      "sha256": "81e62b4b7fcc4206296e2c90fb227532f0cbc4e3c976d7569854b351866e37a0"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-38-native-crop.png": {
+      "bytes": 1087,
+      "sha256": "6c7444fefcd5d86382b198955b4094849dc3e278fb224e7ca8c7d006adad390c"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-38-overview.jpg": {
+      "bytes": 5251,
+      "sha256": "916f979f0eda3f8ec0a3e3c9e796bf9e4974bb10e41b68fed62d56cf7634e97f"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-39-native-crop.png": {
+      "bytes": 1056,
+      "sha256": "270dea85f312c06fc46baca72b56f1020a58c095e9fc830b6b0ca009c6bed0d2"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-39-overview.jpg": {
+      "bytes": 5204,
+      "sha256": "0bb05b02106c53bd868b02256d239c42c459d38456195e8602580465c78512b9"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-40-native-crop.png": {
+      "bytes": 984,
+      "sha256": "0fba3fdba19dc88f0a1abca6206c7dc68938964e1b39b695564591547146157d"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/mask-40-overview.jpg": {
+      "bytes": 5211,
+      "sha256": "aee853e95d4a1f4d1815c54d050f1e4e5229c22798981883d0661d75a96b7b24"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/native-temporal-crops.png": {
+      "bytes": 103099,
+      "sha256": "9fb82d3836e4935c3a3c9f47e32e4c9d22858b977a5bfdfca2624427055225ea"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-38-native-crop.png": {
+      "bytes": 8581,
+      "sha256": "f1e20836b74add4923ef46acacdb9e8f18e4e11417e2e90cb01c7c8f049b31ea"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-38-overview.jpg": {
+      "bytes": 7987,
+      "sha256": "39b8e43b11854affc581ecf779ee9a84f889081fd459c18f24638871beb429ba"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-39-native-crop.png": {
+      "bytes": 8590,
+      "sha256": "944ed6027738fa62fe10506ecdee91c4371fec161fdb4470a07238217d8ff449"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-39-overview.jpg": {
+      "bytes": 7962,
+      "sha256": "ce0330fbe69b46be8eefde337f077d3711e79c2c6a22ae0d8c9f53a07c874e6b"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-40-native-crop.png": {
+      "bytes": 8828,
+      "sha256": "fa87f670e11847959b54c113641e1c07cee503656383bb5c8ce241a09df567ae"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/overlay-40-overview.jpg": {
+      "bytes": 7951,
+      "sha256": "cdc413f4321b078ac06ddf0537c338d5aaaa003dcbe658451b9ce1c2b0ac2296"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-38-native-crop.png": {
+      "bytes": 12715,
+      "sha256": "dba2e1b7f8d591ce58afe11de460af7dd795102e3b6ee7510d20d072849e5ac2"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-38-overview.jpg": {
+      "bytes": 7970,
+      "sha256": "ddf997e754c7d325b79bc3cc9d0cf1c45f1b6fb41acc199e296364705c193cef"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-39-native-crop.png": {
+      "bytes": 12792,
+      "sha256": "befb11b17e5496b99bab44241402f17414c5c134254594f0fca1d04931112039"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-39-overview.jpg": {
+      "bytes": 7963,
+      "sha256": "8db113318ab063f62a3c6a26a4b6545f72a337e27baa8ba1e085925852a2e9ba"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-40-native-crop.png": {
+      "bytes": 12735,
+      "sha256": "029a8082ab329951168ce6fdbebe5dd1a2291aed2060692ce4c548df250f93ae"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000042/true-40-overview.jpg": {
+      "bytes": 7980,
+      "sha256": "bce7000c73d84d213ce9a502f02c47f8a01c160a3a4ca31b0cf080448f4b6421"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-42-native-crop.png": {
+      "bytes": 12841,
+      "sha256": "9e5b34b493b208f525dcf07ddcaca822ee18acb39c04670df787f51651f7f1dd"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-42-overview.jpg": {
+      "bytes": 8019,
+      "sha256": "f654bc1d32815b84b93f01c856e14d295899761b6c26a6f6b7e2a0794d64db10"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-43-native-crop.png": {
+      "bytes": 12739,
+      "sha256": "62c985df300be29c3b8906fe9140cfb1f0d5b006b0859efdf4e5a9a68119f59c"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-43-overview.jpg": {
+      "bytes": 7979,
+      "sha256": "ad01b8a589aced3a321abfcfb2464346461352fe3a42c3600fffa49469d427af"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-44-native-crop.png": {
+      "bytes": 12521,
+      "sha256": "53fe7602ae56a20759bcaaba124512281eaff7ab7ebda9c14fd7dd0c51e5ca49"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/counterfactual-44-overview.jpg": {
+      "bytes": 7988,
+      "sha256": "8081dd968e48dfc91ce0b8d34643f5e97098a73ce2b732054a6405fd3e32ea5a"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-42-native-crop.png": {
+      "bytes": 1128,
+      "sha256": "a40af46b0a567b91ac9bd921eb262c4ad981cf806ea7c7fbbb8711a7b89bcbba"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-42-overview.jpg": {
+      "bytes": 5208,
+      "sha256": "e855d4b029dc53b89c4a012f9d10a025c73a7ed2f896d1a6536208eb4b0db55f"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-43-native-crop.png": {
+      "bytes": 1140,
+      "sha256": "32a096d34bd1c0a41107d40b970be1e0d41299054920e3876a3ebca2732e77ac"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-43-overview.jpg": {
+      "bytes": 5196,
+      "sha256": "d6051f13ca94d466f8771aacec28538825d8a07241b7395da58313385b33b741"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-44-native-crop.png": {
+      "bytes": 1177,
+      "sha256": "18f03160d3a6c181f9624899e2476c3893fe572e7e26a2052bee3b1aeac89eb2"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/mask-44-overview.jpg": {
+      "bytes": 5228,
+      "sha256": "bea93bf209f9845193cb0135abf1bee72f4e4fd86d87ea6851447bdfded94a0a"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/native-temporal-crops.png": {
+      "bytes": 100889,
+      "sha256": "62dd666c54047bef7b3f80053033e73d4204a3c73549a1893fe58669d8182010"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-42-native-crop.png": {
+      "bytes": 9211,
+      "sha256": "c32a5558acf646bd999cc866372c0680ee67cb228fa7a4982adba11ad01cabab"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-42-overview.jpg": {
+      "bytes": 8093,
+      "sha256": "dbc0ab23542ddb2307531b057b0017de8fd1fb2a9b51b44207316d803d7c1939"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-43-native-crop.png": {
+      "bytes": 9133,
+      "sha256": "cd609bf63a451e5cec16bce2aefeca08158cda31eeec36effb1c4f3840cbe12f"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-43-overview.jpg": {
+      "bytes": 8013,
+      "sha256": "d463b1833416435f506151277c49e2df4ab85ed8f72a37601ea20a406738f439"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-44-native-crop.png": {
+      "bytes": 9095,
+      "sha256": "532e61215a91d14123dde90e3d1874cc82a46803a373a2c79a79b5765ca330d1"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/overlay-44-overview.jpg": {
+      "bytes": 8031,
+      "sha256": "2391aff7f1e98e3469f6ababd3f743baf2edb3564f0791df6f581671cfdbc353"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-42-native-crop.png": {
+      "bytes": 12681,
+      "sha256": "4540bac8cf57465a1d8266550d36408f2eef6445537c06c3dfdce97f90adac8b"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-42-overview.jpg": {
+      "bytes": 8123,
+      "sha256": "b977ec77c62c4967ee35ded96a0b2ef1cbf995aecb110cd273d9e3bdd3a7139e"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-43-native-crop.png": {
+      "bytes": 12664,
+      "sha256": "c1eeb0ae9581122eaa78b31789eb212b69a0e322af657d401cdd6f964c3342fb"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-43-overview.jpg": {
+      "bytes": 8127,
+      "sha256": "5df0763c8c12c1f02eb405ebad507c0814f039095743baf0419f52fa85486775"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-44-native-crop.png": {
+      "bytes": 12686,
+      "sha256": "94ff6f9c91313297ab0b5a7ff3445960dba1f52ee2e68994c9fc7c10ad7a7aed"
+    },
+    "review-evidence/native-temporal-inspection/overdamped_spring_spurious_oscillation_00000098/true-44-overview.jpg": {
+      "bytes": 8144,
+      "sha256": "2ba520195035fd4889a5393ce872a26e161291117797b95e534a072b904a4d8f"
+    },
+    "review-evidence/native-temporal-inspection-manifest.json": {
+      "bytes": 13789,
+      "sha256": "8c72f233213b0c98334c09efef5d583af6e3e9e106a6d8ca5bb9f54a3cf28849"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/axis-probes.json": {
+      "bytes": 8523,
+      "sha256": "9d968dd79de654ae9de0fb298cc910b4226dc17fad87758c10121351325c937c"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 29657,
+      "sha256": "c77e626e577af2a8ca14d7a4f48fc1d9e15fd1ae2ed4197a9848aec3833b22fb"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 29105,
+      "sha256": "dfd8803c626f2381d277135677c21df272118af51d586ca3516cb3a810a47b93"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/baseline-true-35.png": {
+      "bytes": 29842,
+      "sha256": "b6f0ed0ad91fed74c66cb67390d67b98a946ce3c0bf1cb2c7c7208505d437684"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/baseline-true-90.png": {
+      "bytes": 28976,
+      "sha256": "3f08504f65dcc037a3618e906640e29fa6061ad72f582b1c411566dd0aaadce8"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 29800,
+      "sha256": "f0dcc96177ed0a1b6311c12a08e2aa2fef3a8576ba1eb004f20ad5c3860e5a8d"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 29167,
+      "sha256": "a956f6b309645ad1892e01c7222e65c6ee3dd91e51b2d34b6d4e6f2a3f2beb5a"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_high-true-35.png": {
+      "bytes": 29955,
+      "sha256": "085f825c2e8d310ea0fb723aad9677538008f7b21608a0ffacadd658dcce6efe"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_high-true-90.png": {
+      "bytes": 29018,
+      "sha256": "eba207650b36082f76d3af96551ffa3fcec84408e61465313015be41455a137c"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 29585,
+      "sha256": "e9b1f519c9ff0243843f9c55d73f6badb251e1f76a5f8e1f4d2056f18874edb3"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 29007,
+      "sha256": "6177a0c2f8f0f0e8edaa81997a231adea20671208e8d3198468504eefd19a8f9"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_low-true-35.png": {
+      "bytes": 29639,
+      "sha256": "fc9a4c2eade4c8e81252e1c4f442420688b9dcbacb688883d2cb22ce094eccd6"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/length_low-true-90.png": {
+      "bytes": 28815,
+      "sha256": "55091df38afe7166801dcbc60503e3be7474515271c02de4835bde163f49796d"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 29806,
+      "sha256": "736ac3a85e8c3aec86ace3e98e591e9d302d6680bf401e956ab9fbb3fcb0a40b"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 29157,
+      "sha256": "cc8674a06f1a993c66f7ae5923f80118ff00215623b89926a7ea7802715f2b8e"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_high-true-35.png": {
+      "bytes": 29806,
+      "sha256": "b4aa9cf39877c9fe18dd9f6f41b74f63544a2d5cecd9e12a94e9b9ba3d543e1f"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_high-true-90.png": {
+      "bytes": 28895,
+      "sha256": "2bb7dc92394dd74ff3d09c562179d47f924e0b3244fd14a59bc39f1f4a484aa9"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 28978,
+      "sha256": "4a645d0fb67da73a80b4258d257301f40fefabbd299acc62cf9bab21f230d2b3"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 28904,
+      "sha256": "957182ecdab89026cbf48a8d9ab2bf999839a8d550f8d512d1f864093c7ef6f6"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_low-true-35.png": {
+      "bytes": 29711,
+      "sha256": "9580c5953badbbf3cb2a2718c923e424ae4f3b1c5233eb5338a34ae57576993b"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/onset_low-true-90.png": {
+      "bytes": 28862,
+      "sha256": "fbbf5073f38ef3bb6319b4153b2d1442fd403328d4a1c3f997eaca2b84cfeb2e"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 29657,
+      "sha256": "de83fd7a4eba67fd2071ef83b36f039d66a0d02fe4057dc0bfdafff0c7a50f4c"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 29105,
+      "sha256": "90691887df2645feaacd890ff3e685cbdf10da1df1cb4b164d1924237083bdc7"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_high-true-35.png": {
+      "bytes": 29840,
+      "sha256": "b9c5eb3e144d5817e59d389b6429d0757a858f819516e2e4f5d82548c3e0e7a8"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_high-true-90.png": {
+      "bytes": 28928,
+      "sha256": "414fad8e8eb72584e023ac2291de8398f7038faad456d58c514cf70769326d8b"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 29657,
+      "sha256": "2e94e54532e004b598fab4982a0509cea88d5ba33d178a4c0b7bf2c9f81cc9a4"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 29105,
+      "sha256": "3310702d72a2f42d75321aaa1af44ad5a9e948b243cecfc72d1d2e5ecb05399b"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_low-true-35.png": {
+      "bytes": 29854,
+      "sha256": "f367448fb2be8f536b0fdc8801a5bab17b79ef40de63392060eadc02410b8d89"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes/response_low-true-90.png": {
+      "bytes": 28853,
+      "sha256": "34ae176d6fc4a1891a61d5ca95024fae70c27f6d68fe2c471799efee92885f1d"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-axis-probes.log": {
+      "bytes": 5332,
+      "sha256": "ad45c1ec5f446ea3bdbe09ec82a391b10df56cb188b5d87bad220a9ba4bc3be2"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-bounded-resources.json": {
+      "bytes": 1294,
+      "sha256": "cfd35992b65b6b2dcc955de104f6d16a010b1639f4f2f28ac7f3d9e518be3bed"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-help.log": {
+      "bytes": 408,
+      "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-independent.json": {
+      "bytes": 1672,
+      "sha256": "199108663399604f75db1d95a6d587ffa7703b0dbe22b060e683db419c534d72"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-independent.log": {
+      "bytes": 130,
+      "sha256": "58ff4d2eeaf9ba9d1b407b416ccf5679bfe92521d11d6668af436df775cfea3d"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-render.log": {
+      "bytes": 140852,
+      "sha256": "175ca32496e0f88b7a598f7cf4e8930e171cf58bbd486617ff0d4c839970d2de"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-resume.log": {
+      "bytes": 724,
+      "sha256": "fcfa90a3ee0159b6483ea8eb5d406153b538ecdfc87090687b9e7ca771f1d2d0"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-runtime-index.log": {
+      "bytes": 1205,
+      "sha256": "d77f0e2a9ddd8ce2febebc0fdee4abc8fe0259e4099f3e134e7ecd778e449d95"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-runtime.json": {
+      "bytes": 293,
+      "sha256": "3488f030e0cc784eb4115a4f32b51f9b32c029c605d00b5377134bca4349bdc8"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-scale.json": {
+      "bytes": 751,
+      "sha256": "7f1f87c2d34b247428fc427225ba15bb3fd28ba87de9dcef910132188cd92620"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-scale.log": {
+      "bytes": 751,
+      "sha256": "7f1f87c2d34b247428fc427225ba15bb3fd28ba87de9dcef910132188cd92620"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-superseded-resource-growth.json": {
+      "bytes": 1296,
+      "sha256": "7edfdbdd643b8cca3838de7702d5a1523ae4aaa93c7bc098ec3b5d7414dba967"
+    },
+    "review-evidence/overdamped_spring_spurious_oscillation-tests.log": {
+      "bytes": 98,
+      "sha256": "f31a00f9a9a8ee83de2978b393697d83e9184ec3d0d51af221a717ab0b1159b1"
+    },
+    "review.json": {
+      "bytes": 643,
+      "sha256": "8b5ff0e9ba7f4ede46091a172cfe2f808ca85514872ca025141ceff7262bcd00"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1205,
+      "sha256": "d77f0e2a9ddd8ce2febebc0fdee4abc8fe0259e4099f3e134e7ecd778e449d95"
+    },
+    "runtime-witness.json": {
+      "bytes": 17463,
+      "sha256": "599b8e862367d8a9893ba071af71ff6ab267bec7aeb602c171557fda5f866355"
+    }
+  },
+  "external_files": {
+    "overdamped_spring_spurious_oscillation_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-42-true.mp4",
+      "bytes": 18407455,
+      "sha256": "11520ca713ef360823acaa27efcc7b7f9e46e6df603b949dc28209c10b7f946e",
+      "github_asset_id": 633659081,
+      "server_digest": "sha256:11520ca713ef360823acaa27efcc7b7f9e46e6df603b949dc28209c10b7f946e"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-42-counterfactual.mp4",
+      "bytes": 18281367,
+      "sha256": "160c9fbdff2dee158dc90e09716dda5824667b8480ef6435e70e7d3933c0cf00",
+      "github_asset_id": 633659080,
+      "server_digest": "sha256:160c9fbdff2dee158dc90e09716dda5824667b8480ef6435e70e7d3933c0cf00"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-42-mask.mp4",
+      "bytes": 2066491,
+      "sha256": "88102823f9fd013e0687df0e7cc7c6a22f93c3069e0f2bcec92fea813854dc60",
+      "github_asset_id": 633659074,
+      "server_digest": "sha256:88102823f9fd013e0687df0e7cc7c6a22f93c3069e0f2bcec92fea813854dc60"
+    },
+    "overdamped_spring_spurious_oscillation_00000042/counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-42-overlay.mp4",
+      "bytes": 17927481,
+      "sha256": "0200d309a527f8fb2c37c12b123605dbedbecea3a2bb986d47621265fbf2fd54",
+      "github_asset_id": 633659084,
+      "server_digest": "sha256:0200d309a527f8fb2c37c12b123605dbedbecea3a2bb986d47621265fbf2fd54"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-98-true.mp4",
+      "bytes": 19314998,
+      "sha256": "aee31941e20cb264532e41fd6a74a3eefcc0f033f41336952e39f8a5a6b5cd1c",
+      "github_asset_id": 633659072,
+      "server_digest": "sha256:aee31941e20cb264532e41fd6a74a3eefcc0f033f41336952e39f8a5a6b5cd1c"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-98-counterfactual.mp4",
+      "bytes": 19216290,
+      "sha256": "3cfea2b34bae407c8894ca312e9767f5de0854d5e53e5c6c88415c206a158a33",
+      "github_asset_id": 633659462,
+      "server_digest": "sha256:3cfea2b34bae407c8894ca312e9767f5de0854d5e53e5c6c88415c206a158a33"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-98-mask.mp4",
+      "bytes": 2060474,
+      "sha256": "c7b8ebb2579ec9551b311f97683fab323a9d2c237f9405251806757faad8c3bc",
+      "github_asset_id": 633660590,
+      "server_digest": "sha256:c7b8ebb2579ec9551b311f97683fab323a9d2c237f9405251806757faad8c3bc"
+    },
+    "overdamped_spring_spurious_oscillation_00000098/counterfactual_undocumented_viscous_response_reduction/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-spring-contact/overdamped_spring_spurious_oscillation-e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343-98-overlay.mp4",
+      "bytes": 18845838,
+      "sha256": "1465c34c3f98af6b21ee83834d874fbf222284a97574e9815617eecd6e94f5d6",
+      "github_asset_id": 633660802,
+      "server_digest": "sha256:1465c34c3f98af6b21ee83834d874fbf222284a97574e9815617eecd6e94f5d6"
+    }
+  }
+}

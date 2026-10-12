@@ -1,0 +1,58 @@
+[
+  {
+    "generator_name": "overdamped_spring_spurious_oscillation",
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000042",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "11520ca713ef360823acaa27efcc7b7f9e46e6df603b949dc28209c10b7f946e",
+    "frames": [
+      0,
+      33,
+      39,
+      119
+    ]
+  },
+  {
+    "generator_name": "overdamped_spring_spurious_oscillation",
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000042",
+    "branch": "counterfactual",
+    "source": "counterfactual_undocumented_viscous_response_reduction/video.mp4",
+    "source_sha256": "160c9fbdff2dee158dc90e09716dda5824667b8480ef6435e70e7d3933c0cf00",
+    "frames": [
+      0,
+      33,
+      39,
+      119
+    ]
+  },
+  {
+    "generator_name": "overdamped_spring_spurious_oscillation",
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000098",
+    "branch": "true",
+    "source": "true/video.mp4",
+    "source_sha256": "aee31941e20cb264532e41fd6a74a3eefcc0f033f41336952e39f8a5a6b5cd1c",
+    "frames": [
+      0,
+      37,
+      43,
+      119
+    ]
+  },
+  {
+    "generator_name": "overdamped_spring_spurious_oscillation",
+    "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+    "case_id": "overdamped_spring_spurious_oscillation_00000098",
+    "branch": "counterfactual",
+    "source": "counterfactual_undocumented_viscous_response_reduction/video.mp4",
+    "source_sha256": "3cfea2b34bae407c8894ca312e9767f5de0854d5e53e5c6c88415c206a158a33",
+    "frames": [
+      0,
+      37,
+      43,
+      119
+    ]
+  }
+]
