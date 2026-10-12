@@ -1,0 +1,130 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.0,
+      0.0,
+      1.100000023841858
+    ],
+    "pos": [
+      0.5605989694595337,
+      -4.599999904632568,
+      2.8480000495910645
+    ],
+    "projection": "perspective"
+  },
+  "category": "thermal_conduction",
+  "descriptions": {
+    "counterfactual": "In an accelerated thermal time-lapse, an initially hotter metal block and a colder metal block are brought into face-to-face contact on an insulated table. Identical calibrated digital probe thermometers are mounted in the blocks; their large physical screens display temperature directly in degrees Celsius, with the left initially hotter than the right. No heater or external work supplies energy. The hot block gets hotter and the cold block gets colder despite their contact and lack of external energy input. Heat flows from cold to hot while the two-block total thermal energy remains conserved.",
+    "true": "In an accelerated thermal time-lapse, an initially hotter metal block and a colder metal block are brought into face-to-face contact on an insulated table. Identical calibrated digital probe thermometers are mounted in the blocks; their large physical screens display temperature directly in degrees Celsius, with the left initially hotter than the right. No heater or external work supplies energy. The hot block cools and the cold block warms as heat flows toward thermal equilibrium, with the two-block total thermal energy conserved."
+  },
+  "evidence_frame": 58,
+  "first_changed_frame": 37,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Workbench analytical replay",
+    "git": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "10140b49ccbdc9ee2fd7aa531c2181566c527e9784c84c4db99a2005cdbea468",
+      "engine/media.py": "46dd6adb824154d94efd1a9d5df6de95e19aab5775450d349ff3598ddbf3da06",
+      "engine/operators.py": "cdbb5fed987c0771c98e4d851de017d4b56e39b0563695740c54eec651bdd02d",
+      "engine/run.py": "aecaba7a220866b8192d0b304d68c274b7490447d8ae2f62493b0c3c6d5a4e51",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "e8b03be42a85fab5822c6521b39d16684b510a5632954691f3e4da2af2ec8261",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/instruments.py": "8bbcf29cc0425390a404a3aa07cacd7be9f43e23e7bf527494e7054073b1f849",
+      "src/phenomenon.py": "cea472d09dd062b9a3d34074b77e7ca66fd4c4c6671c3f01b71ea25c0d0729f6",
+      "src/scaling.py": "c19f5f4c1b28b04e741769ef031207cfe9643f59e2cf7a1e56f6f035adcdb096",
+      "src/violation.py": "a92907195b6c01739ef38e2f434b8f6b0e19e3d379ff4b0f7c9251d480e36068",
+      "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tests/test_physics.py": "08b800a9119bd5ce025b4497fbf8695c2e65872da20b4d3913fad377fa064024",
+      "tests/test_runtime.py": "60616dbf199ac1c36ed173182de6aef3d8f45be56361ddab815e754d9fe871a4"
+    }
+  },
+  "intervention_frame": 36,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 37,
+  "onset_frame": 36,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_negative_contact_conductance/mask.mp4",
+      "mask_overlay": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+      "prompt": "counterfactual_negative_contact_conductance/prompt.txt",
+      "trajectory": "counterfactual_negative_contact_conductance/trajectory.npz",
+      "video": "counterfactual_negative_contact_conductance/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "thermal_contact_reverse_heat_flow",
+  "phenomenon_data": {
+    "scene_params": {
+      "appearance": 0,
+      "capacity": 946606.5,
+      "cold0": 300.0,
+      "conductance": 139.466691,
+      "gap": 0.3,
+      "gravity": 9.81,
+      "hot0": 390.0,
+      "length": 3.5,
+      "onset": 35,
+      "response": 1.105,
+      "time_scale": 600.0,
+      "view": 8,
+      "width": 0.742
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Does the hot block cool while the cold block warms?",
+        "Does the hot block warm while the cold block cools without external energy?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "The hot block cools and the cold block warms as heat flows toward thermal equilibrium, with the two-block total thermal energy conserved."
+        ],
+        "violation_if_true": [
+          "The hot block gets hotter and the cold block gets colder despite their contact and lack of external energy input. Heat flows from cold to hot while the two-block total thermal energy remains conserved."
+        ]
+      },
+      "violation_types": [
+        "negative_contact_conductance"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Workbench32_RGB_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "thermal_contact_reverse_heat_flow_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "physical_seconds_per_video_second": 600.0,
+    "solver": "analytical",
+    "source_dt": 25.0
+  },
+  "violation_type": "negative_contact_conductance"
+}

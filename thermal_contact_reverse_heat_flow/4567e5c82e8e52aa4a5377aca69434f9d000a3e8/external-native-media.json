@@ -1,0 +1,61 @@
+{
+  "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+  "files": {
+    "thermal_contact_reverse_heat_flow_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-42-true.mp4",
+      "bytes": 20960128,
+      "sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "github_asset_id": 633730063,
+      "server_digest": "sha256:4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-42-counterfactual.mp4",
+      "bytes": 20859271,
+      "sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "github_asset_id": 633730062,
+      "server_digest": "sha256:c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-42-mask.mp4",
+      "bytes": 2332657,
+      "sha256": "3d8bf81478c611139509ab15fe38abf03e65398de86732085e23ed5af64f5a1d",
+      "github_asset_id": 633730064,
+      "server_digest": "sha256:3d8bf81478c611139509ab15fe38abf03e65398de86732085e23ed5af64f5a1d"
+    },
+    "thermal_contact_reverse_heat_flow_00000042/counterfactual_negative_contact_conductance/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-42-overlay.mp4",
+      "bytes": 13561132,
+      "sha256": "d47b16f1be451f61860871682c90a194f58d85d0dab9dbb811f255b9f7ec11d2",
+      "github_asset_id": 633730058,
+      "server_digest": "sha256:d47b16f1be451f61860871682c90a194f58d85d0dab9dbb811f255b9f7ec11d2"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-98-true.mp4",
+      "bytes": 22342987,
+      "sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "github_asset_id": 633730072,
+      "server_digest": "sha256:6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-98-counterfactual.mp4",
+      "bytes": 22265552,
+      "sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "github_asset_id": 633730522,
+      "server_digest": "sha256:fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-98-mask.mp4",
+      "bytes": 2283872,
+      "sha256": "18f031cf8ad51ec18e3daa9e416787868ad7abb4db6b292039872337579fc99c",
+      "github_asset_id": 633731978,
+      "server_digest": "sha256:18f031cf8ad51ec18e3daa9e416787868ad7abb4db6b292039872337579fc99c"
+    },
+    "thermal_contact_reverse_heat_flow_00000098/counterfactual_negative_contact_conductance/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-real-apparatus-reviews-20261011/releases/download/native-20261012-thermal-pad/thermal_contact_reverse_heat_flow-4567e5c82e8e52aa4a5377aca69434f9d000a3e8-98-overlay.mp4",
+      "bytes": 15307978,
+      "sha256": "2c0eab14b11155cf56c4910bd19359310d8961da1c3358bb6619bc83b93e5ce8",
+      "github_asset_id": 633732006,
+      "server_digest": "sha256:2c0eab14b11155cf56c4910bd19359310d8961da1c3358bb6619bc83b93e5ce8"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "first_changed_frame": 33,
+      "minimum_target_border_px": 481,
+      "minimum_mask_pixels": 569472,
+      "physical_witnesses": {
+        "true_final_K": [
+          373.3094543011289,
+          316.6905456988711
+        ],
+        "cf_final_K": [
+          416.5308736954089,
+          273.4691263045911
+        ],
+        "true_entropy_change": 12562.445875510573,
+        "cf_entropy_change": -32336.983866194263,
+        "evidence_frame": 63
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "first_changed_frame": 37,
+      "minimum_target_border_px": 560,
+      "minimum_mask_pixels": 448712,
+      "physical_witnesses": {
+        "true_final_K": [
+          369.2365661277641,
+          320.7634338722359
+        ],
+        "cf_final_K": [
+          428.5514399740098,
+          261.4485600259902
+        ],
+        "true_entropy_change": 11560.158091930673,
+        "cf_entropy_change": -40969.96551448107,
+        "evidence_frame": 58
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "formal_streams": 8,
+  "visual_and_browser_pending": true
+}

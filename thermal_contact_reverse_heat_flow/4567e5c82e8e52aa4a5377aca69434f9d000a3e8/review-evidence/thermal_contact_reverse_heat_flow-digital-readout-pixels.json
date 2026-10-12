@@ -1,0 +1,2647 @@
+{
+  "status": "PASS",
+  "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+  "method": "Independent seven-segment recognition from final decoded native RGB at projected physical segment centers; Celsius converted from independently audited trajectory temperatures. No generator imports.",
+  "observations": [
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 0,
+      "device": "hot",
+      "temperature_kelvin": 390.0,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-0-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 0,
+      "device": "cold",
+      "temperature_kelvin": 300.0,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.33333333333334
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-0-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 32,
+      "device": "hot",
+      "temperature_kelvin": 389.7636230057989,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-32-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 32,
+      "device": "cold",
+      "temperature_kelvin": 300.2363769942011,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-32-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 63,
+      "device": "hot",
+      "temperature_kelvin": 383.02063947808006,
+      "display_celsius": 110,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.666666666666668,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-63-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 63,
+      "device": "cold",
+      "temperature_kelvin": 306.97936052191994,
+      "display_celsius": 34,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 146.66666666666666,
+            "d": 23.333333333333332,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-63-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 90,
+      "device": "hot",
+      "temperature_kelvin": 377.9809181530768,
+      "display_celsius": 105,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 146.77777777777777,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 147.0,
+            "g": 23.666666666666668,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-90-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 90,
+      "device": "cold",
+      "temperature_kelvin": 312.0190818469232,
+      "display_celsius": 39,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.40740740740741,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-90-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 119,
+      "device": "hot",
+      "temperature_kelvin": 373.3094543011289,
+      "display_celsius": 100,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 147.0,
+            "e": 23.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 147.0,
+            "g": 23.666666666666668,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 147.0,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 147.0,
+            "g": 23.666666666666668,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 147.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-119-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "true",
+      "frame": 119,
+      "device": "cold",
+      "temperature_kelvin": 316.6905456988711,
+      "display_celsius": 44,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 147.0,
+            "d": 23.333333333333332,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 23.333333333333332,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 147.0,
+            "d": 23.333333333333332,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 23.333333333333332,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-true-119-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "hot",
+      "temperature_kelvin": 390.0,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-0-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "cold",
+      "temperature_kelvin": 300.0,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.33333333333334
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-0-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 32,
+      "device": "hot",
+      "temperature_kelvin": 390.23762519708634,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-32-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 32,
+      "device": "cold",
+      "temperature_kelvin": 299.76237480291366,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-32-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 63,
+      "device": "hot",
+      "temperature_kelvin": 398.2605455299474,
+      "display_celsius": 125,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-63-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 63,
+      "device": "cold",
+      "temperature_kelvin": 291.7394544700526,
+      "display_celsius": 19,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.333333333333332,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-63-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "hot",
+      "temperature_kelvin": 406.3991396661917,
+      "display_celsius": 133,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 146.77777777777777,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.666666666666668,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 146.66666666666666,
+            "d": 146.66666666666666,
+            "f": 23.666666666666668,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-90-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "cold",
+      "temperature_kelvin": 283.6008603338083,
+      "display_celsius": 10,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.40740740740741,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.444444444444443,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.333333333333332,
+            "b": 146.66666666666666,
+            "e": 23.333333333333332,
+            "c": 146.66666666666666
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 146.66666666666666,
+            "g": 23.333333333333332,
+            "d": 146.66666666666666,
+            "f": 146.66666666666666,
+            "b": 146.66666666666666,
+            "e": 146.66666666666666,
+            "c": 146.66666666666666
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-90-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "hot",
+      "temperature_kelvin": 416.5308736954089,
+      "display_celsius": 143,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.666666666666668,
+            "c": 23.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.666666666666668,
+            "d": 23.666666666666668,
+            "f": 23.666666666666668,
+            "b": 147.0,
+            "e": 23.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 147.0,
+            "d": 23.666666666666668,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 23.666666666666668,
+            "c": 147.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 147.0,
+            "g": 147.0,
+            "d": 147.0,
+            "f": 23.666666666666668,
+            "b": 147.0,
+            "e": 23.666666666666668,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-119-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "cold",
+      "temperature_kelvin": 273.4691263045911,
+      "display_celsius": 0,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.666666666666668,
+            "b": 23.666666666666668,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 23.666666666666668,
+            "g": 23.333333333333332,
+            "d": 23.333333333333332,
+            "f": 23.444444444444443,
+            "b": 23.333333333333332,
+            "e": 23.333333333333332,
+            "c": 23.333333333333332
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 147.0,
+            "g": 23.333333333333332,
+            "d": 147.0,
+            "f": 147.0,
+            "b": 147.0,
+            "e": 147.0,
+            "c": 147.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+      "native_crop": "thermal_contact_reverse_heat_flow/42-counterfactual-119-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 0,
+      "device": "hot",
+      "temperature_kelvin": 390.0,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-0-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 0,
+      "device": "cold",
+      "temperature_kelvin": 300.0,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 25.666666666666668,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 25.666666666666668,
+            "d": 25.666666666666668,
+            "f": 25.666666666666668,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-0-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 36,
+      "device": "hot",
+      "temperature_kelvin": 389.669718032219,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-36-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 36,
+      "device": "cold",
+      "temperature_kelvin": 300.330281967781,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.185185185185187,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 25.74074074074074
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 25.666666666666668,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-36-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 58,
+      "device": "hot",
+      "temperature_kelvin": 382.9864362962903,
+      "display_celsius": 110,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-58-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 58,
+      "device": "cold",
+      "temperature_kelvin": 307.0135637037097,
+      "display_celsius": 34,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 155.0,
+            "d": 25.666666666666668,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-58-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 90,
+      "device": "hot",
+      "temperature_kelvin": 375.00895457938725,
+      "display_celsius": 102,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "0",
+          "decoded_active_segments": "adfbec",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 26.333333333333332
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-90-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 90,
+      "device": "cold",
+      "temperature_kelvin": 314.99104542061275,
+      "display_celsius": 42,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 155.0,
+            "d": 25.666666666666668,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 26.25925925925926,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-90-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 119,
+      "device": "hot",
+      "temperature_kelvin": 369.2365661277641,
+      "display_celsius": 96,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 27.0,
+            "g": 26.666666666666668,
+            "d": 26.666666666666668,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.88888888888889,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "6",
+          "decoded_active_segments": "agdfec",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 26.666666666666668,
+            "e": 155.0,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-119-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "true",
+      "frame": 119,
+      "device": "cold",
+      "temperature_kelvin": 320.7634338722359,
+      "display_celsius": 48,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.14814814814815,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 155.0,
+            "d": 25.666666666666668,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "8",
+          "decoded_active_segments": "agdfbec",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "true/video.mp4",
+      "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-true-119-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "hot",
+      "temperature_kelvin": 390.0,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-0-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "device": "cold",
+      "temperature_kelvin": 300.0,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 25.666666666666668,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 25.666666666666668,
+            "d": 25.666666666666668,
+            "f": 25.666666666666668,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-0-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 36,
+      "device": "hot",
+      "temperature_kelvin": 390.3327240288247,
+      "display_celsius": 117,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-36-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 36,
+      "device": "cold",
+      "temperature_kelvin": 299.6672759711753,
+      "display_celsius": 27,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.185185185185187,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 25.74074074074074
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "7",
+          "decoded_active_segments": "abc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 25.666666666666668,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-36-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 58,
+      "device": "hot",
+      "temperature_kelvin": 398.30850159791794,
+      "display_celsius": 125,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 26.666666666666668,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-58-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 58,
+      "device": "cold",
+      "temperature_kelvin": 291.69149840208206,
+      "display_celsius": 19,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-58-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "hot",
+      "temperature_kelvin": 412.4798582084211,
+      "display_celsius": 139,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "3",
+          "decoded_active_segments": "agdbc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "9",
+          "decoded_active_segments": "agdfbc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-90-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "device": "cold",
+      "temperature_kelvin": 277.5201417915789,
+      "display_celsius": 4,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 26.333333333333332,
+            "e": 26.25925925925926,
+            "c": 25.666666666666668
+          }
+        },
+        {
+          "expected_character": "4",
+          "decoded_active_segments": "gfbc",
+          "sample_means": {
+            "a": 26.333333333333332,
+            "g": 155.0,
+            "d": 25.666666666666668,
+            "f": 155.0,
+            "b": 155.0,
+            "e": 25.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-90-cold-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "hot",
+      "temperature_kelvin": 428.5514399740098,
+      "display_celsius": 155,
+      "decoded_segments": [
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 27.0,
+            "g": 26.666666666666668,
+            "d": 26.666666666666668,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 26.666666666666668
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.88888888888889,
+            "g": 26.666666666666668,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 155.0,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "5",
+          "decoded_active_segments": "agdfc",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 155.0,
+            "b": 26.666666666666668,
+            "e": 26.666666666666668,
+            "c": 155.0
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-119-hot-native.png"
+    },
+    {
+      "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+      "case_id": "thermal_contact_reverse_heat_flow_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "device": "cold",
+      "temperature_kelvin": 261.4485600259902,
+      "display_celsius": -12,
+      "decoded_segments": [
+        {
+          "expected_character": "-",
+          "decoded_active_segments": "g",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 155.0,
+            "d": 26.333333333333332,
+            "f": 26.666666666666668,
+            "b": 26.666666666666668,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": " ",
+          "decoded_active_segments": "",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 26.14814814814815,
+            "f": 26.666666666666668,
+            "b": 26.333333333333332,
+            "e": 26.333333333333332,
+            "c": 26.333333333333332
+          }
+        },
+        {
+          "expected_character": "1",
+          "decoded_active_segments": "bc",
+          "sample_means": {
+            "a": 26.666666666666668,
+            "g": 26.333333333333332,
+            "d": 25.666666666666668,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 26.333333333333332,
+            "c": 155.0
+          }
+        },
+        {
+          "expected_character": "2",
+          "decoded_active_segments": "agdbe",
+          "sample_means": {
+            "a": 155.0,
+            "g": 155.0,
+            "d": 155.0,
+            "f": 26.333333333333332,
+            "b": 155.0,
+            "e": 155.0,
+            "c": 25.666666666666668
+          }
+        }
+      ],
+      "source": "counterfactual_negative_contact_conductance/video.mp4",
+      "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+      "native_crop": "thermal_contact_reverse_heat_flow/98-counterfactual-119-cold-native.png"
+    }
+  ]
+}

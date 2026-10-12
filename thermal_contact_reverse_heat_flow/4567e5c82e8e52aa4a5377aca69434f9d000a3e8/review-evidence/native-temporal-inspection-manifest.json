@@ -1,0 +1,362 @@
+[
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+    "frame": 62,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/true-62-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+    "frame": 63,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/true-63-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "4066aa2d10b3bd60e73a8f56fe52ab7d4adc8d1225b42e9b04ae6134bc598ee2",
+    "frame": 64,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/true-64-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+    "frame": 62,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/counterfactual-62-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+    "frame": 63,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/counterfactual-63-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "c1f156b8d13ca7d4709030536e91b8d3642f09e5358e2d4e6e2a80b7c92b3f6b",
+    "frame": 64,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/counterfactual-64-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "3d8bf81478c611139509ab15fe38abf03e65398de86732085e23ed5af64f5a1d",
+    "frame": 62,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/mask-62-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "3d8bf81478c611139509ab15fe38abf03e65398de86732085e23ed5af64f5a1d",
+    "frame": 63,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/mask-63-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "3d8bf81478c611139509ab15fe38abf03e65398de86732085e23ed5af64f5a1d",
+    "frame": 64,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/mask-64-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "d47b16f1be451f61860871682c90a194f58d85d0dab9dbb811f255b9f7ec11d2",
+    "frame": 62,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/overlay-62-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "d47b16f1be451f61860871682c90a194f58d85d0dab9dbb811f255b9f7ec11d2",
+    "frame": 63,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/overlay-63-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000042",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "d47b16f1be451f61860871682c90a194f58d85d0dab9dbb811f255b9f7ec11d2",
+    "frame": 64,
+    "crop": [
+      652,
+      877,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000042/overlay-64-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+    "frame": 57,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/true-57-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+    "frame": 58,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/true-58-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "6ec8dc3009e5c03ae7fc2a3c802d7d71b19a31d81ccc4c2c5be59251df59eb8b",
+    "frame": 59,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/true-59-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+    "frame": 57,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/counterfactual-57-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+    "frame": 58,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/counterfactual-58-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/video.mp4",
+    "source_sha256": "fb57b4c6085e1d701d6344d9a80e9b150735816393779acb0e7a38d05eda2664",
+    "frame": 59,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/counterfactual-59-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "18f031cf8ad51ec18e3daa9e416787868ad7abb4db6b292039872337579fc99c",
+    "frame": 57,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/mask-57-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "18f031cf8ad51ec18e3daa9e416787868ad7abb4db6b292039872337579fc99c",
+    "frame": 58,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/mask-58-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask.mp4",
+    "source_sha256": "18f031cf8ad51ec18e3daa9e416787868ad7abb4db6b292039872337579fc99c",
+    "frame": 59,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/mask-59-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "2c0eab14b11155cf56c4910bd19359310d8961da1c3358bb6619bc83b93e5ce8",
+    "frame": 57,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/overlay-57-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "2c0eab14b11155cf56c4910bd19359310d8961da1c3358bb6619bc83b93e5ce8",
+    "frame": 58,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/overlay-58-native-crop.png"
+  },
+  {
+    "generator": "thermal_contact_reverse_heat_flow",
+    "head_sha": "4567e5c82e8e52aa4a5377aca69434f9d000a3e8",
+    "case_id": "thermal_contact_reverse_heat_flow_00000098",
+    "source": "counterfactual_negative_contact_conductance/mask_overlay.mp4",
+    "source_sha256": "2c0eab14b11155cf56c4910bd19359310d8961da1c3358bb6619bc83b93e5ce8",
+    "frame": 59,
+    "crop": [
+      694,
+      861,
+      256,
+      256
+    ],
+    "inspection_png": "thermal_contact_reverse_heat_flow/thermal_contact_reverse_heat_flow_00000098/overlay-59-native-crop.png"
+  }
+]
