@@ -1,0 +1,8 @@
+{
+  "generator_name": "overdamped_spring_spurious_oscillation",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/652",
+  "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+  "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343/index.html",
+  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
+  "self_check_complete": true
+}

@@ -1,3 +1,5 @@
+> SUPERSEDED: bottom contact flicker. [Current fixed review](https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343/index.html). Historical evidence only; no Sara submission.
+
 # PR 652 generator review
 
 **Decision:** PASS

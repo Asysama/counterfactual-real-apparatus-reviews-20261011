@@ -7,8 +7,8 @@
       "sha256": "2a81bd3533370ff7e8f2a1bebeccb672278eddc8164ed091946da2a4065300df"
     },
     "application.json": {
-      "bytes": 707,
-      "sha256": "de96133318d6635a6c039fea2dd22e303816152455c0c81f7549186dd8408afd"
+      "bytes": 605,
+      "sha256": "4875ee4b2f2039f649bd5c8805c7ecfb5d34aca5318326f39944247795ea8048"
     },
     "expected-case-ids.json": {
       "bytes": 109,
@@ -18,9 +18,13 @@
       "bytes": 4829,
       "sha256": "8769237cc3c8a0fd2a4598802d3fe8eaf8ed5dd5d1e355f4aad99d6a86be68db"
     },
+    "historical-application-before-contact-fix.json": {
+      "bytes": 707,
+      "sha256": "de96133318d6635a6c039fea2dd22e303816152455c0c81f7549186dd8408afd"
+    },
     "index.html": {
-      "bytes": 16466,
-      "sha256": "6c5d2b50f5bb2e63b12981b2abfd4c7aea888a243055c25044d43e7660d6a38e"
+      "bytes": 16760,
+      "sha256": "a859c73215e93bcfed3021bf45da7378c642cb7492b68f6b7bd55ba8f83e6d48"
     },
     "overdamped_spring_spurious_oscillation_00000042/browser-derivatives.json": {
       "bytes": 685,
@@ -691,12 +695,12 @@
       "sha256": "1adfd9274749f43047c8564d7a809360897fcba70a0a424cfbc8bdf577fac41c"
     },
     "review.json": {
-      "bytes": 617,
-      "sha256": "7ff10ab2b8ac39d241a18a4da033ebd11fc82c7df20a67ef4a459a564f1eefad"
+      "bytes": 886,
+      "sha256": "d2e5c76cce4c6cd689042f3826d31df51c0644c25f47ac368ee9b1a49f103fdc"
     },
     "review.md": {
-      "bytes": 15466,
-      "sha256": "ae2f095016f2eac5abbb12a52ea9fa12424f3eb1990f89522d96a935f815fe14"
+      "bytes": 15740,
+      "sha256": "8896b89ef6e1ad12fc13a665cb766a6d84d62acc06d8c694160a074e32676989"
     },
     "runtime-witness-index.json": {
       "bytes": 1205,
@@ -764,5 +768,7 @@
       "github_asset_id": 630883665,
       "server_digest": "sha256:bddf5331a2badbc4e72733522ca1014d91f441677fe29af780973638b042f639"
     }
-  }
+  },
+  "status": "SUPERSEDED",
+  "current_review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343/index.html"
 }

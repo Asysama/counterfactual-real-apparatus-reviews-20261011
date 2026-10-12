@@ -1,7 +1,7 @@
 {
   "scale_readiness": "PASS",
   "formal_rendered_count": 2,
-  "decision": "PASS",
+  "decision": "SUPERSEDED",
   "generator_correctness": "PASS",
   "scale_target": 100000,
   "scale_static_accepted": 100000,
@@ -15,5 +15,7 @@
   "head_sha": "c0e5c2b71b4c4a695bc916237c34d3c6928a7333",
   "accepted_cases": 2,
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/c0e5c2b71b4c4a695bc916237c34d3c6928a7333/index.html",
-  "self_check_complete": true
+  "self_check_complete": false,
+  "current_review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343/index.html",
+  "superseded_reason": "Bottom contact flicker fixed in current head"
 }

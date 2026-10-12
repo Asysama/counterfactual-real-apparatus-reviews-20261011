@@ -3,6 +3,6 @@
   "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/652",
   "head_sha": "c0e5c2b71b4c4a695bc916237c34d3c6928a7333",
   "review_url": "https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/c0e5c2b71b4c4a695bc916237c34d3c6928a7333/index.html",
-  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
-  "self_check_complete": true
+  "note": "SUPERSEDED: user observed bottom contact flicker; current fixed contact version is e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343. Historical media retained; do not submit this old packet.",
+  "self_check_complete": false
 }

@@ -1,0 +1,40 @@
+{
+  "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+  "method": "Manual native decoded inspection: both-seed True/CF start, intervention, evidence and completion; three rendered primary axes; evidence +/-1 native RGB/mask/overlay crops; 16 consecutive contact frames 50\u201365 for each seed and branch. Actual browser inspection is separate.",
+  "observations": "Integral shoes stay attached under the carriage and visibly supported on flat rails. Consecutive inspected contact edges show no alternating contact-surface flash; flange/bed junction stays coherent. True monotonically relaxes; CF crosses equilibrium repeatedly. Native masks include visible carriage and its shoes, exclude rails, spring, damper, release hardware and bed. Red overlay respects target and occlusion.",
+  "files": [
+    {
+      "path": "spring-inspection-final/overdamped_spring_spurious_oscillation-both-seeds.jpg",
+      "sha256": "57e66c23395a7117b73fc9486edcab403685307d54a1d921c6b33301a972311f"
+    },
+    {
+      "path": "backups/spring-scale-inspection/overdamped_spring_spurious_oscillation.jpg",
+      "sha256": "3ac1486e7e598c2cf4198bef83bc2bdc0906afe7c5bce05152d6c5dbe2130dc8"
+    },
+    {
+      "path": "backups/spring-edge-inspection/overdamped_spring_spurious_oscillation/overdamped_spring_spurious_oscillation_00000042/native-temporal-crops.png",
+      "sha256": "9fb82d3836e4935c3a3c9f47e32e4c9d22858b977a5bfdfca2624427055225ea"
+    },
+    {
+      "path": "backups/spring-edge-inspection/overdamped_spring_spurious_oscillation/overdamped_spring_spurious_oscillation_00000098/native-temporal-crops.png",
+      "sha256": "62dd666c54047bef7b3f80053033e73d4204a3c73549a1893fe58669d8182010"
+    },
+    {
+      "path": "spring-inspection-final/42-counterfactual-continuous-contact.jpg",
+      "sha256": "9eb48c5bbdab2528dc41820f791c14e622f9e465bbf72ff6a03332b1a66def95"
+    },
+    {
+      "path": "spring-inspection-final/42-true-continuous-contact.jpg",
+      "sha256": "6b9d368a1074c0b2174c543033aa1bb8dda6961b69d670211ee6444b68de086d"
+    },
+    {
+      "path": "spring-inspection-final/98-counterfactual-continuous-contact.jpg",
+      "sha256": "9a25c89fedbd4481fa15f88f9b17a82b3ffae899501d47f28abe9779831dafb3"
+    },
+    {
+      "path": "spring-inspection-final/98-true-continuous-contact.jpg",
+      "sha256": "ba5ba6cc8cec5509f4f694997c9410e1ece6f73ce0e39618c5b4c1c3d9c4e067"
+    }
+  ],
+  "pass": true
+}

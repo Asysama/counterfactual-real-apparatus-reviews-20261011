@@ -1,0 +1,113 @@
+{
+  "head_sha": "e8b8d0c2576ffd79eb1608ccc7dfd0b563c64343",
+  "pass": true,
+  "browser": "User Chrome, selected browser 1",
+  "method": "Actual UI play-all twice to completion, evidence/last/start buttons; read-only DOM receipts and screenshots of all four rows, both seeds.",
+  "visual_inspection": "Coherent scene colors and supported contact edges in inspected browser frames. White target on black mask; red target-only overlays. No blank/channel corruption or decode errors. Native consecutive contact edges separately inspected.",
+  "streams": [
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000042-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000042-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000042-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000042-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.625,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000098-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.791666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000098-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.791666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000098-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.791666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    },
+    {
+      "id": "overdamped_spring_spurious_oscillation_00000098-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "readyState": 4,
+      "error": null,
+      "evidence_seek_time": 1.791666,
+      "last_seek_time": 4.958333,
+      "start_seek_time": 0
+    }
+  ]
+}
